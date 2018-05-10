@@ -1,0 +1,749 @@
+# Zbigniew Strzelczyk <zstrzelczyk@gazeta.pl>
+1 Selected
+2 Wybrane
+1 Abort
+2 Przerwij
+1 About DSpeech
+2 O programie
+1 Accessibility options
+2 Opcje dostêpnoœci 
+1 Verbose mode
+2 Tryb rozwlek³y
+1 Add initial and final silence
+2 Wstaw ciszê na pocz¹tku i na koñcu
+1 Always save audio with max volume
+2 Audio zawsze zapisuj z max g³oœnoœci¹
+1 Append...
+2 Do³¹cz...
+1 as
+2 jak
+1 Audio Book creation
+2 Tworzenie audio ksi¹¿ek
+1 Audio format
+2 Format audio
+1 Audio Output
+2 Wyjœcie audio
+1 Balanced
+2 Optymalna wielkoœæ i jakoœæ
+1 Break (Split output file here)
+2 Ciêcie (Tu podziel plik wyjœciowy)
+1 Breath
+2 Oddech
+1 but if the text is very long, it can employ some minutes to accomplish. continue?
+2 jeœli tekst jest bardzo d³ugi, mo¿e to trwaæ kilka minut. Kontynuowaæ?
+1 Call routine sample
+2 Szablon odpowiedzi na polecenie
+1 Catalan
+2 Kataloñski
+1 Clipboard Contents
+2 Zawartoœæ schowka 
+1 Close
+2 Zamknij
+1 Close DSpeech
+2 Zamknij DSpeech
+1 Configure voices independently
+2 Konfiguruj g³osy oddzielnie
+1 Copy
+2 Kopiuj
+1 Copy	CTRL+C
+2 Kopiuj	Ctrl + C
+1 Cough
+2 Kaszel
+1 Speak Current Line 
+2 Czytaj aktualny wiersz
+1 custom TAG
+2 Ostosuk TAG
+1 Cut
+2 Wytnij
+1 Cut	CTRL+X
+2 Wytnij	CTRL+X
+1 Delete 
+2 Usuñ
+1 Delete	CANC
+2 Usuñ	Del
+1 Edit
+2 Edycja
+1 Emphasize
+2 Uwydatnij dŸwiêk
+1 Enable TAB key on text box
+2 W³¹cz klawisz TAB w oknie z tekstem
+1 Encoding To Mp3...
+2 Kodowanie do Mp3...
+1 greek
+2 Grecki
+1 English (default)
+2 Angielski (domyœlny)
+1 English (GB)
+2 Angielski (Wielka Brytania)
+1 English (USA)
+2 Angielski (USA)
+1 Exit
+2 Wyjœcie
+1 File
+2 Plik
+1 Find	CTRL+F
+2 ZnajdŸ	Ctrl + F
+1 Find
+2 ZnajdŸ
+1 Fi&nd what:
+2 ZnajdŸ:
+1 &Find Next
+2 ZnajdŸ nastêpny
+1 Match &case
+2 Uwzglêdnij wielkoœæ liter
+1 Font Select
+2 Wybierz czcionki
+1 Font Select
+2 Wybierz czcionki
+1 Font Size
+2 Rozmiar czcionki
+1 French
+2 Francuski
+1 from here
+2 st¹d
+1 Go to edit box
+2 PrzejdŸ do okna z tekstem
+1 Help
+2 Pomoc
+1 Insert
+2 Wstaw
+1 Insert KEYWORD
+2 Wpisz polecenie
+1 Insert custom TAG
+2 Wstaw swój TAG
+1 Insert special TAG
+2 Wstaw specjalny TAG
+1 KEYWORD
+2 Polecenie
+1 Laugh
+2 Œmiech
+1 Load last opened file at startup
+2 Przy starcie pobierz ostatnio otwierany plik 
+1 New	Ctrl+W
+2 Nowy	Ctrl+W 
+1 Speak Next Line
+2 Czytaj nastêpny wiersz
+1 No split
+2 Nie dziel
+1 5.000 Characters (ca 5 minutes)
+2 5000 znaków (ok. 5 minut)
+1 10.000 Characters (ca 10 minutes)
+2 10.000 znaków  (ok. 10 minut)
+1 20.000 Characters (ca 20 minutes)
+2 20.000 znaków  (ok. 20 minut)
+1 30.000 Characters (ca 30 minutes)
+2 30.000 znaków  (ok. 30 minut)
+1 Fully custom (use BREAK keyword only)
+2 Zdefiniowane przez u¿ytkownika (u¿yj tylko s³owa BREAK)
+1 On voice select speak country too
+2 Po wybraniu g³osu nazywij kraj
+1 Open...	Ctrl+O
+2 Otwórz...	Ctrl + O
+1 Open URL...	Ctrl+U
+2 Otwórz URL ...	Ctrl + U
+1 Open Recent
+2 Ostatnio otwierane
+1 Open URL
+2 Otwórz URL
+1 Type Url you want open...
+2 Wpisz URL, który chcesz otworzyæ:
+1 Open
+2 Otwórz
+1 Optimize Quality
+2 Optymalizuj jakoœæ
+1 Optimize Size
+2 Optymalizuj wielkoœæ
+1 Options
+2 Opcje
+1 Options
+2 Opcje
+1 or
+2 lub
+1 Other Countries
+2 Inne kraje
+1 Paste
+2 Wklej
+1 Paste	CTRL+V
+2 Wklej	CTRL+V
+1 Pause
+2 Przerwa
+1 Pause
+2 Przerwa
+1 Pitch
+2 Wysokoœæ tonu
+1 Pitch
+2 Wysokoœæ tonu
+1 Pitch (-10 to 10)
+2 Wysokoœæ tonu (-10 do 10)
+1 Polish
+2 Polski
+1 Play wav or mp3 file...
+2 Odtwórz plik WAV lub MP3...
+1 Speak Current Line
+2 Czytaj aktualny wiersz
+1 Speak Previous Line 
+2 Czytaj poprzedni wiersz
+1 Random sentencies sample
+2 Próbki losowe zdañ
+1 Recognition sample
+2 Rozpoznanie próbki
+1 Recognition with timeout sample
+2 Rozpoznawanie z próbki z up³ywem czasu
+1 Remove Useless CrLfs
+2 Usuñ zbêdne CrLfs
+1 Remove Useless Return Carriage...
+2 Usuñ zbêdny powrót karetki...
+1 Replace	CTRL+R 
+2 Zamieñ 	CTRL+R 
+1 Replace
+2 Zamieñ
+1 Re&place with:
+2 Zamieñ na:
+1 Replace &All
+2 Zamieñ wszystko
+1 Run file...
+2 Otwórz plik...
+1 Run with idle priority
+2 Uruchom z niskim priorytetem
+1 Auto Bookmarks
+2 Automatyczne zak³adki
+1 Auto load last opened file at startup
+2 Przy uruchomieniu pobierz ostatnio otwarty plik 
+1 Save text file as...	Ctrl+S
+2 Zapisz jako plik tekstowy jako...	Ctrl + S
+1 Save settings on exit
+2 Zapisz ustawienia przy wyjœciu
+1 Save text file
+2 Zapisz jako plik tekstowy
+1 Save wav, mp3 or ogg as...	Ctrl+Shift+S
+2 Zapisz wav, mp3 lub ogg jako...	Ctrl+Shift+S
+1 Saving to file
+2 Zapisz do pliku...
+1 Select all
+2 Wybierz wszystko
+1 Select All	CTRL+A
+2 Wybierz wszystko	CTRL+A
+1 Select mp3 compression
+2 Wybierz kompresjê Mp3
+1 Select SAPI interface 
+2 Wybierz interfejs SAPI
+1 Shortcut List
+2 Skróty klawiszowe
+1 Show Character
+2 Poka¿ postaæ
+1 &Internet Links
+2 Linki internetowe
+1 Address:
+2 Adres:
+1 Go
+2 PrzejdŸ
+1 Add
+2 Dodaj
+1 Auto Re&load
+2 Automat. ponowne uruchomienie
+1 Show Tracking
+2 Poka¿ œledzenie czytanie
+1 Silence
+2 Cisza
+1 Smack
+2 Poca³unek
+1 Spanish (Argentine)
+2 Hiszpañski (Argentyna)
+1 Spanish (Chile)
+2 Hiszpañski (Chile)
+1 Spanish (Mexico)
+2 Hiszpañski (Meksyk)
+1 Spanish (Spain)
+2 Hiszpañski (Hiszpania)
+1 German
+2 Niemiecki
+1 Dutch
+2 Holenderski
+1 Swedish
+2 Szwedzki
+1 Speak
+2 Czytaj
+1 Speak
+2 Czytaj
+1 Speak from here
+2 Czytaj odt¹d
+1 Speak Clipboard Contents
+2 Czytaj ze schowka
+1 Speak From Cursor
+2 Czytaj od kursora
+1 Speak txt file...
+2 Czytaj plik txt...
+1 Speak selected
+2 Czytaj wybrane
+1 Speak-Stop
+2 Czytaj-nie czyaj
+1 special TAG
+2 Specjalny TAG
+1 Speed
+2 Szybkoœæ
+1 Speed (-10 to 10)
+2 Szybkoœæ ( -10 do 10)
+1 Spell
+2 Czytaj po literze
+1 Split wav and mp3 files
+2 Podziel pliki wav i mp3
+1 Stop
+2 Stop
+1 Stop speak
+2 Zatrzymaj czytanie 
+1 Support With Donation...
+2 Wsparcie darowizn¹...
+1 Swallow
+2 Jaskó³ka
+1 Switch to next voice
+2 Prze³¹cz na nastêpny g³os
+1 Switch to previous voice
+2 Prze³¹cz na poprzedni g³os
+1 This command removes all useless return carriage from text
+2 To polecenie usuwa wszystkie niepotrzebne powroty karetki w tekscie
+1 Throat
+2 Gard³o
+1 to
+2 do
+1 txt file
+2 plik tekstowy
+1 Use SAPI4 Voices
+2 U¿yj g³osów SAPI4
+1 Use SAPI5 Voices
+2 U¿yj g³osów SAPI5
+1 Voice
+2 G³os
+1 Voice Select
+2 Wybierz g³os
+1 Volume
+2 G³oœnoœæ
+1 Volume (0 to 100)
+2 G³oœnoœæ ( 0 do 100)
+1 Wait
+2 Czekaj
+1 Wait (1 to 10)
+2 Czekaj ( 1 do 10)
+1 When finish shutdown PC
+2 Po zakoñczeniu wy³¹cz komputer
+1 When press Enter, read the line
+2 Po nacisku na Enter, czytaj wiersz
+1 Word Wrap
+2 Zawijaj wiersze
+1 Shortcut List
+2 Skróty klawiszowe
+1 Language selection
+2 Wybierz jêzyk
+1 Save audio file as...	Ctrl+S
+2 Zapisz plik audio jako...	Ctrl+S
+1 Save text file as
+2 Zapisz plik tekstowy jako
+1 Save text file as...
+2 Zapisz plik tekstowy jako...
+1 Open file...
+2 Otwórz plik
+1 Converting To Wav...
+2 Konwertowanie do WAV...
+1 Auto-remove inappropriate return carriages
+2 Automatyczne usuwanie zbêdnych powrotów karetki
+1 Auto-remove inappropriate return carriages (hard)
+2 Automatyczne usuwanie zbêdnych powrotów karetki (Wzmocnione)
+1 Remove Inappropriate Return Carriages... 
+2 Usuwanie zbêdnych powrotów karetki...
+1 Remove inappropriate return carriages (hard)...
+2 Usuwanie zbêdnych powrotów karetki (Wzmocnione)...
+1 already exists.
+2 ju¿ istnieje.
+Do you want to replace it?
+Chcesz go zamieniæ?
+1 You need to restart for apply this changes. Restart now? 
+2 By zastosowaæ te zmiany nale¿y ponownie uruchomiæ program. Uruchomiæ ponownie teraz?
+1 This command removes all useless return carriage from text, but if the text is very long, it can employ some minutes to accomplish, continue? 
+2 To polecenie usuwa wszystkie niepotrzebne powroty karetki z tekstu, gdy tekst jest bardzo d³ugi, mo¿e to trwaæ kilka minut, kontynuowaæ?
+1 DSpeech requires at least 1024x768 resolution screen. 
+2 DSpeech wymaga ekranu o rozdzielczoœci co najmniej 1024x768 pikseli.
+1 DSpeech Remove Useless CrLfs
+2 DSpeech usuwa zbêdne powroty karetki
+1 Explorer integration...
+2 Integracja z Explorerem...
+1 DSpeech Shell Extensions
+2 DSpeech w menu kontekstowym
+1 Context Menu Extensions
+2 Rozszerzenia menu kontekstowego
+1 DSpeech Open
+2 Otwórz DSpeech
+1 DSpeech Speak Aloud
+2 Czytaj g³oœno z DSpeech
+1 DSpeech Convert To Wav
+2 DSpeech Konwertuje do Wav
+1 DSpeech Convert To MP3
+2 DSpeech Konwertuje do MP3
+1 Cancel
+2 Anuluj
+1 Convert To Mp3 With DSpeech
+2 Konwersja do MP3 z DSpeech
+1 Open With DSpeech
+2 Otwórz z DSpeech
+1 Speak With DSpeech
+2 Czytaj z DSpeech
+1 Convert To Wav With DSpeech
+2 Konwersja do WAV z DSpeech
+1 Total Progress
+2 Ogó³em przetworzono
+1 Conversion Progress
+2Postêp konwersji
+1 F1 = Go to edit box.
+F4 = Pause-Resume.
+F5 = Speak-Stop.
+F6 or ALT+UP = Speak Previous Line.
+F7 or ALT+LEFT = Speak Current Line.
+F8 or ALT+DOWN = Speak Next Line.
+F9 or ALT+RIGHT = Speak From Cursor.
+F11 = Switch to previous voice.
+F12 = Switch to next voice.
+F11+SHIFT = Switch to first voice.
+F12+SHIFT = Switch to last voice.
+ESC = Stop.
+
+ALT+1 = Decrease volume.
+ALT+2 = Increase volume.
+ALT+3 = Decrease speed.
+ALT+4 = Increase speed.
+ALT+5 = Decrease pitch.
+ALT+6 = Increase pitch.
+2 F1 = PrzejdŸ do okna edycji
+F4 = Pauza/wznowienie
+F5 = Czytaj/Nie czytaj
+F6 lub ALT+UP = Czytaj poprzedni wiersz.
+F7 lub ALT+LEFT = Czytaj aktualny wiersz.
+F8 lub ALT+DOWN = Czytaj nastêpny wiersz.
+F9 lub ALT+RIGHT = Czytaj od kursora.
+F11 = Prze³¹cz na poprzedni g³os.
+F12 = Prze³¹cz na nastêpny g³os.
+F11+SHIFT = Prze³¹cz na pierwszy g³os.
+F12+SHIFT = Prze³¹cz na ostatni g³os.
+Esc = Stop
+
+ALT+1 = Zmniejszyæ g³oœnoœæ
+ALT+2 = Zwiêksz g³oœnoœæ
+ALT+3 = Zmniejsz szybkoœæ
+ALT+4 = Zwiêksz szybkoœæ
+ALT+5 = Obni¿ ton
+ALT+6 = Podwy¿sz ton
+1 The text has changed, do you want to exit?
+2 Tekst zosta³ zmieniony. Wyjœæ bez zapisywania?
+1 Open sound file
+2 Otwórz plik dŸwiêkowy
+1 Customize voice in quoted texts...
+2 Dostosuj g³os w cytowanych tekstach
+1 Voice for quoted texts
+2 G³os dla tekstów cytatów
+1 use different voice for Quoted Text
+2 U¿yj innego g³osu dla tekstu cytatu
+1 Speak volume number first 
+2 Na pocz¹tku czytania ustal g³oœnoœæ 
+1 Auto select voice-specific audio format 
+2 Automatyczny wybór formatu audio zgodnie z g³osem
+1 Get Clipboard
+2 Pobierz ze schowka
+1 Start Recording
+2 Uruchom nagrywanie
+1 Enable AI reply when press Enter
+2 Nacisk na Enter w³¹cza odpowiedŸ postaci
+1 Set ASR options...
+2 Ustaw opcje rozpoznawania mowy...
+1 Select AI personality
+2 Wybierz postaæ
+1 Stop Recording
+2 Zatrzymaj nagrywanie
+1 Play Recorded
+2 Odtwórz nagrane
+1 Insert recorded
+2 Wstaw nagrane
+1 Start record
+2 Uruchom nagrywanie
+1 Stop Play
+2 Zatrzymaj odtwarzanie
+1 Select Default Conversion Table
+2 Wybierz domyœln¹ tabelê konwersji
+1 Dos to Windows
+2 Dos do Windows
+1 Apply Conversion Table...
+2 Zastosuj tabelê konwersji...
+1 Apply Default Conversion Table
+2 Zastosuj domyœln¹ tabelê konwersji...
+1 All supported formats (*.txt *.doc *.rtf *.html *.pdf)
+2 Wszystkie obs³ugiwane formaty (*.txt *.doc *.rtf *.html *.pdf)
+1 DSpeech - Error 
+2 DSpeech - B³¹d
+1 If you want to open DOC files you must first install MS Word 
+2 Gdy chcesz otworzyæ pliki DOC, musisz najpierw zainstalowaæ MS Word
+1 Remove Inappropriate Return Carriages
+2 Usuñ niepotrzebny powrót karetki
+1 Remove Inappropriate Return Carriages (Hard) 
+2 Usuñ niepotrzebny powrót karetki (Ciê¿ko)
+1 Batch conversion...
+2 Konwersja wsadowa...
+1 Batch conversions accomplished. 
+2 Pliki pomyœlnie przekonwertowano.
+1 Auto-Apply Default Conversion Table
+2 Automatycznie zastosuj tabelê konwersji
+1 Record from microphone
+2 Nagraj z mikrofonu
+1 Commands
+2 Polecenia
+1 Extended Commands
+2 Rozszerzone polecenia
+1 Start ASR
+2 Start rozpoznania mowy
+1 TAGs validity for current line only 
+2 TAGi s¹ wa¿ne tylko dla aktualnego wiersza
+1 Speak volume title and volume number
+2 Czytaj numer i tytu³ ka¿dej czêœci
+1 Opcje dzielenia
+2 Aufteilen
+1 Speak volume number and volume title 
+2 Czytaj numer i tytu³ ka¿dej czêœci
+1 Audio Book options...
+2 Opcje audio ksi¹¿ek...
+1 Enable Hotkeys
+2 W³¹cz skróty klawiszowe
+1 Italian
+2 W³oski
+1 Russian
+2 Rosyjski
+1 Japanese
+2 Japoñski
+1 Korean
+2 Koreañski
+1 Ukrainian
+2 Ukraiñski
+1 Vietnamese
+2 Wietnamski
+1 5 Min
+2 5 Min
+1 10 Min
+2 10 Min
+1 20 Min
+2 20 Min
+1 30 Min
+2 30 Min
+1 Open Conversion Table...
+2 Otwórz tabelê konwersji
+1 Save audio file as...
+2 Zapisz jako plik audio jako...
+1 Audio Books Options
+2 Opcje audio ksi¹¿ek
+1 Title and number
+2 Tytu³ i numer
+1 Remove return carriages
+2 Usuñ powrót karetki
+1 OK
+2 OK
+1 DSpeech About
+2 O programie
+1 Support with a Donation
+2 Pomó¿ dotacj¹
+1 DSpeech Shell Extensions
+2 DSpeech Rozszerzenia pow³oki
+1 This software is and will always remain free.
+If you are satisfied with them and want to help me to improve or motivate the development of other quality programs, any amount of donation small or large will be welcome and gratefully appreciated.
+
+Dimitrios Coutsoumbas (Dimio)
+2 Program ten by³, jest i zawsze bêdzie bezp³atny. Jeœli podoba ci siê, i chcesz pomóc mi udoskonaliæ go, a tak¿e motywowaæ do tworzenia innych wysokiej jakoœci programów, ka¿da kwota darowizny ma³a, czy du¿a, jest mile widziana i doceniana z wdziêcznoœci¹.
+
+Dimitrios Coutsoumbas (Dimio)
+1 Speak-Stop (F5)
+2 Cztyaj - nie czytaj (F5)
+1 Pause-Resume (F4)
+2 Przerwa-Wznowienie (F4)
+1 Speak from cursor (F9)
+2 Czytaj od kursora (F9)
+1 Speak previous line (F6)
+2 Czytaj poprzedni wiersz (F6)
+1 Speak current line (F7)
+2 Czytaj aktualny wiersz (F7)
+1 Speak next line (F8)
+2 Czytaj nastêpny wiersz (F8)
+1 Start Record From Microphone
+2 Uruchom nagrywanie z mikrofonu
+1 Get and speak the text that you copy on the Clipboard
+2 Pobierz i czytaj tekst, ze schowka
+1 Save and insert recorded
+2 Zapisz i wstaw nagrane
+1 Select Split Options:
+2 Wybierz opcje podzia³u:
+1 Select default conversion table:
+2 Wybierz domyœln¹ tabela konwersji
+1 Conversion table
+2 Tabela konwersji
+1 Spanish (Colombia)
+2 Hiszpañski (Kolumbia)
+1 Selena
+2 Selena
+1 e-mail:
+2 Email:	
+1 home page:
+2 Strona programu:
+1 Open Recent...        Ctrl+R
+2 Ostatnio otwierane...        Ctrl+R
+1 Revert
+2 Powróæ
+1 Interface language
+2 Jêzyk interfejsu
+1 Save selected to audio file as...
+2 Zapisz wybrany do pliku audio jako...
+1 Exit without save settings	Alt+F5
+2 WyjdŸ bez zapisywania ustawieñ  Alt+F5
+1 Exit	Alt+F4 
+2 WyjdŸ	Alt+F4
+1 Batch MP3 Conversion...
+2 Konwersja wsadowa MP3...
+1 Convert to Uppercase
+2 Konwertuj na wielkie litery
+1 Select Best Audio Format
+2 Wybierz najlepszy format audio
+1 Select Best Voice
+2 Wybierz najlepszy g³os
+1 Voice Info
+2 Informacja o g³osie
+1 Transparent Window
+2 Przezroczyste okno
+1 Show initial opening window
+2 Poka¿ pierwsze otwieraj¹ce siê okno
+1 Advanced...
+2 Zaawansowane...
+1 Advanced Options
+2 Opcje zaawansowane
+1 Audio Book...
+2 audio Ksi¹¿ka...
+1 Accessibility...
+2 Dostêpnoœæ...
+1 Select compression level
+2 Wybierz poziom kompresji
+1 Auto select audio format
+2 Automatycznie wybierz format audio
+1 DSpeech Help
+2 Pomoc DSpeech
+1 Home Page Web
+2 Strona programu w internecie
+1 Speak Fro&m Start
+2 Czytaj od pocz¹tku
+1 Speak from Start (F9)
+2 Czytaj od pocz¹tku (F9)
+1 Speak From &Previous Line
+2 Czytaj od poprzedniego wiersza
+1 Speak from previous line (F6)
+2 Czytaj od poprzedniego wiersza (F6)
+1 Speak From &Current Line
+2 Czytaj od aktualnego wiersza
+1 Speak from current line (F7)
+2 Czytaj od aktualnego wiersza (F7)
+1 Speak From &Next Line
+2 Czytaj od nastêpnego wiersza
+1 Speak from next line (F8)
+2 Czytaj od nastêpnego wiersza (F8)
+1 Always Save Audio with Max Volume (Off)
+2 Zawsze zapisuj audio z Maks. g³oœnoœci¹ (Wy³)
+1 Always Save Audio with Max Volume (On)
+2 Zawsze zapisuj audio z Maks. g³oœnoœci¹ (W³)
+1 Configure Voices indipendently (Off)
+2 Konfiguruj g³osy niezale¿nie (Wy³)
+1 Configure Voices indipendently (On)
+2 Konfiguruj g³osy niezale¿nie (W³)
+1 Confirm Changes (Off)
+2 PotwierdŸ zmiany (Wy³)
+1 Confirm Changes (On)
+2 PotwierdŸ zmiany (W³)
+1 Audio Books Mode (Off)
+2 Tryb audio ksi¹¿ek (Wy³)
+1 Audio Books Mode (On)
+2 Tryb audio ksi¹¿ek (W³)
+1 SAPI5 Voices
+2 G³osy SAPI5
+1 Custom voice in quoted text (Off) 
+2 Dostosuj g³os dla cytowanego tekstu (Wy³) 
+1 Custom voice in quoted text (On) 
+2 Dostosuj g³os dla cytowanego tekstu (W³)
+1 Append Clipboard Text (Off)
+2 Do³¹cz tekst schowka (Wy³) 
+1 Append Clipboard Text (On)
+2 Do³¹cz tekst schowka (W³)
+1 Global HotKeys Validity (Off)
+2 Wa¿noœæ globalnych skrótów klawiszowych (Wy³)
+1 Global HotKeys Validity (On)
+2 Wa¿noœæ globalnych skrótów klawiszowych (W³)
+1 Custom Volume Title (Off)
+2 Dostosuj tytu³ tomu (Wy³)
+1 Custom Volume Title (On)
+2 Dostosuj tytu³ tomu (W³)
+1 Force specific language rule (Off)
+2 Wymuœ okreœlone regu³y jêzyka (Wy³)
+1 Force specific language rule (On)
+2 Wymuœ okreœlone regu³y jêzyka (W³)
+1 Select the actually speaking word
+2 Wybierze s³owo aktualnie czytane
+1 Browse
+2 Przegl¹daj
+1 Show at start
+2 Poka¿ przy starcie
+1 Re&verse
+2 Odwróæ
+1 Find &whole word only
+2 ZnajdŸ tylko ca³e wyrazy
+1 Name
+2 Nazwa
+1 Vendor:
+2 Sprzedawca:
+1 Description:
+2 Opis:
+1 Lingua Code:
+2 Kod jêzyka:
+1 Gender:
+2 P³eæ:
+1 Native Audio Format:
+2 Macierzysty format audio:
+1 Select Language Rule
+2 Wybierz regu³ê jêzyka
+1 &Force specific language rule
+2 Wymuœ okreœlone regu³y jêzyka
+1 Select Keyword Symbol
+2 Wybierz symbol s³owa kluczowego
+1 General Options
+2 Opcje ogólne
+1 Append &Clipboard Text
+2 Do³¹cz tekst schowka
+1 Auto save settings every 15 minutes
+2 Automatyczne zapisz ustawienia co 15 minut
+1 Auto remove PDF page numbers
+2 Automatycznie usuñ numery stron PDF
+1 &Expert mode user interface
+2 Tryb zaawansowany interfejsu u¿ytkownika
+1 Show Splash Screen
+2 Poka¿ ekran powitalny
+1 Custom volume title
+2 Dostosuj tytu³ tomu
+1 Select delay between lines:
+2 Wybierz opóŸnienie miêdzy liniami: 
+1 Delay
+2 OpóŸnienie
+1 No Delay
+2 Brak opóŸnienia
+1 If it needs, apply file-type specific conversion table
+2 Gdy trzeba, zastosuj tabelê konwersji okreœlonego typu pliku
+1 Split options
+2 Opcje podzia³u
+1 DSpeech Accessibility Options
+2 DSpeech - Opcje dostêpnoœci
+1 Easy HotKeys
+2 £atwe skróty
+1 Enable global HotKeys validity
+2 W³¹cz wa¿noœæ globalnych skrótów
+1 Confirm Changes
+2 PotwierdŸ zmiany
+1 Associate free extensions (txt, rtf, html, xml, epub...) with DSpeech
+2 Skojarz wolne rozszerzenia (txt, rtf, html, xml, epub...) z DSpeech
+
+
+
+
+

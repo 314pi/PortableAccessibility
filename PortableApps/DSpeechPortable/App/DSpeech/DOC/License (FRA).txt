@@ -1,0 +1,49 @@
+PRECISIONS:
+~~~~~~~~~~~
+
+Création: Michel SAVARD, à partir du fichier Manual (ENG).txt
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Contrat de License de l'Utilisateur Final.
+
+Toutes les versions du LOGICIEL sont protégées par les lois et traités internationaux sur le droit d'auteur, ainsi que par les lois et traités sur la propriété inteclectuelle. Le logiciel est la propriété exclusive de Dimio.
+
+Le Logiciel ne peut être dupliqué, vendu, distribué ou utilisé d'une manière non décrite ici, sans l'autorisation écrite de Dimio.
+
+1. Accords de license:
+
+Ce CLUF vous accorde les droits suivants: Installation et Utilisation. Vous pouvez installer et utiliser un nombre illimité de copies du Logiciel.
+
+2. Reproduction et Distribution:
+
+Vous pouvez reproduire et distribuer un nombre illimité de copies du Logiciel à condition que chaque copie, soit une réelle et complète copie, incluant toutes informations sur les droits de reproduction et marques déposées, et soit accompagnée de ce CLUF. Le Logiciel ne doit pas être incorporé dans un Sharware, un Progiciel ou un Logiciel.
+
+3. Description des autres droits et limitations:
+
+Les imitations incluent l'interdiciton de rétro-engénirie, de décompilation, de désassemblage et d'alteration des ressources de l'ensemble.
+
+Vous ne pouvez faire de rétro-engénirie, decompiler, ou désassembler le Logiciel, seulement et seulement si cette modification est dans la limite de ce qui est autorisé par la loi, indépendamment de cette limitation.
+
+4. Transfert du Logiciel:
+
+Vous pouvez transférer définitivement tous vos droits en vertu du présent CLUF, SEULEMENT à condition que le bénéficiaire accepte tous les termes de ce CLUF.
+
+5. Résiliation:
+
+Sans préjudice des autres droits, Dimio peut mettre fin à ce CLUF si vous ne respectez pas les termes et conditions de ce CLUF. Dans un tel cas, vous devez détruire toute copie de ce Logiciel et de ses composants.
+
+6. Copyright:
+
+Sauf indication contraire explicite, tous les titres et les droits d'auteur de ce Logiciel (y compris, mais sans s'y limiter, toutes images, photographies, animations, videos, audios, musiques, textes, et microprogrammes inclus dans le Logiciel), les documents imprimés qui accompagnent, et toutes les copies numériques du Logiciel, sont propiétés de Dimio.
+
+Le Logiciel est protégé par les lois du droit d'auteur et les dispositions des traités internationaux. C'est pourquoi, vous devez traiter ce Logiciel comme tout autre matériel protégé.
+
+Le Logiciel "PDFToText" est copyright 1996-2007 Glyph & Cog, LLC.
+
+7. Garantie limitée:
+
+Aucune garantie! Dimio écarte expressément toute garantie pour le Logiciel. Le Logiciel et sa documentation sont livrés en l'état, sans garantie d'aucune sorte, explicite ou implicite, y compris mais sans limitation, les garanties de valeur marchande et d'adaptation à un usage quelconque, ou de non contre-façon. Vous reconnaissez et acceptez que l'ensemble des risques découlant de l'utilisation du Logiciel relèvent de votre responsabilité. 
+
+8. Aucune garantie pour les dommages! En aucun cas l'auteur de ce Logiciel ne sera tenu responsable de tous dommages indirects, accessoires ou particuliers (incluant, sans limitation, le perte de temps ou de travail, de perte de bénéfices commerciaux, de cessation d'activité, de perte d'informations commerciales, ou de toute perte financière) survenant à la suite de l'utilisation ou de l'incapacité d'utiliser ce logiciel, même si Dimio est averti de la possibilité de tels dommages et connait les défauts.
+
+En utilisant ce logiciel, vous acceptez TOUS les termes de cette license.

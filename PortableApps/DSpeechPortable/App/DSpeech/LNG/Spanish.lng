@@ -1,0 +1,917 @@
+#  Ricardo Abad <abatecno@yahoo.es>
+1 \_Smack
+2 \_Beso con inicio largo
+1 \_Smack_01
+2 \_Cinco besos cortos y seguidos
+1 \_Smack_02
+2 \_Beso corto y sonoro
+1 \_Smack_03
+2 \_Beso fuerte
+1 \_Throat
+2 \_Doble carraspeo corto
+1 \_Throat_01
+2 \_Tos gutural
+1 \_Throat_02
+2 \_Triple carraspeo
+1 \_Click
+2 \_Chasquido con la lengua
+
+1 \_Click_01
+2 \_Comiendo (Chasquido fuerte)
+1 \_Click_02
+2 \_Comiendo (Chasquido flojo)
+1 \_Hiccup
+2 \_Estornudo corto
+1 \_Hiccup_01
+2\_Estornudo largo
+1 \_Ah
+2 \_Sorpresa
+1 \_Ah_01
+2 \_Sorpresa con sobresalto
+1 \_Ah_02
+2 \_Sorpresa con interrogación
+1 \_Ah_03
+2 \_Exclamación larga, de entendimiento
+1 \_Ah_04
+2 \_Sorpresa larga
+1 \_Oh
+2 \_Admiración larga
+1 \_Oh_01
+2 \_admiración corta
+1 \_Breath
+2 \Inspiración profunda para relajación
+1 \_Breath_01
+2 \Inspiración y resoplido de desesperación
+1 \_Breath_02
+2 \_Inhalar y exhalar soplando
+1 \_Breath_03
+2 \_Inhalación y exhalación de alivio
+1 \_Breath_04
+2 \_inhalar y exhalar soplando más fuerte
+1 \_Cry
+2 \_Llanto
+1 \_Cry_01
+2 \_Llanto corto, con pena
+1 \_Cry_02
+2 \_Llanto con resignación
+1 \_Cry_03
+2 \_Llanto desesperado
+1 \_Laugh
+2 \_Carcajada floja
+1 \_Laugh_01
+2 \_Carcajada fuerte
+1 \_Laugh_02
+2 \_Carcajada fuerte con pequeña tos inicial
+1 \_Laugh_03
+2 \_Carcajada floja 2
+1 \_Laugh_04
+2 \_Sonrisa con risa corta
+1 \_Cough
+2 \Tos doble
+1 \_Cough_01
+2 \_Tos triple
+1 \_Cough_02
+2 \_Tos doble y forzada
+1 \_Cough_03
+2 \_Tos con carraspeo
+1 \_Swallow
+2 \Tragar _Doble, flojo
+1 \_Swallow_01
+2 \Tragar fuerte
+
+1 DSpeech (By Dimio) - Untitled
+2 DSpeech (By Dimio) - Sin título
+1 Find
+2 Buscar.
+1 Find what:
+2 Escriba Texto:
+1 Reverse
+2 Ir hacia atrás
+1 Match case
+2 Coincidir mayúsculas y minúsculas
+1 Find Next
+2 Buscar Siguiente
+1 Find All
+2 Buscar Todo
+1 Replace
+2 Reemplazar
+1 Re&place with:
+2 Reemplazo Por:
+1 Replace &All
+2 Reemplazar todo
+1 Selected
+2 Seleccionado
+1 Abort
+2 abortar
+1 About DSpeech
+2 Sobre DSpeech
+1 Accessibility...
+2 Accesibilidad...
+1 Accessibility options
+2 Opciones de accesibilidad
+1 Verbose mode
+2 modo Verbal
+1 Add initial and final silence
+2 agregar silencio inicial y final
+1 Always save audio with max volume
+2 Guardar siempre el audio con el máximo volumen
+1 Append...
+2 Añadir...
+1 All supported formats (*.txt *.doc  *.docx *.rtf *.htm *.html *.xhtml *.xml *.pdf *.epub)
+2 Todos los formatos soportados (*.txt *.doc  *.docx *.rtf *.htm *.html *.xhtml *.xml *.pdf *.epub)
+1 All supported formats (*.txt *.doc *.docx *.rtf *.htm *.html *.xhtml *.pdf *.epub)
+2 Todos los formatos soportados (*.txt *.doc *.docx *.rtf *.htm *.html *.xhtml *.pdf *.epub)
+1 Apply Conversion Table...
+2 Aplicar tabla de conversiones...
+1 Apply Default Conversion Table	Ctrl+D
+2 Aplicar tabla de conversiones por defecto	Ctrl+D
+1 Apply File-Type Specific Conversion Table	Ctrl+T
+2 Aplicar tabla de conversión específica del tipo de archivo	Ctrl+T
+1 Remove Inappropriate Return Carriages (Soft)	Ctrl+I
+2 Eliminar retornos de carro inapropiados (Suave)	Ctrl+I
+1 Convert to Uppercase
+2 Convertir a mayúsculas
+1 Auto-Apply Default Conversion Table
+2 Autoaplicar tabla de conversiones
+1 ASR Options
+2 Opciones ASR
+1 as
+2 como
+1 Audio Book creation
+2 Creación de audiolibro
+1 Audio Book...
+2 Audiolibro...
+1 Audio format
+2 formato de audio
+1 Audio Output
+2 Salida de audio
+1 Auto-Apply Conversions Table
+2 Auto-aplicar tabla de conversiones
+1 Auto Bookmarks
+2 Marcadores automáticos
+1 Auto load last opened file at startup
+2 Cargar automáticamente el último archivo abierto al iniciar
+1 Remove return carriages
+2 Eliminar retornos de carro
+1 Auto-remove inappropriate return carriages
+2 Eliminar automáticamente retornos de carro inapropiados
+1 Auto-remove inappropriate return carriages (hard)
+2 Eliminar automáticamente retornos de carro inapropiados (fuerte)
+1 Select Best Audio Format
+2 Seleccionar mejor formato de audio
+1 Select Best Voice
+2 Seleccionar mejor voz
+1 Voice Info
+2 Información de voz
+1 Auto select audio format
+2 Auto seleccionar Formato de audio
+1 Select compression level
+2 Seleccionar nivel de compresión
+1 Balanced
+2 Equilibrado
+1 Break (Split output file here)
+2 Marca de corte (Se generará un nuevo archivo)
+1 Breath
+2 resuello
+1 Convert To Mp3 With DSpeech
+2 Convertir a mp3 con DSpeech
+1 Convert To wav With DSpeech
+2 Convertir a wav con DSpeech
+1 Conversion Progress
+2 Progreso de la conversión
+1 Converting to wav...
+2 Convirtiendo a wav...
+1 Remove Inappropriate Return Carriages
+2 Eliminar retornos de carro inapropiados
+1 Remove Inappropriate Return Carriages (Hard)
+2 Eliminar retornos de carro inapropiados (Fuerte)
+1 Remove Inappropriate Return Carriages...
+2 Eliminar retornos de carro inapropiados...
+1 Remove Inappropriate Return Carriages (Soft)
+2 Eliminar retornos de carro inapropiados (Suave)
+1 DSpeech Remove Useless CrLfs
+2 Eliminar retornos de carro. Este comando elimina todos los retornos de carro del texto. Si éste es demasiado largo serán necesarios varios minutos para completar el proceso. ¿Desea continuar?
+1 Call routine sample
+2 Muestra de rutina de llamada
+1 Cancel
+2 Cancelar
+1 Catalan
+2 Catalán
+1 Clipboard Contents
+2 contenido del portapapeles
+1 Close
+2 cerrar
+1 Close DSpeech
+2 Cerrar DSpeech
+1 Advanced...
+2 Avanzado...
+1 Advanced options
+2 Opciones avanzadas
+1 General options
+2 Opciones generales
+1 Select Language Rule
+2 Seleccionar reglas de idioma
+1 Force specific language rule
+2 Forzar regla específica de idioma
+1 Select Keyword Symbol
+2 Insertar símbolo de palabra clave
+1 Configure voices independently
+2 Configuración independiente para las voces
+1 Append clipboard text
+2 Añadir texto del portapapeles
+1 Auto save settings every 15 minutes
+2 Autoguardado de la configuración cada 15 minutos
+1 Auto remove PDF page numbers
+2 Autoeliminar los números de página del PDF
+1 Maintain the original layout of PDF files
+2 Mantener el diseño original en archivos PDF
+1 Maintain the stream order on PDF files
+2 Mantener el orden de secuencia en archivos PDF
+1 Expert mode user interface
+2 Modo experto de interfaz de usuario
+1 Context Menu Extensions
+2 Opciones del menú de contexto
+1 Copy
+2 Copiar
+1 Copy	CTRL+C
+2 Copiar	CTRL+C
+1 Cough
+2 tos
+1 Total progress
+2 Progreso total
+1 Resume
+2 Reanudar
+1 Speak From Start
+2 Leer desde el inicio
+1 Speak from Current Line
+2 Leer la línea actual
+1 Title and number
+2 Título y número
+1 Speak volume number first
+2 Anunciar primero el número de volumen
+1 Speak volume number and volume title
+2 Anunciar número y título del volumen
+1 Speak With DSpeech
+2 Leer con DSpeech
+1 OK
+2 Aceptar
+1 Open With DSpeech
+2 Abrir con DSpeech
+1 Open URL...	Ctrl+U
+2 Abrir URL...	Ctrl+U
+1 Batch Conversion...
+2 Conversión múltiple...
+1 Batch MP3 Conversion...
+2 Conversión múltiple a mp3...
+1 custom TAG
+2 etiquetas personalizadas
+1 Customize voice in quoted texts...
+2 Personalizar la voz en textos entrecomillados...
+1 Cut
+2 Cortar
+1 Cut	CTRL+X
+2 Cortar	CTRL+X
+1 Delete
+2 Eliminar
+1 Delete	CANC
+2 Eliminar	CANC
+1 DSpeech Open
+2 Abrir con DSpeech
+1 DSpeech Convert To Mp3
+2 Convertir a Mp3 con DSpeech
+1 DSpeech Convert To Wav
+2 Convertir a Wav con DSpeech
+1 DSpeech Converts To Wav
+2 Convertir a Wav con DSpeech
+1 DSpeech Shell Extensions
+2 Seleccionar las opciones del menú de contexto
+1 DSpeech Speak Aloud
+2 Leer con DSpeech
+1 Dos To Windows
+2 Dos a Windows
+1 Edit
+2 Edición
+1 Emphasize
+2 magnitud del énfasis
+1 Set language
+2 Establecer idioma
+1 Enable TAB key on text box
+2 Activar el comando tab en cuadro de texto
+1 Encoding To Mp3...
+2 Codificando A mp3...
+1 Encoding To Ogg...
+2 Codificando A Ogg...
+1 Encoding To Aac...
+2 Codificando A Aac...
+1 Encoding To Wma...
+2 Codificando A Wma...
+1 Explorer Integration...
+2 Integrar al explorador...
+1 Greek
+2 Griego
+1 English (Default)
+2 Inglés (Por defecto)
+1 English (GB)
+2 Inglés (Gran Bretaña)
+1 English (USA)
+2 Inglés (Estados Unidos)
+1 English (US)
+2 Inglés (Estados Unidos)
+1 Exit
+2 Salir
+1 F1 = Go to edit box.
+2 F1 = Ir al cuadro de edición.
+1 F4 = Pause-Resume.
+2 F4 = Pausar y reanudar.
+1 File
+2 Archivo
+1 Find	CTRL+F
+2 Buscar	CTRL+F
+1 Font Select
+2 Fuente seleccionada
+1 Font Size
+2 tamaño de fuente
+1 French
+2 Francés
+1 from here
+2 desde aquí
+1 Fully custom (use BREAK keyword only)
+2 Totalmente personalizada (utiliza solo marcas de corte)
+1 Get Clipboard
+2 Verbalizar contenido del portapapeles
+1 Go to edit box
+2 Ir al cuadro de edición
+1 Help
+2 Ayuda
+1 DSpeech Help
+2 Ayuda de DSpeech
+1 Insert
+2 insertar
+1 Insert KEYWORD
+2 Insertar palabra clave
+1 Insert custom TAG
+2 Insertar etiquetas personalizadas
+1 Insert recorded
+2 Insertar grabación
+1 Save and insert recorded
+2 Guardar e insertar grabación
+1 Recorded
+2 Grabación
+1 Insert special TAG
+2 Insertar etiquetas especiales
+1 KEYWORD
+2 palabra clave
+1 Interface language
+2 Idioma de la interfaz
+1 Laugh
+2 risa
+1 Load last opened file at startup
+2 Cargar último archivo abierto al iniciar
+1 Microsoft English Recognizer v5.1
+2 Microsoft Recognizer v5.1 Inglés
+1 Mp3 File (*.mp3)
+2 Archivo Mp3 (*.mp3)
+1 Ogg File (*.ogg)
+2 Archivo Ogg (*.ogg)
+1 Aac File (*.aac)
+2 Archivo Aac (*.aac)
+1 Wma File (*.wma)
+2 Archivo Wma (*.wma)
+1 New	Ctrl+W
+2 Nuevo	Ctrl+W
+1 Speak From Next Line
+2 Leer desde la siguiente línea
+1 No split
+2 Sin cortes
+1 On voice select speak country too
+2 Agrupar las voces por país
+1 Open...	Ctrl+O
+2 Abrir...	Ctrl+O
+1 Open
+2 Abrir
+1 Open File...
+2 Abrir archivo...
+1 Open URL...	Ctrl+U
+2 Abrir URL...	Ctrl+U
+1 Open With DSpeech
+2 Abrir con DSpeech
+1 Open URL
+2 Abrir URL
+1 Open Recent
+2 Abrir archivos recientes
+1 Revert
+2 Revertir
+1 Open Conversion Table...
+2 Abrir tabla de conversiones...
+1 Optimize Quality
+2 Optimizar calidad
+1 Optimize Size
+2 Optimizar tamaño
+1 Options
+2 Opciones
+1 Options
+2 Opciones
+1 or
+2 o
+1 Other Countries
+2 Otros Países
+1 Paste
+2 Pegar
+1 Paste	CTRL+V
+2 Pegar	CTRL+V
+1 Pause
+2 Pausa
+1 Pitch
+2 tono
+1 Pitch (-10 to 10)
+2 Tono (De -10 a 10)
+1 Play recorded
+2 Reproducir grabación
+1 Stop Play
+2 Detener reproducción
+1 Play wav or mp3 file...
+2 Reproducir archivo wav o mp3...
+1 Open Sound File...
+2 Abrir archivo de sonido...
+1 Sound Files (*.wav, *.mp3)
+2 Archivos de sonido (*.wav, *.mp3)
+1 Speak Current Line
+2 Leer la línea actual
+1 Speak Previous Line
+2 Leer la línea anterior
+1 Speak From Previous Line
+2 Leer desde la línea anterior
+1 Speak From Current Line
+2 Leer desde la línea actual
+1 Speak From Next Line
+2 Leer desde la siguiente línea
+1 Speak From Start
+2 Leer desde el inicio
+1 Random sentencies sample
+2 Muestra de frases aleatorias
+1 Recognition sample
+2 Muestra de reconocimiento
+1 Recognition with timeout sample
+2 Muestra de reconocimiento con el tiempo de espera agotado
+1 Remove Useless CrLfs
+2 Eliminar retornos de carro
+1 Remove Useless Return Carriage...
+2 Eliminar Retornos de Carro...
+1 Remove Inappropriate Return Carriages (Hard)...
+2 Eliminar retornos de carro (Fuerte)...
+1 Replace	CTRL+R
+2 Reemplazar	CTRL+R
+1 Run file...
+2 Ejecutar archivo...
+1 All files (*.*)
+2 Todos los archivos (*.*)
+1 Run with idle priority
+2 Priorizar la memoria inactiva
+1 Save Audio File as... Ctrl+S
+2 Guardar el archivo de Audio como... Ctrl+S
+1 Save selected to audio file as...
+2 Guardar la selección como archivo de audio...
+1 Save Recorded Wav as...
+2 Guardar el wav grabado como...
+1 Save text file as...	Ctrl+S
+2 Guardar archivo de texto como...	Ctrl+S
+1 Don't save anything in this session
+2 No guardar nada en esta sesión
+1 Save settings on exit
+2 Guardar la configuración al salir
+1 Save settings now
+2 Guardar la configuración ahora
+1 Save Text File as...
+2 Guardar archivo de texto como...
+1 Txt File (*.txt)
+2 Archivo de texto (*.txt)
+1 Save text file
+2 Guardar archivo de texto
+1 Save audio file as...	Ctrl+S
+2 Guardar archivo de audio como...	Ctrl+S
+1 Save audio file as...
+2 Guardar archivo de audio como...
+1 Saving to file...
+2 Guardando archivo...
+1 Select all
+2 Seleccionar Todo
+1 Select All	CTRL+A
+2 Seleccionar Todo	CTRL+A
+1 Select AI personality
+2 Seleccionar personalidad de IA
+1 Select Audio Input Device
+2 Seleccionar dispositivo de audio
+1 Select default conversion table
+2 Seleccionar tabla de conversiones por defecto
+1 Select mp3 compression
+2 Seleccionar compresión de mp3
+1 Select Recognition Engine
+2 Seleccionar dispositivo de reconocimiento
+1 Select SAPI interface
+2 Seleccionar interfaz SAPI
+1 ASR settings...
+2 configuración de ASR...
+1 Shortcut List
+2 lista de teclas abreviadas
+1 Show Character
+2 Mostrar caracter
+1 &Internet Links
+2 Enlaces de Internet
+1 Address:
+2 Dirección:
+1 Go
+2 Ir
+1 Add
+2 Añadir
+1 Auto Re&load
+2 Auto Recargar
+1 Show Tracking
+2 Mostrar seguimiento
+1 Silence
+2 silencio
+1 Smack
+2 bofetada
+1 Spanish
+2 Español
+1 Spanish (Argentine)
+2 Español (Argentina)
+1 Spanish (Chile)
+2 Español (Chile)
+1 Spanish (Colombia)
+2 Español (Colombia)
+1 Spanish (Mexico)
+2 Español (México)
+1 Spanish (Spain)
+2 Español (España)
+1 Latin american spanish
+2 Español latinoamericano
+1 German
+2 Alemán
+1 Dutch
+2 Olandés
+1 Italian
+2 Italiano
+1 Swedish
+2 Sueco
+1 Speak
+2 Leer
+1 Speak
+2 Leer
+1 Speak from here
+2 Leer desde aquí
+1 Speak Clipboard Contents
+2 Leer el contenido del portapapeles
+1 Speak From Cursor
+2 Leer desde el cursor
+1 Speak txt file...
+2 Leer archivo de texto...
+1 Speak selected
+2 Leer el texto seleccionado
+1 Speak-Stop
+2 iniciar y detener la lectura
+1 Speak volume title and volume number
+2 Leer título y número del volumen
+1 special TAG
+2 etiquetas especiales
+1 Speed
+2 velocidad
+1 Speed (-10 to 10)
+2 Velocidad (De -10 a 10)
+1 Spell
+2 deletreo
+1 Split wav and mp3 files
+2 Dividir archivos wab y mp3
+1 Split options
+2 Opciones de división
+1 Start ASR
+2 Iniciar el sistema automático de reconocimiento (ASR)
+1 Start recording
+2 Iniciar grabación
+1 Stop
+2 detener
+1 Stop recording
+2 Detener grabación
+1 Stop speak
+2 Detener lectura
+1 Support With Donation...
+2 Apóyanos con tus donativos...
+1 Support with a Donation
+2 Apoyar con un donativo
+1 This software is and will always remain free.
+If you are satisfied with them and want to help me to improve or motivate the development of other quality programs, any amount of donation small or large will be welcome and gratefully appreciated.
+
+Dimitrios Coutsoumbas (Dimio)
+2 Este software és y siempre será gratuito.
+Si está satisfecho con él y desea ayudarme a mejorar o motivar el desarrollo de otros programas de calidad, cualquier donativo por grande o pequeño que sea, será bienvenido y gratamente apreciado.
+
+Dimitrios Coutsoumbas (Dimio)
+1 Home Page Web
+2 Página web
+1 Random Sample Text
+2 Texto de muestra aleatorio
+1 Swallow
+2 asentimiento
+1 Switch to next voice
+2 ir a la próxima voz
+1 Switch to previous voice
+2 ir a la voz anterior
+1 This command removes all useless return carriage from text
+2 Este comando elimina todos los retornos de carro del texto
+1 Table Formats (*.tab)
+2 Formatos de Tabla (*.tab)
+1 TAGs validity for current line only
+2 Etiqueta válida solo para la línea actual
+1 The text has changed, do you want to exit?
+2 El texto ha cambiado, ¿desea salir?
+1 The text has changed, do you want to continue?
+2 El texto ha cambiado, ¿desea continuar?
+1 Throat
+2 garganta
+1 to
+2 a
+1 txt file
+2 archivo de texto
+1 Txt File (*.txt)
+2 archivo de texto (*.txt)
+1 Type URL you want open...
+2 Escriba la URL que desea abrir...
+1 Use SAPI4 Voices
+2 Usar voces SAPI4
+1 Use SAPI5 Voices
+2 Usar voces SAPI5
+1 Use different voice for Quoted Text
+2 Usar una voz diferente para el texto entrecomillado
+1 Voice
+2 Voz
+1 Voice for Quoted Texts
+2 Voz para el texto entrecomillado
+1 Voice Select
+2 Selección de voz
+1 Volume
+2 Volumen
+1 Volume (0 to 100)
+2 Volumen (De 0 a 100)
+1 Wait
+2 espera
+1 Wait (1-60)
+2 Espera (De 1 a 60)
+1 Wait (1-60 Sec)
+2 Espera (De 1 a 60 segundos)
+1 Delay (100-900)
+2 Retardo (De 100 a 900)
+1 Delay (100-900 mSec)
+2 Retardo (De 100 a 900 milisegundos)
+1 Remark
+2 Añadir comentario
+1 Delete File or Folder...
+2 Eliminar archivo o carpeta...
+1 Delete File or Folder
+2 Eliminar archivo o carpeta
+1 Files to erase...
+2 Archivos a borrar...
+1 Clear Screen
+2 Borrar pantalla
+1 Hide Window
+2 Esconder ventana
+1 Show Window
+2 Mostrar ventana
+1 Highlight Window
+2 Resaltar ventana
+1 Do-Loop cycle
+2 Crear una secuencia cíclica (Loop)
+1 Exit Do-Loop cycle
+2 Salir de la creación de una secuencia cíclica (Loop)
+1 Random block
+2 Bloque aleatorio
+1 Call SubRoutine
+2 Llamar subrrutina
+1 Wait Any Key
+2 Pausa hasta presionar una tecla
+1 Shutdown Computer
+2 Apagar PC
+1 Delete Dspeech
+2 Borrar DSpeech
+1 Delete DSpeech + Shutdown
+2 Eliminar DSpeech + Apagar
+1 Wav File (*.wav)
+2 Archivo Wav (*.wav)
+1 When finish shutdown PC
+2 Al FINALIZAR se apagará su PC
+1 Hide and Show window sample
+2 Esconder y mostrar la ventana de muestra
+1 Waiting for any Key Press sample
+2 Pausar muestra hasta presionar una tecla 
+1 When press Enter, read the line
+2 Leer la línea al presionar Enter
+1 Enable AI reply when press Enter
+2 Habilitar respuesta de IA al presionar Enter
+1 You need to restart for apply this changes. Restart now?
+2 Necesita reiniciar para aplicar los cambios. ¿Reiniciar ahora?
+1 Word Wrap
+2 ajustar el texto
+1 Shortcut List
+2 Lista de teclas abreviadas
+1 Language selection
+2 Selección de idioma
+1 already exists.
+Do you want to replace it?
+2 Ya existe.
+¿Desea reemplazarlo?
+1 DSpeech requires at least 1024x768 resolution screen.
+2 DSpeech requiere una resolución de pantalla de al menos 1024x768.
+1 Start Record from Microphone
+2 Comenzar a grabar desde el micrófono
+1 Record from microphone
+2 Grabar desde el micrófono
+1 Commands
+2 Comandos
+1 Extended Commands
+2 Comandos avanzados
+1 Speak-Stop (F5)
+2 Iniciar y detener la lectura (F5)
+1 Speak from Start (F9)
+2 Leer desde el inicio (F9)
+1 Speak From Previous Line (F6)
+2 Leer desde la línea anterior (F6)
+1 Speak From Current Line (F7)
+2 Leer desde la línea actual (F7)
+1 Speak From Next Line (F8)
+2 Leer desde la siguiente línea (F8)
+1 Start Automatic Speech Recognition
+2 Iniciar el Reconocimiento de Voz Automático
+1 Get and speak the text that you copy on the Clipboard
+2 Obtener y leer el texto copiado en el Portapapeles
+1 Select the actually speaking word
+2 Seleccionar la palabra leída actualmente
+1 Pause-Resume (F4)
+2 Pausar y reanudar (F4)
+1 Audio Book options...
+2 Opciones de audiolibro...
+1 Accessibility options...
+2 Opciones de accesibilidad...
+1 Audio Books Options
+2 Opciones de audiolibros
+1 Select Split options:
+2 Seleccionar opciones de corte:
+1 5.000 Characters (ca 5 Minutes)
+2 5000 caracteres (cada 5 minutos)
+1 10.000 Characters (ca 10 Minutes)
+2 10000 caracteres (cada 10 minutos)
+1 20.000 Characters (ca 20 Minutes)
+2 20000 caracteres (cada 20 minutos)
+1 30.000 Characters (ca 30 Minutes)
+2 30000 caracteres (cada 30 minutos)
+1 Enable Hotkeys
+2 Habilitar teclas rápidas
+1 Programmed by Dimitrios Coutsoumbas (Dimio)
+2 Programado por Dimitrios Coutsoumbas (Dimio)
+1 home page:
+2 página principal:
+1 DSpeech About
+2 Información sobre DSpeech
+1 Exit without save settings	Alt+F5
+2 Salir sin guardar los cambios	Alt+F5
+1 Exit	Alt+F4
+2 Salir	Alt+F4
+1 Conversion table
+2 Tabla de conversiones
+1 Select default conversion table:
+2 Seleccionar tabla de conversiones:
+1 Clear Skype Log
+2 Borrar registro de Skype
+1 Dos To Windows
+2 Dos a Windows
+1 EPub
+2 EPub
+1 Remove Indent Newline
+2 Quitar nueva línea de sangría
+1 TXT
+2 Texto
+1 If it needs, apply file-type specific conversion table
+2 Si es necesario, aplicar tabla de conversión específica
+1 Delay
+2 Retardo
+1 Select delay between lines:
+2 Selecciona el retardo entre las líneas:
+1 No Delay
+2 Ningún Retardo
+1 100 mSec
+2 100 milisegundos
+1 200 mSec
+2 200 milisegundos
+1 300 mSec 
+2 300 milisegundos
+1 400 mSec 
+2 400 milisegundos
+1 500 mSec 
+2 500 milisegundos
+1 600 mSec 
+2 600 milisegundos
+1 700 mSec 
+2 700 milisegundos
+1 800 mSec 
+2 800 milisegundos
+1 900 mSec 
+2 900 milisegundos
+1 1 seconds
+2 1 segundo
+1 2 seconds
+2 2 segundos
+1 3 seconds
+2 3 segundos
+1 4 seconds
+2 4 segundos
+1 5 seconds
+2 5 segundos
+1 Custom volume title
+2 Personalizar título de volumen
+1 DSpeech Accessibility Options
+2 Opciones de accesibilidad de DSpeech
+1 Confirm Changes
+2 Confirmar cambios
+1 Associate free extensions (txt, rtf, html, xml, epub) with DSpeech
+2 Asociar extensiones libres (txt, rtf, html, xml, epub) con DSpeech
+1 HotKeys (On)
+2 Teclas rápidas (Activado)
+1 HotKeys (Off)
+2 Teclas rápidas (Desactivado)
+1 Voice Info
+2 Información de voz
+1 Name:
+2 Nombre:
+1 Vendor:
+2 Vendedor:
+1 Description:
+2 Descripción:
+1 Lingua Code:
+2 Código de lengua:
+1 Gender:
+2 Género:
+1 Male
+2 Masculino
+1 Female
+2 Femenino
+1 Native Audio Format:
+2 Formato de audio nativo:
+1 F1 = Go to edit box.
+F4 = Pause-Resume.
+F5 = Speak-Stop.
+F6 = Speak From Previous Line.
+F7 = Speak From Current Line.
+F8 = Speak From Next Line.
+F9 = Speak From Start.
+F11 = Switch to previous voice.
+F12 = Switch to next voice.
+F11+SHIFT = Switch to first voice.
+F12+SHIFT = Switch to last voice.
+ESC = Stop.
+
+ALT+LEFT = Speak Previous Word
+ALT+RIGHT = Speak Next Word
+ALT+UP = Speak Previous Line.
+ALT+DOWN = Speak Next Line.
+
+CTRL+LEFT = Speak Previous Word
+CTRL+RIGHT = Speak Next Word
+
+ALT+1 = Decrease volume.
+ALT+2 = Increase volume.
+ALT+3 = Decrease speed.
+ALT+4 = Increase speed.
+ALT+5 = Decrease pitch.
+ALT+6 = Increase pitch.
+
+CTRL+SHIFT+R = Start/Stop Recording.
+CTRL+SHIFT+P = Play/Stop Recorded.
+CTRL+SHIFT+S = Save/Insert Recorded.
+2 F1 = ir al cuadro de edición.
+F4 = pausar y reanudar.
+F5 = Iniciar y Detener la lectura.
+F6 = Leer desde la línea anterior.
+F7 = Leer desde la línea actual.
+F8 = Leer desde la siguiente línea.
+F9 = Leer desde el inicio.
+F11 = Ir a la voz anterior.
+F12 = Ir a la siguiente voz.
+F11+Shift = Ir a la primera voz.
+F12+Shift = Ir a la última voz.
+Escape = Detener.
+
+ALT+Flecha izquierda = Leer la palabra anterior
+ALT+Flecha derecha = Leer la siguiente palabra
+ALT+Retroceso de página = Leer la línea anterior.
+ALT+Avance de página = Leer la siguiente línea.
+
+CTRL+Flecha izquierda = Leer la palabra anterior
+CTRL+Flecha derecha = Leer la siguiente palabra
+
+ALT+1 = Disminuir volumen.
+ALT+2 = Aumentar volumen.
+ALT+3 = Disminuir velocidad.
+ALT+4 = Aumentar velocidad.
+ALT+5 = Disminuir tono.
+ALT+6 = Aumentar tono.
+
+CTRL+SHIFT+R = Iniciar y Detener grabación.
+CTRL+SHIFT+P = Reproducir y Detener grabación.
+CTRL+SHIFT+S = Guardar e Insertar grabación.

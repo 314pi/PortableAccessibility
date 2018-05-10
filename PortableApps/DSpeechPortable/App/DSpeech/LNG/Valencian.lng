@@ -1,0 +1,437 @@
+1 Selected
+2 Seleccionat
+1 Abort
+2 abortar
+1 About DSpeech
+2 Sobre DSpeech
+1 Accessibility options
+2 Opcions d'accessibilitat
+1 Add initial and final silence to wav or mp3
+2 Afegir silenci inicial i final als wav o mp3
+1 Always save audio with max volume
+2 Guardar sempre l'àudio amb el màxim volum
+1 All supported formats (*.txt *.doc *.rtf *.html *.pdf)
+2 Tots els formats soprotats (*.Txt *.Doc *.Rtf *.Html *.pdf)
+1 Append...
+2 Afegir
+1 Apply Conversion Table...
+2 Aplicar tabla de conversions...
+1 Apply Default Conversion Table
+2 Aplicar tabla de conversions per defecte
+1 as
+2 com
+1 Audio Book creation
+2 Produir Audiollibres.
+1 Audio format
+2 format d'àudio.
+1 Audio Output
+2 Eixida d'àudio.
+1 Auto-Apply Default Conversion Table
+2 Auto-aplicar tabla de conversions
+1 Auto-remove inappropriate return carriages
+2 Eliminar automàticament retorns de carro innecessaris
+1 Auto-remove inappropriate return carriages (hard)
+2 Eliminar automàticament retorns de carro innecessaris (extrafort)
+1 Auto select voice-specific audio format
+2 Auto seleccionar veu-Format d'àudio específic
+1 Balanced
+2 Equilibrat.
+1 Batch Conversion...
+2 Conversió per lots (Batch )...
+1 Break (Split output file Here)
+2 Marca de tall (es generarà un nou fitxer).
+1 Breath
+2 alé.
+1 Convert To Mp3 With DSpeech
+2 Convertir a mp3 amb DSpeech
+1 Convert To wav With DSpeech
+2 Convertir a wav amb DSpeech
+1 Conversió Progress
+2 Progrés de la conversió
+1 Converting to wav...
+2 Convertint a wav.
+1 Remove Inappropriate Return Carriages...
+2 Eliminar retorns de carro innecessaris
+1 Remove Inappropriate Return Carriages
+2 Eliminar retorns de carro innecessaris
+1 Remove Inappropriate Return Carriages (Hard)
+2 Eliminar retorns de carro innecessaris (Fort)
+1 DSpeech Remove Useless CrLfs
+2 Eliminar retorns de carro. Esta ordre elimina tots els retorns de carro del text. Si és massa llarg seran necessaris alguns minuts per a completar el procés. Desitja continuar?
+1 Call routine sample
+2 Cridar rutina de mostra.
+1 Catala
+2 Català
+1 Clipboard Contents
+2 contingut del portapapers.
+1 Close
+2 tancar.
+1 Close DSpeech
+2 Tancar DSpeech
+1 Configure voices independently
+2 Configuració independent per a les veus.
+1 Context Menú Extensions
+2 Opcions del menú de context
+1 Copy
+2 Copiar
+1 Copy	CTRL+C
+2 Copiar	CTRL+C
+1 Cough
+2 tos.
+1 Customize voice in quoted texts...
+2 Personalitzar la veu en el text entre cometes...
+1 Total progress 
+2 Progrés
+1 Speak Current Line 
+2 Llegir la línia actual.
+1 Speak With DSpeech
+2 Llegir amb DSpeech
+1 Speak volume number first
+2 Anunciar primer el número de volum
+1 Speak volume title and volume number
+2 Llegir títol i número del volum
+1 Speak volume number and volume title 
+2 Llegir número i títol del volum
+1 Open With DSpeech
+2 Obrir amb DSpeech
+1 custom TAG
+2 etiquetes personalitzades.
+1 Cut
+2 Retallar
+1 Cut	CTRL+X
+2 Retallar	CTRL+X
+1 Delete 
+2 Esborrar
+1 Delete	CANC
+2 Esborrar	CANC
+1 DSpeech Open
+2 Obertura amb DSpeech 
+1 DSpeech Convert To Mp3
+2 Converción a mp3 amb DSpeech 
+1 DSpeech Convert To Wav
+2 converción a wav amb DSpeech 
+1 DSpeech Shell Extensions
+2 Seleccionar les opcions del menú de context
+1 DSpeech Speak Aloud
+2 Lectura amb DSpeech
+1 Dos To Windows
+2 MS-Dos a Windows
+1 Edit
+2 Edició.
+1 Emphasize
+2 magnitud de l'èmfasi.
+1 Enable TAB key on text box
+2 Activar l'ordre tab en quadro de text
+1 Encoding To Mp3... 
+2 comprimint en mp3...
+1 Explorer Integration...
+2 Integrar a l'explorador
+1 English (Default)
+2 Anglés (per defecte)
+1 English (GB)
+2 Anglés de Gran Bretanya
+1 English (USA)
+2 Anglés dels Estats Units.
+1 Exit
+2 Eixir.
+1 F1 = Go to edit box.
+2 F1 = Anar al quadro d'edició.
+1 F4 = interrompa-resumix.
+2 F4 = pausa-resumix. 
+1 File
+2 Fitxer.
+1 Find	CTRL+F
+2 Buscar	CTRL+F
+1 Font Select
+2 Font seleccionada
+1 Font Select
+2 Font seleccionada
+1 Font Size
+2 grandària de font
+1 French
+2 Francés
+1 from Here
+2 des d'ací.
+1 Fully custom (use BREAK keyword only)
+2 Totalment personalitzada, utilitza només marques de tall.
+1 Get Clipboard
+2 Verbalitzar contingut del portapapers
+1 Go to edit box
+2 Anar al quadro d'edició.
+1 Help
+2 Ajuda.
+1 Insert
+2 inserir.
+1 Insert KEYWORD
+2 Inserir paraula clau
+1 Insert custom TAG
+2 Inserir etiquetes personalitzades
+1 Insert recorded
+2 Inserir la gravació
+1 Insert special TAG
+2 Inserir etiquetes especials
+1 KEYWORD
+2 paraula clau.
+1 Language Selection
+2 Seleccionar llengua
+1 Laugh
+2 rialla.
+1 Load last opened file at startup
+2 Carregar últim Fitxer obert a l'arrancar.
+1 New	Ctrl+W
+2 Nou	Ctrl+W 
+1 Speak Next Line
+2 Llegir la línia següent.
+1 No split
+2 Sense talls.
+1 On voice select speak country too
+2 Agrupar les veus per país.
+1 Open...	Ctrl+O
+2 Obrir...	Ctrl+O
+1 Open
+2 Obrir.
+1 Open File...
+2 Obrir Fitxer...
+1 Open With DSpeech
+2 Obrir amb DSpeech
+1 Optimize Quality
+2 Optimitzar la qualitat.
+1 Optimize Size
+2 Optimitzar grandària.
+1 Options
+2 Opcions
+1 Options
+2 Opcions
+1 or
+2 o.
+1 Other Countries
+2 altres Països
+1 Paste
+2 Apegar
+1 Paste	CTRL+V
+2 Apegar	CTRL+V
+1 Pause
+2 Pausa.
+1 Pitch
+2 to.
+1 Pitch (-10 to 10)
+2 To (de -10 a 10)
+1 Play recorded
+2 Reproduir la gravació
+1 Play wav or mp3 file...
+2 Reproduir un Fitxer wav o mp3...
+1 Previous Line Speak Current Line
+2 línia actual.
+1 Speak Previous Line 
+2 Llegir la línia anterior.
+1 Random sentencies sample
+2 Mostra de frases aleatòries.
+1 Recognition sample
+2 Mostra de reconeixement.
+1 Recognition with timeout sample
+2 Mostra de reconeixement amb el temps d'espera esgotat.
+1 Remove Useless CrLfs
+2 Eliminar retorns de carro.
+1 Remove Useless Return Carriage...
+2 Eliminar Retorns de Carro...
+1 Remove Inappropriate Return Carriages (Hard)...
+2 Eliminar retorns de carro (extrafort)...
+1 Replace	CTRL+R 
+2 Reemplaçar	CTRL+R 
+1 Run file...
+2 Executar Fitxer ...
+1 Run with idle priority
+2 Prioritzar la memòria inactiva.
+1 Save Audio File as...
+2 Guardar el fitxer d'Àudio com...
+1 Save Recorded Wav as...
+2 Guardar el wav gravat com...
+1 Save text file as...	Ctrl+S
+2 Guardar el fitxer de text com...	Ctrl+S
+1 Save settings on exit
+2 Guardar la configuració a l'eixir.
+1 Save Text File as...
+2 Guardar el fitxer de text com...
+1 Save text file
+2 Guardar el fitxer de text.
+1 Save wav or mp3 as...	Ctrl+Shift+S
+2 Guardar wav o mp3 com...	Ctrl+Shift+S
+1 Saving to file...
+2 Guardant fitxer...
+1 Select AI personality
+2 Seleccionar personatge IA
+1 Select all
+2 Seleccionar Tot
+1 Select AllCTRL+A
+2 Seleccionar Tot	CTRL+A
+1 Select mp3 format
+2 Seleccionar format de mp3.
+1 Select SAPI interface
+2 Seleccionar interfície SAPI 
+1 Select conversions table
+2 Seleccionar tabla de conversions
+1 Set ASR options...
+2 Configurar opcions ASR...
+1 Shortcut List
+2 llista de tecles abreviades
+1 Show Character
+2 Mostrar caràcter.
+1 Show Tracking
+2 Mostrar seguiment.
+1 Silence
+2 silenci.
+1 Smack
+2 galtada.
+1 Spanish
+2 Espanyol
+1 Spanish (Argentine)
+2 Espanyol d'argentina.
+1 Spanish (Chile)
+2 Espanyol de Xile.
+1 Spanish (Mexico)
+2 Espanyol de Mèxic
+1 Spanish (Spain)
+2 Espanyol d'Espanya.
+1 Speak
+2 Llegir.
+1 Speak from Here
+2 Llegir des d'ací
+1 Speak Clipboard Contents
+2 Llegir el contingut del portapapers
+1 Speak From Cursor
+2 Llegir des del cursor.
+1 Speak txt file...
+2 Verbalitzar fitxer TXT...
+1 Speak selected
+2 Llegir seleccionat
+1 Speak-Stop
+2 iniciar i detindre lectura.
+1 special TAG
+2 etiquetes especials.
+1 Speed
+2 velocitat.
+1 Speed (-10 to 10)
+2 Velocitat (de -10 a 10)
+1 Spell
+2 lletrege.
+1 Split wav and mp3 files
+2 Retallar els Fitxers wav o mp3.
+1 Start ASR
+2 Iniciar el sistema automàtic de reconeixement (ASR)
+1 Start recording
+2 Iniciar la gravació
+1 Stop
+2 detindre.
+1 Stop recording
+2 Detindre la gravació
+1 Stop speak
+2 Detindre la lectura 
+1 Support With Donation...
+2 Recolza'ns amb els teus donatius
+1 Swallow
+2 assentiment.
+1 Switch to next voice
+2 anar a la pròxima veu.
+1 Switch to previous voice
+2 anar a la veu anterior.
+1 TAGs validity for current line only
+2 Etiqueta vàlida només per a la línia actual
+1 Throat
+2 gola.
+1 to
+2 a.
+1 txt file
+2 Fitxer de text.
+1 Use SAPI4 Voices
+2 Usar veus SAPI4 
+1 Use SAPI5 Voices
+2 Usar veus SAPI5 
+1 Valencian
+2 Valencià
+1 Voice
+2 Veu.
+1 Voice Select
+2 Veu Seleccionada
+1 Volume
+2 Volum.
+1 Volume (0 to 100)
+2 Volum (de 0 a 100)
+1 Wait
+2 espera.
+1 Wait (1 to 10)
+2 Espera (d'1 a 10)
+1 When finish shutdown PC
+2 al FINALITZAR s'apagarà el seu PC
+1 When press Enter, Read the line
+2 Llegir la línia al polsar énter!
+1 Word Wrap
+2 ajustar el text.
+1 You need to restart for apply this changes. Restart now?
+2 Es necessita reiniciar perquè s'apliquen els canvis, reiniciar ara?
+1 The text has changed, do you want to exit?
+2 El text ha cambiat, ¿desitges eixir.?
+1 Open URL...
+2 Obrir URL...
+1 Open URL
+2 Obrir URL
+1 Type URL you want open...
+2 Escriu la URL que desitges obrir...
+1 Save wav, mp3 or ogg as...	Ctrl+Shift+S
+2 Guardar wav, mp3 o ogg com...	Ctrl+Shift+S
+1 Apply Conversió Table...
+2 Aplicar taula de conversions.
+1 Apply Default Conversió Table
+2 Aplicar taula de conversions per defecte.
+1 Auto-Aplly Default Conversió Table
+2 Autoaplicar taula de conversions
+1 Auto Bookmarks
+2 Col·locar marques automàticament
+1 Auto load last opened file at startup
+2 Carregar l'últim arxiu a l'iniciar
+1 Split options
+2 Opcions de tall
+1 Add initial and final silence
+2 Afegir silenci inicial i final a cada arxiu
+1 Select default conversion table
+2 Seleccionar taula de conversions per defecte
+1 Select mp3 compression
+2 Seleccionar compresió MP3
+1 Shortcut List
+2 Llista de tecles abreviades.
+1 F1 = Go to edit box.
+F4 = Pause-Resume.
+F5 = Speak-Stop.
+F6 or ALT+UP = Speak Previous Line.
+F7 or ALT+LEFT = Speak Current Line.
+F8 or ALT+DOWN = Speak Next Line.
+F9 or ALT+RIGHT = Speak From Cursor.
+F11 = Switch to previous voice.
+F12 = Switch to next voice.
+F11+SHIFT = Switch to first voice.
+F12+SHIFT = Switch to last voice.
+ESC = Stop.
+
+ALT+1 = Decrease volume.
+ALT+2 = Increase volume.
+ALT+3 = Decrease speed.
+ALT+4 = Increase speed.
+ALT+5 = Decrease pitch.
+ALT+6 = Increase pitch.
+2 F1 = anar al quadro de text.
+F4 = pausa i resum.
+F5 = Iniciar i detindre la lectura.
+F6 o alt més fletxa dalt = Llegir la línia anterior.
+F7 o alt m´ás fletxa esquerra = Llig-la línia actual.
+F8 o Alt més fletxa baix = Llegir la línia següent.
+F9 o Alt més fletxa dreta = Llegir des del cursor.
+F11 = Anar a la veu anterior.
+F12 = Anar a la veu següent.
+Shift més F11 = Anar a la primera veu.
+Shift més F12 = Anar a l'última veu.
+ESC = Detindre.
+ALT+1 = Augmenta el volumm.
+ALT+2 = Disminuïx el volum.
+ALT+3 = Augmenta la velocitat.
+ALT+4 = Disminuïx la velocitat.
+ALT+5 = Augmenta el to.
+ALT+6 = Disminuïx el to.

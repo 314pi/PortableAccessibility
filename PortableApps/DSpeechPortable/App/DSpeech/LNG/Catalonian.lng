@@ -1,0 +1,495 @@
+#Josep Rullo Batalla <jrullob@gmail.com>
+1 Selected
+2 Seleccionat
+1 Abort
+2 Anulla
+1 About DSpeech
+2 A sobre de DSpeech
+1 Accessibility options
+2 Opcions d’accessibilitat
+1 Verbose mode
+2 Mode parlat
+1 Add initial and final silence
+2  Afegir un silenci inicial i final
+1 Always save audio with max volume
+2 Guarda sempre l’àudio a màxim volum 
+1 Append...
+2 Afegir...
+1 as
+2 és
+1 Audio Book creation
+2 Crear llibre d’àudio
+1 Audio format
+2  Format d’àudio
+1 Audio Output
+2 Sortida d’àudio
+1 Balanced
+2 Equilibra qualitat i mida
+1 Break (Split output file here)
+2 Trencar (dividir per aquí l’arxiu de sortida)
+1 Breath
+2 Respir
+1 but if the text is very long, it can employ some minutes to accomplish. continue?
+2 Si el text és molt llarg, l’operació pot trigar un quants minuts. Vol continuar?
+1 Call routine sample
+2 Crida a la rutina d’exemple
+1 Catalan
+2 Català
+1 Clipboard Contents
+2 Contingut del porta retalls
+1 Close
+2 Tanca
+1 Close DSpeech
+2 Surt de DSpeech
+1 Configure voices independently
+2 Configura les veus independentment
+1 Copy
+2 Copia
+1 Copy	CTRL+C
+2 Copia	CTRL+C
+1 Cough
+2 tossir
+1 Speak Current Line 
+2 Llegir línia actual
+1 custom TAG
+2 TAG (etiqueta) personalitzada
+1 Cut
+2 Talla
+1 Cut	CTRL+X
+2 Talla	CTRL+X
+1 Delete 
+2 Esborra
+1 Delete	CANC
+2 Cancel•la	CANC
+1 Edit
+2 Modifica
+1 Emphasize
+2 Emfatitza
+1 Enable TAB key on text box
+2 Habilita el tabulador en la casella de text
+1 Encoding To Mp3...
+2 Compressió a MP3...
+1 greek
+2 grec
+1 English (default)
+2 Anglès (predefinit)
+1 English (GB)
+2 Anglès (GB)
+1 English (USA)
+2 Anglès (USA)
+1 Exit
+2 Sortir
+1 File
+2 Arxiu
+1 Find	CTRL+F
+2 Cerca	CTRL+F
+1 Find
+2 Cerca
+1 Fi&nd what:
+2 Cercar:
+1 &Find Next
+2 Cercar següent
+1 Match &case
+2 Majúscules...
+1 Font Select
+2 Seleccionar tipus lletra
+1 Font Select
+2 Seleccionar tipus lletra
+1 Font Size
+2 Mida de la lletra
+1 French
+2 Francès
+1 from here
+2 Des d’aquí
+1 Fully custom (use BREAK keyword only)
+2 Personalitzat (només paraula clau BREAK)
+1 Go to edit box
+2 Anar a la casella de text
+1 Help
+2 Ajuda
+1 Insert
+2 inserir
+1 Insert KEYWORD
+2 Inserir paraula clau
+1 Insert custom TAG
+2 Inserir TAG personalitzat
+1 Insert special TAG
+2 Inserir TAG especial
+1 KEYWORD
+2 Paraula clau
+1 Laugh
+2 Rialla
+1 Load last opened file at startup
+2 Obrir l’últim arxiu a l’inici
+1 New	Ctrl+W
+2 Nou	Ctrl+W 
+1 Speak Next Line
+2 Llegir la pròxima línia
+1 No split
+2 No subdividir
+1 On voice select speak country too
+2 Re agrupa les veus per nacionalitat
+1 Open...	Ctrl+O
+2 Obrir...	Ctrl+O
+1 Open URL...	Ctrl+U
+2 Obrir URL...	Ctrl+U
+1 Open URL
+2 Obrir URL
+1 Type Url you want open...
+2 Escrigui l’URL que vol obrir...
+1 Open
+2 Obrir
+1 Optimize Quality
+2 Optimitza la qualitat
+1 Optimize Size
+2 Optimitza la mida
+1 Options
+2 Opcions
+1 Options
+2 Opcions
+1 or
+2 o
+1 Other Countries
+2 Altres països
+1 Paste
+2 Enganxa
+1 Paste	CTRL+V
+2 Enganxa	CTRL+V
+1 Pause
+2 Pausa
+1 Pause
+2 Pausa
+1 Pitch
+2 To
+1 Pitch
+2 To
+1 Pitch (-10 to 10)
+2 To (da -10 a 10)
+1 Play wav or mp3 file...
+2 Reproduir arxiu wav o mp3...
+1 Speak Current Line
+2 Llegir la línia actual
+1 Speak Previous Line 
+2 Llegir la línia anterior
+1 Random sentencies sample
+2 Exemple aleatori
+1 Recognition sample
+2 Exemple de reconeixement vocal
+1 Recognition with timeout sample
+2 Exemple de reconeixement vocal amb temps d’espera
+1 Remove Useless CrLfs
+2 Elimina els retorns de carro desaprofitats
+1 Remove Useless Return Carriage...
+2 Elimina els retorns de carro...
+1 Replace	CTRL+R 
+2 Substituir	CTRL+R 
+1 Replace
+2 Substituir
+1 Re&place with:
+2 Substituir amb:
+1 Replace &All
+2 Substituir tot
+1 Run file...
+2 Ficar en marxa l’arxiu...
+1 Run with idle priority
+2 Ficar en marxa amb prioritat baixa
+1 Auto Bookmarks
+2 Senyaladors automatics
+1 Auto load last opened file at startup
+2 Carrega automaticament en l’inici, l’últim arxiu obert 
+1 Save text file as...	Ctrl+S
+2 Guarda l’arxiu de text com a...	Ctrl+S
+1 Save settings on exit
+2 Guarda la configuració al sortir
+1 Save text file
+2 Guarda l’arxiu de text
+1 Save wav, mp3 or ogg as...	Ctrl+Shift+S
+2 Guarda wav, mp3 o ogg com a...	Ctrl+Maius+S
+1 Saving to file
+2 Guardar en arxiu
+1 Select all
+2 Seleccionar tot
+1 Select All	CTRL+A
+2 Seleccionar tot	CTRL+A
+1 Select mp3 compression
+2 Configurar el format MP3
+1 Select SAPI interface 
+2 Selecció de l’interfície SAPI
+1 Shortcut List
+2 Dreceres
+1 Show Character
+2 Mostrar el  personatge
+1 &Internet Links
+2 Enllaços d’&Internet
+1 Address:
+2 Adreça:
+1 Go
+2 Ara
+1 Add
+2 Afegir
+1 Auto Re&load
+2 Auto recarrega
+1 Show Tracking
+2 Mostrar com el text segueix la lectura
+1 Silence
+2 Silenci
+1 Smack
+2 Petó
+1 Spanish (Argentine)
+2 Espanyol (Argentina)
+1 Spanish (Chile)
+2 Espanyol (Xile)
+1 Spanish (Mexico)
+2 Espanyol (Mèxic)
+1 Spanish (Spain)
+2 Espanyol (Espanya)
+1 German
+2 Alemany
+1 Dutch
+2 Holandès
+1 Swedish
+2 Suec
+1 Speak
+2 Llegir
+1 Speak
+2 Llegir
+1 Speak from here
+2 Llegir des d’aquí
+1 Speak Clipboard Contents
+2 Llegir el contingut del porta retalls
+1 Speak From Cursor
+2 Llegir des del cursor
+1 Speak txt file...
+2 Llegir l’arxiu de text...
+1 Speak selected
+2 Llegeix la sellecció
+1 Speak-Stop
+2 Iniciar/Parar la lectura
+1 special TAG
+2 TAG especial
+1 Speed
+2 Velocitat
+1 Speed (-10 to 10)
+2 Velocitat (da -10 a 10)
+1 Spell
+2 Llegeix lletra a lletra
+1 Split wav and mp3 files
+2 Divideix l’arxiu wav o mp3
+1 Stop
+2 Parar
+1 Stop speak
+2 Interromp la lectura 
+1 Support With Donation...
+2 Faig una donació...
+1 Swallow
+2 Empassar
+1 Switch to next voice
+2 Passa a la veu següent
+1 Switch to previous voice
+2 Passa a la veu anterior
+1 This command removes all useless return carriage from text
+2 Aquesta ordre elimina tots els retorns de carro desaprofitats en el text!
+1 Throat
+2 Esclarir la garganta
+1 to
+2 a
+1 txt file
+2 Arxiu de text
+1 Use SAPI4 Voices
+2 Veus SAPI4
+1 Use SAPI5 Voices
+2 Veus SAPI5 
+1 Voice
+2 Veu
+1 Voice Select
+2 Seleccionar veu
+1 Volume
+2 Volum
+1 Volume (0 to 100)
+2 Volum (da 0 a 100)
+1 Wait
+2 Espera
+1 Wait (1 to 10)
+2 Espera (da 1 a 10)
+1 When finish shutdown PC
+2 Pari el PC quan acabi
+1 When press Enter, read the line
+2 Llegir la línia al premer ENTER
+1 Word Wrap
+2 Ajust automatic
+1 Shortcut List
+2 Dreceres
+1 Language selection
+2 Seleccionar l’idioma
+1 Save audio file as...
+2 Guarda l’arxiu d’àudio com a...
+1 Save text file as
+2 Guarda l’arxiu de text com a
+1 Save text file as...
+2 Guarda l’arxiu de text com a...
+1 Open file...
+2 Obrir l’arxiu...
+1 Converting To Wav...
+2 Convertint a Waw...
+1 Auto-remove inappropriate return carriages
+2 Elimina automàticament els retorns de carro inapropiats
+1 Auto-remove inappropriate return carriages (hard)
+2 Elimina automàticament els retorns de carro inapropiats (avançat)
+1 Remove Inappropriate Return Carriages... 
+2 Elimina els retorns de carro inapropiats...
+1 Remove inappropriate return carriages (hard)...
+2 Elimina els retorns de carro inapropiats (avançat)...
+1 already exists.
+2 ja existeix.
+1 Do you want to replace it?
+2 Substituir-lo?
+1 You need to restart for apply this changes. Restart now? 
+2 Cal re arrancar el programa per aplicar els canvis. Vol re arrancar-lo ara?
+1 This command removes all useless return carriage from text, but if the text is very long, it can employ some minutes to accomplish, continue? 
+2 Aquesta ordre elimina del text, els retors de carro desaprofitats; si el text és molt llarg l’operació pot trigar alguns minuts. Vol continuar?
+1 DSpeech requires at least 1024x768 resolution screen. 
+2 DSpeech necessita una resolució mínima de 1024x768.
+1 DSpeech Remove Useless CrLfs
+2 DSpeech elimina  retorns de carro desaprofitats
+1 Explorer integration...
+2 Integració amb l’Explorer...
+1 DSpeech Shell Extensions
+2 DSpeech Parametres de línia de comandes
+1 Context Menu Extensions
+2 Opcions del menú contextual
+1 DSpeech Open
+2 Obrir DSpeech
+1 DSpeech Speak Aloud
+2 Llegir en veu alta
+1 DSpeech Convert To Wav
+2 Convertir a wav
+1 DSpeech Convert To MP3
+2 Convertir a mp3
+1 Cancel
+2 Anul•la
+1 Convert To Mp3 With DSpeech
+2 Convertir a MP3 amb DSpeech
+1 Open With DSpeech
+2 Obrir amb DSpeech
+1 Speak With DSpeech
+2 Llegir amb DSpeech
+1 Convert To Wav With DSpeech
+2 Convertir a wav amb DSpeech
+1 Total Progress
+2 Total del Procés
+1 Conversion Progress
+2 Procés de conversió
+1 F1 = Go to edit box.
+2 F1 = Finestra d’edició
+F4 = Pause-Resume.
+F5 = Speak-Stop.
+F6 or ALT+UP = Speak Previous Line.
+F7 or ALT+LEFT = Speak Current Line.
+F8 or ALT+DOWN = Speak Next Line.
+F9 or ALT+RIGHT = Speak From Cursor.
+F11 = Switch to previous voice.
+F12 = Switch to next voice.
+F11+SHIFT = Switch to first voice.
+F12+SHIFT = Switch to last voice.
+ESC = Stop.
+
+ALT+1 = Decrease volume.
+ALT+2 = Increase volume.
+ALT+3 = Decrease speed.
+ALT+4 = Increase speed.
+ALT+5 = Decrease pitch.
+ALT+6 = Increase pitch.
+2 F1 = Va a la casella de text.
+F4 = Pausa/continua.
+F5 = Inicia/para la lectura.
+F6 o Alt+Fletxa amunt = llegir línia anterior.
+F7 o Alt+Fletxa esquerra = llegir línia actual.
+F8 o Alt+Fletxa avall = llegir línia següent.
+F9 o Alt+Fletxa dreta = llegir des del cursor.
+F11 =Veu anterior.
+F12 = Veu següent.
+Shift+F11 = Primera veu.
+Shift+F12 = Última veu.
+Escape = Parar.
+
+ALT+1 = Baixa el volum.
+ALT+2 = Puja el  volum.
+ALT+3 = Baixa la velocitat.
+ALT+4 = Puja velocitat.
+ALT+5 = Baixa el to.
+ALT+6 = Puja el to.
+
+1 The text has changed, do you want to exit?
+2 El text s’ha modificat.  Vol sortir?
+1 Open sound file
+2 Obrir l’arxiu d’audio
+1 Customize voice in quoted texts...
+2 Personalitza la veu del text entre cometes...
+1 Voice for quoted texts
+2 Veu pel text entre cometes
+1 use different voice for Quoted Text
+2 Utilitza una veu diferent pel text entre cometes
+1 Speak volume number first 
+2 Llegir el primer segment del títol
+1 Auto select voice-specific audio format 
+2 Selecció automàtica del format d’àudio per una veu especifica
+1 Get Clipboard
+2 Agafar del porta retalls
+1 Start Recording
+2 Iniciar Gravació
+1 Enable AI reply when press Enter
+2 Activa AI al premer ENTER
+1 Set ASR options...
+2 Opcions de reconeixement vocal...
+1 Select AI personality
+2 Selecciona personalitat AI
+1 Stop Recording
+2 Atura Gravació
+1 Play Recorded
+2 Reproduir Gravació
+1 Insert recorded
+2 Inserir gravaci´p
+1 Start record
+2 Inicia gravació
+1 Stop Play
+2 Parar/Reproduir
+1 Select Default Conversion Table
+2 Selecciona la taula de conversió per defecte
+1 Dos to Windows
+2 De DOS a Windows
+1 Apply Conversion Table...
+2 Aplica la taula de conversió...
+1 Apply Default Conversion Table
+2 Aplica la taula de conversió per defecte
+1 All supported formats (*.txt *.doc *.rtf *.html *.pdf)
+2 Tots els formats suportats (*.txt *.doc *.rtf *.html *.pdf)
+1 DSpeech - Error 
+2 DSpeech - Error 
+1 If you want to open DOC files you must first install MS Word 
+2 Instal•li l’MS Word per obrir arxius DOC 
+1 Remove Inappropriate Return Carriages
+2 Elimina els retors de carro inapropiats
+1 Remove Inappropriate Return Carriages (Hard) 
+2 Elimina els retors de carro inapropiats (avançat)
+1 Batch conversion...
+2 Conversió múltiple...
+1 Batch conversions accomplished. 
+2 Conversió múltiple efectuada.
+1 Auto-Apply Default Conversion Table
+2 Aplica automàticament la taula de conversió per defecte 
+1 Record from microphone
+2 Gravació des del  micròfon
+1 Commands
+2 Ordres
+1 Extended Commands
+2 Ordres avançades
+1 Start ASR
+2 Iniciar rec. vocal
+1 TAGs validity for current line only 
+2 Valida els TAG’s de la línia actual
+1 Speak volume title and volume number
+2 Pronuncia títol i número del volum
+1 Split Options
+2 Opcions de tall
+1 Speak volume number and volume title 
+2 Pronuncia número  títol del volum

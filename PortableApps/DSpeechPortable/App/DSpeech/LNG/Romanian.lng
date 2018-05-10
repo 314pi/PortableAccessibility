@@ -1,0 +1,513 @@
+# Irina Popovici <just.rutsa@gmail.com>
+1 Selected				
+2 Ales
+1 Abort
+2 Terminat
+1 About DSpeech
+2 Despre programul Dspeech
+1 Accessibility options
+2 Opþiuni de accesibilitate
+1 Verbose mode
+2 Regim sonor
+1 Add initial and final silence
+2 Adaugã tãcerea iniþialã ºi finalã 
+1 Always save audio with max volume
+2 Întotdeauna salveazã sunetul cu volum maximal
+1 Append...
+2 Anexare...
+1 as
+2 ca
+1 Audio Book creation
+2 Crearea cãrþii sonore
+1 Audio format
+2 Format audio 
+1 Audio Output
+2 Audio ieºire
+1 Balanced
+2 Echilibrul dintre calitate ºi cantitate 
+1 Break (Split output file here)
+2 Break (divizeazã ieºirea fiºierului aici)
+1 Breath
+2 Respiraþie
+1 but if the text is very long, it can employ some minutes to accomplish. continue?
+2 dacã textul este foarte lung, efectuare operaþiunii poate dura câteva minute. Continuaþi?
+1 Call routine sample
+2 Apeleazã modelul de rutinã
+1 Catalan
+2 Catalanã
+1 Clipboard Contents
+2 Conþinutul spaþiului de stocare
+1 Close
+2 Închide
+1 Close DSpeech
+2 Închide Dspeech
+1 Configure voices independently
+2 Configureazã vocile independent
+1 Copy
+2 Copiere
+1 Copy	CTRL+C
+2 Copiere CTRL+C
+1 Cough
+2 Tuºit
+1 Speak Current Line 
+2 Pronunþã rândul curent
+1 Custom tag
+2 Semn personal
+1 Cut
+2 Decupare
+1 Cut CTRL+X
+2 Decupare CTRL+X
+1 Delete 
+2 ªtergere
+1 Delete	CANC
+2 ªtergere CANC
+1 Edit
+2 Editare
+1 Emphasize
+2 Accentuare 
+1 Enable TAB key on text box
+2 Activeazã tasta TAB 
+1 Encoding To Mp3...
+2 Covertire MP3 ..
+1 greek
+2 Greacã
+1 English (default)
+2 Englezã (default)
+1 English (GB)
+2 Englezã (GB)
+1 English (USA)	
+2 Englezã (USA)
+1 Exit
+2 Ieºire
+1 File
+2 Fiºier
+1 Find	CTRL+F
+2 Cãutare	CTRL+F
+1 Find
+2 Cãutare
+1 Fi&nd what:
+2 Cãutã, ce:
+1 &Find Next
+2 Cautã urmãtorul
+1 Match &case
+2 Schimbã mãrimea textului...
+1 Font Select
+2 Selecteazã text
+1 Font Select
+2 Selecteazã text
+1 Font Size
+2 Mãrime text
+1 French
+2 Francezã
+1 from here
+2 de aici
+1 Fully custom (use BREAK keyword only)
+2 Adaptare completã (foloseºte cuvântul cheie #BREAK)
+1 Go to edit box
+2 Treci la câmpul de editare
+1 Help
+2 Ajutor
+1 Insert
+2 Inserare
+1 Insert KEYWORD
+2 Inserare CUVÂNT CHEIE
+1 Insert custom TAG
+2 Inserarea semnului personal
+1 Insert special TAG
+2 Inserare semn special
+1 KEYWORD
+2 CUVÂNT CHEIE
+1 Laugh
+2 Râset
+1 Load last opened file at startup
+2 Încãrcã ultimul fiºier de la startare 
+1 New	Ctrl+W
+2 Creare fiºier nou CTRL+W
+1 Speak Next Line
+2 Pronunþã urmãtorul rând
+1 No split
+2 Fãrã divizare 
+1 On voice select speak country too
+2 Pentru voce selectaþi ºi þara respectivã 
+1 Open...	Ctrl+O
+2 Deschide... Ctrl+O
+1 Open URL...	Ctrl+U
+2 Deschide URL... Ctrl+U
+1 Open URL
+2 Deschide URL
+1 Type Url you want open...
+2 Scrieþi URL-ul, care doriþi sa-l deschideþi 
+1 Open
+2 Deschideþi
+1 Optimize Quality
+2 Optimizaþi calitatea
+1 Optimize Size
+2 Optimizaþi mãrimea
+1 Options
+2 Oþiuni
+1 Options
+2 Opþiuni
+1 or
+2 sau
+1 Other Countries
+2 Alte þãri
+1 Paste
+2 Insereazã
+1 Paste	CTRL+V
+2 Insereazã	CTRL+V
+1 Pause
+2 Pauzã
+1 Pause
+2 Pauzã
+1 Pitch
+2 Înãlþime
+1 Pitch
+2 Înãlþime
+1 Pitch (-10 to 10)
+2 Înãlþime (de la -10 pânã la 10)
+1 Play wav or mp3 file...
+2 Interpreteazã wav sau fiºierul MP3
+1 Speak Current Line
+2 Pronunþã rândul curent
+1 Speak Previous Line 
+2 Pronunþã rândul precedent
+1 Random sentencies sample
+2 Model de propoziþii întâmplãtoare 
+1 Recognition sample
+2 Model de vorbire
+1 Recognition with timeout sample
+2 Recunoaºterea modelului de vorbire
+1 Remove Useless CrLfs
+2 ªtergerea rândurilor libere 
+1 Remove Useless Return Carriage...
+2 ªtergerea rândului liber ºi inutil... 
+1 Replace	CTRL+R 
+2 Înlocuieºte CTRL+R 
+1 Replace
+2 Înlocuieºte
+1 Re&place with:
+2 Încolieºte cu ce:
+1 Replace &All
+2 Înlocuieºte totul
+1 Run file...
+2 Lansare fiºier...
+1 Run with idle priority
+2 Lansare cu prioritate joasã 
+1 Auto Bookmarks
+2 Însemnare automatã
+1 Auto load last opened file at startup
+2 La startare încarcã automat ultimul fiºier deschis 
+1 Save text file as...	Ctrl+S
+2 Salveazã textul ca...	Ctrl+S
+1 Save settings on exit
+2 La terminare salveazã setãrile 
+1 Save text file
+2 Salveazã textul 
+1 Save wav, mp3 or ogg as...	Ctrl+Shift+S
+2 Salveazã wav, mp3 sau fiºierul ogg ca... Ctrl+Maius+S
+1 Saving to file
+2 Salveazã în fiºierul 
+1 Select all
+2 Selecteazã totul 
+1 Select All	CTRL+A
+2 Selecteazã totul 	CTRL+A
+1 Select mp3 compression
+2 Selecteazã comprimarea MP3 
+1 Select SAPI interface 
+2 Selecteazã interfaþa SAPI
+1 Shortcut List
+2 Lista tastelor fierbinþi 
+1 Show Character
+2 Aratã semnul 
+1 &Internet Links
+2 link-uri de Internet
+1 Address:
+2 Adresã
+1 Go
+2 Mergi 
+1 Add
+2 Adaugã
+1 Auto Re&load
+2 Încãrcare automatã 
+1 Show Tracking
+2 Aratã cursorul 
+1 Silence
+2 Tãcere
+1 Smack
+2 Plesniturã
+1 Spanish (Argentine)
+2 Spaniolã (Argentina)
+1 Spanish (Chile)
+2 Spaniolã (Cile)
+1 Spanish (Mexico)
+2 Spaniolã (Mexic)
+1 Spanish (Spain)
+2 Spaniolã (Spania)
+1 German
+2 Germanã
+1 Dutch
+2 Olandezã 
+1 Swedish
+2 Suedezã
+1 Speak
+2 Pronunþã
+1 Speak
+2 Pronunþã
+1 Speak from here
+2 Pronunþã de aici
+1 Speak Clipboard Contents
+2 Pronunþã conþinutul spaþiului de stocare
+1 Speak From Cursor
+2 Pronunþã de la cursor
+1 Speak txt file...
+2 Pronunþã txt fiºier...
+1 Speak selected
+2 Pronunþã selectate 
+1 Speak-Stop
+2 Pronunþã-Opreºte 
+1 special TAG
+2 Semn special
+1 Speed
+2 Vitezã
+1 Speed (-10 to 10)
+2 Vitezã de la -10 pânã la 10
+1 Spell
+2 Rosteºte literã cu literã
+1 Split wav and mp3 files
+2 Divizeazã fiºierele wav ºi mp3
+1 Stop
+2 Stop
+1 Stop speak
+2 Opreºte pronunþarea 
+1 Support With Donation...
+2 Susþine cu o donaþie 
+1 Swallow
+2 Înghiþiturã
+1 Switch to next voice
+2 Treci a urmãtoarea voce 
+1 Switch to previous voice
+2 Treci la vocea precedentã 
+1 This command removes all useless return carriage from text
+2 Aceastã operaþiune ºterge din text toate spaþiile libere
+1 Throat
+2 Gât
+1 to
+2 spre
+1 txt file
+2 Fiºier txt
+1 Use SAPI4 Voices
+2 Foloseºte vocile SAPI4 
+1 Use SAPI5 Voices
+2 Foloseºte vocile SAPI5 
+1 Voice
+2 Voce
+1 Voice Select
+2 Selecteazã voce
+1 Volume
+2 Volum 
+1 Volume (0 to 100)
+2 Volum (0 pânã la 100)
+1 Wait
+2 Aºteaptã
+1 Wait (1 to 10)
+2 Aºteaptã (1 pânã la 10)
+1 When finish shutdown PC
+2 Dupã finisare închide calculatorul 
+1 When press Enter, read the line
+2 Dupã apãsarea tastei Enter, citeºte rândul 
+1 Word Wrap
+2 Sfârºirea automatã a cuvântului 
+1 Shortcut List
+2 Lista prescurtãrilor în taste
+1 Language selection
+2 Selectarea limbii
+1 Save audio file as...
+2 Salveazã fiºierul sonor ca...
+1 Save text file as
+2 Salveazã fiºierul-text ca
+1 Save text file as...
+2 Salveazã fiºierul-text ca 
+1 Open file...
+2 Deschide fiºier...
+1 Converting To Wav...
+2 Converteºte în Wav...
+1 Auto-remove inappropriate return carriages
+2 ªterge automat rândurile libere ºi nepotrivite 
+1 Auto-remove inappropriate return carriages (hard)
+2 ªterge automat rândurile libere ºi nepotrivite( forþat)
+1 Remove Inappropriate Return Carriages... 
+2 ªterge rândurile libere ºi nepotrivite 
+1 Remove inappropriate return carriages (hard)...
+2 ªterge rândurile libere ºi nepotrivite (forþat)
+1 already exists
+2 Deja existã
+1 Do you want to replace it?
+2 Doriþi sã o înlocuiþi?
+1 You need to restart for apply this changes. Restart now? 
+2 Pentru aplicarea schimbãrilor e nevoie sã restartaþi programul. Restartaþi acum?
+1 This command removes all useless return carriage from text, but if the text is very long, it can employ some minutes to accomplish, continue? 
+2 Aceastã operaþiune ºterge din text toate rândurile libere ºi inutile, dacã textul este foarte lung efectuarea operaþiunii poate dura ºi câteva minute. Continuaþi? 
+1 DSpeech requires at least 1024x768 resolution screen. 
+2 Dspeech necesitã un ecran cu o rezoluþie de ce puþin 1024 *768
+1 DSpeech Remove Useless CrLfs
+2 Dspeech ºterge rândurile libere ºi inutile 
+1 Explorer integration...
+2 Integrarea exploratorului 
+1 DSpeech Shell Extensions
+2 Extinde Dspeech
+1 Context Menu Extensions
+2 Extinderea Menu Context
+1 DSpeech Open
+2 Deschide Dspeech 
+1 DSpeech Speak Aloud
+2 Dspeech vorbeºte cu glas tare
+1 DSpeech Convert To Wav
+2 Dspeech converteºte în fiºierul Wav
+1 DSpeech Convert To MP3
+2 Dspeech converteºte în MP3
+1 Cancel
+2 Anuleazã
+1 Convert To Mp3 With DSpeech
+2 Converteºte în MP3 cu ajutorul Dspeech
+1 Open With DSpeech
+2 Deschide cu ajutorul Dspeech
+1 Speak With DSpeech
+2 Pronunþã cu ajutorul programului Dspeech
+1 Convert To Wav With DSpeech
+2 Converteºte în Wav cu ajutorul Dspeech
+1 Total Progress
+2 Indicatorul procesului 
+1 Conversion Progress
+2 În proces de conversiune
+F1 = Go to edit box.
+F1 = Mergi la câmpul de editare
+F4 = pause-resume
+F4 = Pauzã-Continuã
+F5 = Speak-Stop.
+F5 = Vorbeºte-Opreºte
+F6 or ALT+UP = Speak Previous Line.
+F6 sau Alt+sãgeatã sus= Pronunþã rândul precedent.
+F7 or ALT+LEFT = Speak Current Line.
+F7 sau ALT+sãgeatã stânga = Pronunþã rândul curent.
+F8 or ALT+DOWN = Speak Next Line.
+F8 sau ALT+sãgeatã jos = Pronunþã rândul urmãtor.
+F9 or ALT+RIGHT = Speak From Cursor.
+F9 sau ALT+sãgeatã dreapta = Pronunþã de la cursor
+F11 = Switch to previous voice.
+F11 = Treci la vocea precedentã.
+F12 = Switch to next voice.
+F12 = Treci la vocea urmãtoare.
+F11+SHIFT = Switch to first voice.
+F11+SHIFT = Treci la prima voce.
+F12+SHIFT = Switch to last voice.
+F12+SHIFT = Treci la ultima voce. 
+ESC = Stop.
+ESC = Stop.
+
+ALT+1 = Decrease volume.
+ALT+1 = Micºoreazã volumul.
+ALT+2 = Increase volume.
+ALT+2 = Mãreºte volumul. 
+ALT+3 = Decrease speed.
+ALT+3 = Micºoreazã viteza.
+ALT+4 = Increase speed.
+ALT+4 = Mãreºte viteza.
+ALT+5 = Decrease pitch.
+ALT+5 = Micºoreazã înãlþimea.
+ALT+6 = Increase pitch.
+ALT+6 = Mãreºte înãlþimea.
+
+F1 = Treci la campul de editare.
+F4 = Pauzã-Continuã.
+F5 = Vorbeºte-Stop.
+F6 sau Alt+ sãgeatã sus = Pronunþã rândul precedent.
+F7 sau Alt+ sãgeatã stânga = Pronunþã rândul curent.
+F8 sau Alt+ sãgeatã jos = Pronunþã urmãtorul rând.
+F9 sau Alt+ sãgeatã dreapta = Pronunþã de la cursor.
+F11 = Treci la vocea precedentã.
+F12 = Treci la vocea curentã.
+Shift+F11 = Treci la prima voce.
+Shift+F12 = Treci la ultima voce.
+Escape = Stop.
+
+ALT+1 = Micºoreazã volumul. 
+ALT+2 = Mãreºte volumul.
+ALT+3 = Micºoreazã viteza. 
+ALT+4 = Mãreºte viteza.
+ALT+5 = Micºoreazã înãlþimea.
+ALT+6 = Mãreþte înãlþimea.
+
+1 The text has changed, do you want to exit?
+2 Textul a fost schimbat, doriþi sã terminaþi?
+1 Open sound file
+2 Deschide fiºierul sonor
+1 Customize voice in quoted texts...
+2 Adaptaþi vocea pentru textul dintre ghilimele...
+1 Voice for quoted texts
+2 Vocea pentru textul dintre ghilimele
+1 use different voice for Quoted Text
+2 Foloseºte o voce diferitã pentru textul dintre ghilimele
+1 Speak volume number first 
+2 La început pronunþã numãrul secþiunii 
+1 Auto select voice-specific audio format 
+2 Selecteazã automat vocea corespunzãtoare formatului audio
+1 Get Clipboard
+2 Citeºte conþinutul spaþiului de stocare
+1 Start Recording
+2 Începe înregistrarea
+1 Enable AI reply when press Enter
+2 Permite rãspunsul AI dupã apãsarea tastei Enter
+1 Set ASR options...
+2 Setarea parametrilor ASR...
+1 Select AI personality
+2 Selecteazã personalitatea AI ?
+1 Stop Recording
+2 Opreºte înregistrarea 
+1 Play Recorded
+2 Interpreteazã înregistrarea
+1 Insert recorded
+2 Insereazã înregistrarea
+1 Start record
+2 Începe înregistrarea
+1 Stop "Play"
+2 Opreºte interpretarea 
+1 Select Default Conversion Table
+2 Selectaþi ieºirea tabelului de conversiune
+1 Dos to Windows
+2 DOS -Windows
+1 Apply Conversion Table...
+2 Aplicã tabelul de conversiune...
+1 Apply Default Conversion Table
+2 Aplicã ieºirea tabelul de conversiune
+1 All supported formats (*.txt *.doc *.rtf *.html *.pdf)
+2 Toate formatele susþinute (*.txt *.doc *.rtf *.html *.pdf)
+1 DSpeech - Error 
+2 DSpeech - Eroare 
+1 If you want to open DOC files you must first install MS Word 
+2 Dacã doriþi sã deschideþi un .doc fiºier, la început instalaþi MSWord
+1 Remove Inappropriate Return Carriages
+2 ªtergeþi spaþiul inutil al rândurilor
+1 Remove Inappropriate Return Carriages (Hard) 
+2 ªtergeþi spaþiul inutil al rândurilor (forþat)
+1 Batch conversion...
+2 Conversiune în cantitate...
+1 Batch conversions accomplished. 
+2 Terminarea conversiunii în cantitate  
+1 Auto-Apply Default Conversion Table
+2 Foloseºte ieºirea tabelului automat de conversiune   
+1 Record from microphone
+2 Înregistreazã de la microfon 
+1 Commands
+2 Ordine
+1 Extended Commands
+2 Ordine extinse 
+1 Start ASR
+2 Startare ASR
+1 TAGs validity for current line only 
+2 Validitatea semnelor valabilã doar pentru rândul curent 
+1 Speak volume title and volume number
+2 Pronunþã titlul ºi numãrul secþiunii 
+1 Split Options
+2 Opþiuni de divizare 
+1 Speak volume number and volume title 
+2 Pronunþã numãrul ºi titlul secþiunii 

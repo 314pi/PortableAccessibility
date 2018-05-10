@@ -1,0 +1,1088 @@
+# Janusz Chmiel <chmiel@atlas.cz>
+1 Selected
+2 Vybráno
+1 Abort
+2 Ukonèit
+1 About DSpeech
+2 O programu DSpeech
+1 Allows by F10 HotKey to enable/disable global Hotkeys validity
+2 Povolit/zakázat globální klávesové zkratky stisknutím klávesy F10
+1 Verbose mode
+2 Ozvuèený režim
+1 Add initial and final silence
+2 Pøidat poèáteèní a závìreèné ticho
+1 Append...
+2 Pøidat...
+1 as
+2 jako
+1 Audio Book creation
+2 Vytvoøit zvukovou knihu
+1 Audio format
+2 Formát zvuku
+1 Audio Output
+2 Zvukový výstup
+1 Balanced
+2 Vyvážení pomìru mezi kvalitou a velikostí
+1 Break (Split output file here)
+2 Break (zde rozdìlí výstupní soubor)
+1 Breath
+2 Nádech
+1 but if the text is very long, it can employ some minutes to accomplish. continue?
+2 pokud je text velmi dlouhý, mùže dokonèení operace trvat nìjakou dobu. Pokraèovat?
+1 Call routine sample
+2 Vyvolat vzorkovací rutinu
+1 Catalan
+2 Katalánsky
+1 Clipboard Contents
+2 Obsah schránky
+1 Close
+2 Zavøít
+1 Close DSpeech
+2 Zavøít DSpeech
+1 Advanced Options
+2 Pokroèilé možnosti
+1 Select language rule
+2 Vybrat pravidla jazyka
+1 Force specific language rule
+2 Vynutit zvláštní pravidlo jazyka
+1 General Options
+2 Hlavní možnosti
+1 Configure voices independently
+2 Konfigurovat hlasy nezávisle
+1 Always save audio with max volume
+2 Vždy ulož zvuk s maximální hlasitostí
+1 Store Pos with multiple Slots
+2 Uložení pozice s více sloty
+1 Append Clipboard Text
+2 Pøidat text ze schránky
+1 Maintain the original layout of PDF files
+2 Zachovat pùvodní rozvržení PDF souborù
+1 Maintain the stream order on PDF files
+2 Udržovat poøádek toku v PDF souborech
+1 Copy
+2 Kopírovat
+1 Copy	CTRL+C
+2 Kopírovat	CTRL+C
+1 Cough
+2 Zakuckání
+1 Speak Current Line 
+2 Èíst aktuální øádek
+1 Custom tag
+2 Øídící znaèka
+1 Cut
+2 Vyjmout
+1 Cut	CTRL+X
+2 Vyjmout	CTRL+X
+1 Delete 
+2 Smazat
+1 Delete	CANC
+2 Smazat CANC
+1 Edit
+2 Úpravy
+1 Emphasize
+2 Zdùraznit
+1 Enable TAB key on text box
+2 Zapnout klávesu TAB 
+1 Encoding To Mp3...
+2 Konvertuji na Mp3 ..
+1 greek
+2 Øecký
+1 English (default)
+2 Anglický (výchozí)
+1 English (GB)
+2 Anglický (GB)
+1 English (USA)
+2 Anglický (USA)
+1 Czech
+2 Èeský
+1 Exit
+2 Konec
+1 File
+2 Soubor
+1 Find	CTRL+F
+2 Najít	CTRL+F
+1 Find
+2 Najít
+1 Fi&nd what:
+2 Nalézt co:
+1 &Find Next
+2 Najít další
+1 Reverse
+2 Zvrátit zmìny
+1 Match &case
+2 Zamìnit veliká písmena...
+1 Find &whole word only
+2 Najít pouze celá slova
+1 Find All
+2 Najít vše
+1 Font Select
+2 Výbìr písma
+1 Font Size
+2 Velikost písma
+1 French
+2 Francouzsky
+1 from here
+2 Odtud
+1 Fully custom (use BREAK keyword only)
+2 Zcela pøizpùsobit (použij klíèové slovo # BREAK)
+1 Go to edit box
+2 Pøejdi do editaèního pole
+1 Help
+2 Nápovìda
+1 Insert
+2 Vložit
+1 Insert KEYWORD
+2 Vložit KLÍÈOVÉ SLOVO
+1 Insert custom TAG
+2 Vložit øídící znaèku
+1 Insert special TAG
+2 Vložit speciální znaèku
+1 KEYWORD
+2 KLÍÈOVÉ SLOVO
+1 Laugh
+2 Smích
+1 Load last opened file at startup
+2 Zavést naposledy otevøený soubor pøi spuštìní
+1 New	Ctrl+W
+2 Nový 	Ctrl+W
+1 Speak Next Line
+2 Èíst další øádek
+1 No split
+2 Bez rozdìlení
+1 On voice select speak country too
+2 Pro hlas také zvolte zemi øeèníka
+1 Open...	Ctrl+O
+2 Otevøít...	Ctrl+O
+1 Open URL...	Ctrl+U
+2 Otevøít URL...   Ctrl+U
+1 Open Recent...	Ctrl+R
+2 Otevøít poslední...	Ctrl+R
+1 Find Target File..	Ctrl+T
+2 Najít cílový soubor ..	Ctrl+R
+1 Open Recent
+2 Otevøít poslední
+1 Convert to audio file (wav, mp3)...	Ctrl+S
+2 Pøevést na zvukový soubor (wav, mp3, atd.)...	Ctrl+S
+1 Convert selection in audio file...
+2 Pøevést vybraný text do zvukového souboru...
+1 Open URL
+2 Otevøít URL
+1 Type Url you want open...
+2 Napište Url, který chcete otevøít
+1 Open
+2 Otevøít
+1 Optimize Quality
+2 Optimalizovat pro kvalitu
+1 Optimize Size
+2 Optimalizovat pro velikost
+1 Options
+2 Možnosti
+1 or
+2 Nebo
+1 Other Countries
+2 Ostatní hlasy
+1 Paste
+2 Vložit
+1 Paste	CTRL+V
+2 Vložit	CTRL+V
+1 Pause
+2 Pozastavit
+1 Res&ume
+2 Pokraèovat
+1 Pitch
+2 Výška
+1 Pitch (-10 to 10)
+2 výška (od -10 do 10)
+1 Play wav or mp3 file...
+2 Pøehrát wav nebo soubor MP3
+1 Delete File or Folder...
+2 Odstranit soubor nebo složku...
+1 Speak Current Line
+2 Èist aktuální øádek
+1 Speak Previous Line 
+2 Èíst pøedešlí øádek
+1 Speak From Previous Line 
+2 Èíst od pøedchozího øádku
+1 Speak From Current Line 
+2 Èíst od aktuálního øádku
+1 Speak From Next Line 
+2 Èíst od dalšího øádku
+1 Speak From Start
+2 Èíst od zaèátku
+1 Random sentencies sample
+2 Vzorek náhodných vìt
+1 Recognition sample
+2 Vzorek pro rozpoznávání
+1 Recognition with timeout sample
+2 Rozpoznávání se vzorkem s prodlevou
+1 Remove Useless CrLfs
+2 Odstranit nepotøebné øídící znaky na konci øádkù (CRLF)
+1 Remove Useless Return Carriage...
+2 Odstranit nepotøebné øídící znaky na konci øádkù (CRLF)....
+1 Replace	CTRL+h 
+2 Nahradit	CTRL+H 
+1 Replace
+2 Nahradit
+1 Re&place with:
+2 Nahradit èím::
+1 Replace &All
+2 Nahradit vše
+1 Run file...
+2 Spustit soubor...
+1 Run with idle priority
+2 Spustit s nízkou prioritou
+1 Auto Bookmarks
+2 Automatické záložky
+1 Auto load last opened file at startup
+2 Pøi spuštìní automaticky zaveï naposledy otevøený soubor
+1 Save settings on exit
+2 Pøi ukonèení ulož nastavení
+1 Save text file
+2 Uložit textový soubor
+1 Saving to file
+2 Ukládám do souboru
+1 Select all
+2 Vybrat vše
+1 Select All	CTRL+A
+2 Vybrat vše	CTRL+A
+1 Select mp3 compression
+2 Zvolte Mp3 kompresi
+1 Select SAPI interface 
+2 Zvolte SAPI rozhraní
+1 Shortcut List
+2 Seznam horkých kláves
+1 Show Character
+2 Zobrazit symbol
+1 &Internet Links
+2 Internetové odkazy
+1 Address:
+2 Adresa
+1 Go
+2 Bìž
+1 Add
+2 Pøidat
+1 Auto Re&load
+2 Auto. zavedení
+1 Show Tracking
+2 Ukaž stopu kurzoru
+1 Silence
+2 Ticho
+1 Smack
+2 Plesknutí
+1 Spanish (Argentine)
+2 Španìlsky (Argentýna)
+1 Spanish (Chile)
+2 Španìlsky (Èile)
+1 Spanish (Mexico)
+2 Španìlsky (Mexiko)
+1 Spanish (Spain)
+2 Španìlsky (Španìlsko)
+1 German
+2 Nìmecky
+1 Dutch
+2 Holandsky
+1 Swedish
+2 Švédsky
+1 Speak
+2 Èist
+1 Speak from here
+2 Èíst odtud
+1 Speak Clipboard Contents
+2 Èíst obsah schránky
+1 Speak From Cursor
+2 Èíst od kurzoru
+1 Speak txt file...
+2 Èíst .txt soubor...
+1 Speak selected
+2 Èíst vybrané
+1 Speak-Stop
+2 Èíst-zastavit
+1 special TAG
+2 Speciální znaèky
+1 Speed
+2 Rychlost
+1 Speed (-10 to 10)
+2 Rychlost (od -10 do 10)
+1 Spell
+2 Hláskuj
+1 Split wav and mp3 files
+2 Rozdìlit soubory wav a mp3
+1 Stop
+2 stop
+1 Stop speak NOOOOO
+2 Zastavit ètení
+1 Support With Donation...
+2 Podpora darem
+1 Swallow
+2 Polknutí
+1 Switch to next voice
+2 Pøepnout se na další hlas
+1 Switch to previous voice
+2 Pøepnout se na pøedchozí hlas
+1 This command removes all useless return carriage from text
+2 Tento pøíkaz odstraní z textu všechny pøebyteèné znaky návrat vozíku a posun válce
+1 Throat
+2 Hrdlo
+1 to
+2 Do
+1 Txt File (*.txt)
+2 Soubor txt (*.txt)
+1 Use SAPI4 Voices
+2 Použít SAPI4 hlasy
+1 Use SAPI5 Voices
+2 Použít SAPI5 hlasy
+1 Voice
+2 Hlas
+1 Voice Select
+2 Vybrat hlas
+1 Volume
+2 Hlasitost
+1 Volume (0 to 100)
+2 Hlasitost (0 až 100)
+1 Wait
+2 Vyèkat
+1 Wait (1 to 10)
+2 Vyèkat (1 až 10)
+1 When finish shutdown PC
+2 Po dokonèení vypnout PC
+1 When press Enter, read the line
+2 Po stisku Enter pøeèíst øádek
+1 Word Wrap
+2 Automatické zakonèení slova
+1 Shortcut List
+2 Seznam klávesových zkratek
+1 Interface language
+2 Jazyk rozhraní
+1 Save text file as
+2 Uložit textový soubor jako
+1 Save text file as...
+2 Uložit textový soubor jako
+1 Open file...
+2 Otevøít soubor
+1 Converting To Wav...
+2 Konveruji na  Wav...
+1 Auto-remove inappropriate return carriages
+2 Automaticky odstranit nevhodné øídící znaky na konci øádkù (CRLF)
+1 Auto-remove inappropriate return carriages (hard)
+2 Automatické odstranit nevhodné øídící znaky na konci øádkù (CRLF) (tvrdì)
+1 Remove Inappropriate Return Carriages... 
+2 Odstranit nevhodné øídící znaky na konci øádkù (CRLF)
+1 Remove inappropriate return carriages (hard)...
+2 Odstranit nevhodné øídící znaky na konci øádkù (CRLF) (tvrdì)
+1 already exists.
+2 Již existuje
+1 Do you want to replace it?
+2 Pøejete si jej nahradit?
+1 You need to restart for apply this changes. Restart now? 
+2 Aby se zmìny projevily, je nutné program restartovat. Pøejete si restartovat nyní?
+1 This command removes all useless return carriage from text, but if the text is very long, it can employ some minutes to accomplish, continue? 
+2 Tento pøíkaz odstraní z textu všechny ménì užiteèné konce øádkù, ale je-li text velmi dlouhý mùže jeho dokonèení zabrat i nìkolik minut. Pokraèovat?
+1 DSpeech requires at least 1024x768 resolution screen. 
+2 DSpeech požaduje rozlišení obrazovky o hodnotì alespoò 1024 *768 bodù
+1 DSpeech Remove Useless CrLfs
+2 DSpeech odstraní ménì užiteèné znaky návrat vozíku a posun válce
+1 Explorer integration...
+2 Integrace do prùzkumníka
+1 DSpeech Shell Extensions
+2 DSpeech parametry z pøíkazové øádky
+1 Context Menu Extensions
+2 Rozšíøení pro kontextové menu
+1 DSpeech Open
+2 DSpeech: Otevøít
+1 DSpeech Speak Aloud
+2 DSpeech: Èíst nahlas
+1 DSpeech Convert To Wav
+2 DSpeech: Pøevést na soubor Wav
+1 DSpeech Convert To MP3
+2 DSpeech: Pøevést na soubor MP3
+1 Cancel
+2 Zrušit
+1 Convert To Mp3 With DSpeech
+2 Pøevést s pomocí DSpeech na Mp3
+1 Open With DSpeech
+2 Otevøít s pomocí Dspeech
+1 Speak With DSpeech
+2 Èíst s pomocí DSpeech
+1 Convert To Wav With DSpeech
+2 Pøevést s pomocí DSpeech na Wav 
+1 Total Progress
+2 Indikátor prùbìhu
+1 Conversion Progress
+2 Prùbìh konverze
+1 The text has changed, do you want to exit?
+2 Text byl zmìnìn, chcete zkonèit?
+1 Open sound file
+2 Otevøi zvukový soubor
+1 Customize voice in quoted texts...
+2 Pøizpùsobit hlas pro texty v uvozovkách...
+1 Voice for quoted texts
+2 Hlas pro texty v uvozovkách 
+1 use different voice for Quoted Text
+2 Použij odlišný hlas pro text v uvozovkách
+1 Speak volume number first 
+2 Nejprve èíst èíslo oddílu
+1 Auto select voice-specific audio format 
+2 Automaticky zvolí pro hlas jemu odpovídající zvukový formát
+1 Get Clipboard
+2 Èíst ze schránky
+1 Transparent
+2 Zprùhlednit
+1 Start Recording
+2 Zahájit nahrávání
+1 Enable AI reply when press Enter
+2 Zapnout AI odpovìï po stisku Enter
+1 Allows manage SRT files
+2 Povolit správu souborù SRT
+1 Set ASR options...
+2 Nastavení ASR parametrù...
+1 Select AI personality
+2 Zvolit AI osobu
+1 Stop Recording
+2 Zastavit nahrávání
+1 Play Recorded
+2 Pøehrát zaznamenané
+1 Insert recorded
+2 Vlož zaznamenané
+1 Start record
+2 Zahájit záznam
+1 Stop Play
+2 Zastavit pøehrávání
+1 Select Default Conversion Table
+2 Zvolte výchozí konverzní tabulku
+1 Dos to Windows
+2 DOS -Windows
+1 Apply Conversion Table...
+2 Použít konverzní tabulku...
+1 Apply Default Conversion Table
+2 Použít Výchozí konverzní tabulku
+1 All supported formats
+2 Všechny podporované formáty (*.txt *.doc *.rtf *.html *.pdf)
+1 DSpeech - Error 
+2 DSpeech - Chyba 
+1 If you want to open DOC files you must first install MS Word 
+2 Pokud chcete otevírat .doc soubory, musíte nejprve nainstalovat MSWord
+1 Remove Inappropriate Return Carriages
+2 Odstranit nevhodné øídící znaky na konci øádkù ((CRLF)
+1 Remove Inappropriate Return Carriages (Soft)	Ctrl+I 
+2 Odstranit nevhodné øídící znaky na konci øádkù (CRLF) (mírnì)	Ctrl+I
+1 Remove Inappropriate Return Carriages (Hard) 
+2 Odstranit nevhodné øídící znaky na konci øádkù (CRLF) (tvrdì)
+1 Batch conversion...
+2 Dávková konverze
+1 Batch conversions accomplished. 
+2 Dávkové konverze dokonèeny
+1 Auto-Apply Default Conversion Table
+2 Automaticky použij výchozí konverzní tabulku 
+1 Record from microphone
+2 Nahrávání z mikrofonu
+1 Commands
+2 Pøíkazy
+1 Extended Commands
+2 Rozšiøující pøíkazy
+1 Start ASR
+2 Spustit ASR
+1 TAGs validity for current line only 
+2 Platnost znaèek pouze pro aktuální øádek
+1 After saving an audio file, open Explorer on that file
+2 Po uložení zvukového souboru, otevøít Prùzkumíka na tomto souboru.
+1 Audio Books Options
+2 Možnosti Audio knihy
+1 Speak volume title and volume number
+2 Ohlásit název oddílu a jeho èíslo
+1 Speak volume number and volume title 
+2 Ohlásit èíslo oddílu a jeho název
+1 Split Options
+2 Možnosti pro rozdìlení
+1 Audio Book options...
+2 Možnosti Audio knihy...
+1 Accessibility options...
+2 Možnosti usnadnìní...
+
+1 Conversion table
+2 Konverzní tabulka
+1 Select default conversion table:
+2 Vybrat výchozí konverzní tabulku:
+1 Remove return carriages
+2 Odstranit øídící znaky na konce øádkù (CRLF)
+1 Title and number
+2 Název a poèet
+1 Select Split options:
+2 Vybrat možnosti rozdìlení:
+1 5.000 Characters (ca 5 Minutes)
+2 5.000 znakù (cirka 5 minut)
+1 10.000 Characters (ca 10 Minutes)
+2 10.000 znakù (cirka 10 minut)
+1 20.000 Characters (ca 20 Minutes)
+2 20.000 znakù (cirka 20 minut)
+1 30.000 Characters (ca 30 Minutes)
+2 30.000 znakù (cirka 30 minut)
+1 45.000 Characters (ca 45 Minutes)
+2 45.000 znakù (cirka 45 minut)
+1 60.000 Characters (ca 60 Minutes)
+2 60.000 znakù (cirka 60 minut)
+1 120.000 Characters (ca 2 Hours)
+2 120.000 znakù (cirka 2 hodiny)
+1 Enable Hotkeys
+2 Povolit Klávesové zkratky
+1 Select compression level
+2 Vybrat úroveò komprese
+1 STANDARD HOTKEYS:
+
+F1 = Go to edit box.
+F2 = Go to Speak Button.
+F4 = Pause-Resume.
+F5 = Speak-Stop.
+F6 = Speak From Previous Line.
+F7 = Speak From Current Line.
+F8 = Speak From Next Line.
+F9 = Speak From Start.
+F11 = Switch to previous voice.
+F12 = Switch to next voice.
+F11+SHIFT = Switch to first voice.
+F12+SHIFT = Switch to last voice.
+ESC = Stop.
+
+ALT+LEFT = Speak Current Line
+ALT+RIGHT = Speak Next Line
+ALT+UP = Speak Previous Line.
+ALT+DOWN = Speak Next Line.
+
+CTRL+LEFT = Speak Previous Word
+CTRL+RIGHT = Speak Next Word
+
+ALT+1 = Decrease volume.
+ALT+2 = Increase volume.
+ALT+3 = Decrease speed.
+ALT+4 = Increase speed.
+ALT+5 = Decrease pitch.
+ALT+6 = Increase pitch.
+
+CTRL+SHIFT+R = Start/Stop Recording.
+CTRL+SHIFT+P = Play/Stop Recorded.
+CTRL+SHIFT+S = Save/Insert Recorded.
+
+SMART HOTKEYS:
+
+Space = Speak-Stop.
+Home = Speak From Current Line.
+PgUp = Speak From Previous Line.
+PgDn = Speak From Next Line.
+
+VOICE COMMANDS:
+
+PLAY = Speak.
+SPEAK = Speak and disable Voice Commands.
+STOP = Stop.
+PAUSE = Pause.
+RESUME = Resume.
+UP = Speak from Previous Line.
+DOWN = Speak From Next Line.
+START = Speak From Start.
+DISABLE = Disable Voice Commands.
+2 STANDARDNÍ KLÁVESOVÉ ZKRATKY:
+
+F1 = Pøejít do editaèního okna
+F2 = Pøejít na tlaèítko èíst
+F4 = Pozastavit - Pokraèovat
+F5 = Èíst - Zastavit
+F6 = Èíst od pøedchozího øádku
+F7 = Èíst od aktuálního øádeku
+F8 = Èíst od dalšího øádku
+F9 = Èíst od zaèátku
+F11 = Pøepnout na pøedchozí hlas
+F12 = Pøepnout na další hlas
+F11+SHIFT = Pøepnout na první hlas
+F12+SHIFT = Pøepnout na poslední hlas
+ESC = Zastavit
+
+ALT+LEFT = Èíst aktuální øádek
+ALT+RIGHT = Èíst další øádek
+ALT+UP = Èíst pøedchozí øádek
+ALT+DOWN = Èíst další øádek
+
+CTRL+LEFT = Èíst pøedchozí slovo
+CTRL+RIGHT = Èíst další slovo
+
+ALT+1 = Snížit hlasitost
+ALT+2 = Zvýšít hlasitost
+ALT+3 = Snížit rychlost
+ALT+4 = Zvýšit rychlost
+ALT+5 = Snížit výšku
+ALT+6 = Zvýšit výšku
+
+CTRL+SHIFT+R = Spustit/Zastavit nahrávání
+CTRL+SHIFT+P = Pøehrát/Zastavit záznam
+CTRL+SHIFT+S = Uložit/Vložit záznam
+
+RYCHLÉ KLÁVESOVÉ ZKRATKY:
+
+Space = Èíst-Zastavit
+Home = Èíst od aktuálního øádku
+PgUp = Èíst od pøedchozího øádku
+PgDn = Èíst od dalšího øádku
+
+Hlasové pøíkazy:
+
+PLAY = Èíst
+SPEAK = Èíst a deaktivovat hlasové pøíkazi
+STOP = Zastavit
+PAUSE = Pozastavit
+RESUME = Pokraèovat
+UP = Èíst od pøedešlého øádku
+DOWN = Èíst od dalšího øádku
+START = Èíst od zaèátku
+DISABLE = Deaktivovat hlasové pøíkazy
+1 Select the actually speaking word
+2 Vybrat aktuálnì ètené slovo
+1 Programmed by Dimitrios Coutsoumbas (Dimio)
+2 Naprogramoval Dimitrios Coutsoumbas (Dimio)
+1 DSpeech About
+2 O programu DSpeech
+1 Open Conversion Table...
+2 Otevøít konverzní tabulku...
+1 ASR Options
+2 Možnosti ASR
+1 Select Recognition Engine
+2 Vybrat rozpoznání enginu
+1 Select Audio Input Device
+2 Vybrat zaøízení zvukového výstupu
+1 This software is and will always remain free.
+If you are satisfied with them and want to help me to improve or motivate the development of other quality programs, any amount of donation small or large will be welcome and gratefully appreciated.
+
+Dimitrios Coutsoumbas (Dimio)
+2 Tento program je a vždy bude zdarma.
+Pokud jste spokojeni a chcete mi pomoci vylepšit tento program, nebo mì podpoøit ve vývoji dalšího softwaru, mùžete pøispìt darem, jakákoli malá èi velká èástka je vítána. 
+
+Dimitrios Coutsoumbas (Dimio)
+1 Support with a Donation
+2 Podpoøit darem
+
+1 Revert
+2 Zvrátit zmìny
+1 Save selected as audio file...
+2 Uložit vybrané jako zvukový soubor...
+1 Exit without save settings	Alt+F5
+2 Konec bez uložení nastavení	Alt+F5
+1 Exit	Alt+F4 
+2 Konec	Alt+F4
+
+1 Apply Default Conversion Table	Ctrl+D
+2 Použít výchozí konverzní tabulku	Ctrl+D
+1 Apply File-Type Specific Conversion Table	Ctrl+Y
+2 Použít konverzní tabulku specifickou pro typ souboru	Ctrl+Y
+1 Clear ClipBoard
+2 Vyèistit schránku
+1 Convert to Uppercase
+2 Pøevést na velká písmena
+1 Select Best Audio Format
+2 Vybrat nejlepší zvukový formát
+1 Select Best Voice
+2 Vybrat nejlepší hlas
+1 Voice Info
+2 Informace o hlasu
+1 ASR Settings...
+2 Nastavení ASR
+1 Advanced...
+2 Pokroèilé...
+1 Audio Book...
+2 Audio kniha...
+1 Accessibility...
+2 Usnadnìní...
+1 Auto select audio format
+2 Automaticky vybrat zvukový formát
+
+1 Accessibility options
+2 Možnosti usnadnìní
+
+1 Clear Skype Log
+2 Smazat Skype Log
+1 Remove Indent Newline
+2 Odebrad odsazení nového øádku
+1 If it needs, apply file-type specific conversion table
+2 Pokud je potøeba, požít konverzní tabulku specifickou pro typ souboru
+1 Replace ASCII number to corresponding character
+2 Nahradit èíslo ASCII odpovídajícím znakem
+1 First delimiter:
+2 První oddìlovaè:
+1 Last delimiter:
+2 Posl. oddìlovaè:
+1 Delay
+2 Prodleva
+1 Select Delay between lines
+2 Vybrat prodlevu mezi øádky
+1 No Delay
+2 Bez prodlevy
+1 1 seconds
+2 1 sekunda
+1 2 seconds
+2 2 sekundy
+1 3 seconds
+2 3 sekundy
+1 4 seconds
+2 4 sekundy
+1 5 seconds
+2 5 sekundy
+1 Custom volume title
+2 Vlastní množství titulu
+
+1 DSpeech Accessibility Options
+2 DSpeech možnosti usnadnìní
+1 Confirm Changes
+2 Potvrdit zmìny
+1 Speak selected line only
+2 Èíst jen vybraný øádek
+1 Associate free extensions (txt, rtf, html, xml, epub...) with DSpeech
+2 Pøiøadit volné pøípony (txt, rtf, html, xml, epub...) k DSpeech
+1 DSpeech Help
+2 Nápovìda k DSpeech
+
+1 Confirm Changes (On)
+2 Potvrdit zmìny (On)
+1 Confirm Changes (Off)
+2 Potvrdit zmìny (Off)
+1 Always Save Audio with Max Volume (ON)
+2 Ukládat zvuk vždy s maximální hlasitostí (ON)
+1 Always Save Audio with Max Volume (OFF)
+2 Ukládat zvuk vždy s maximální hlasitostí (OFF)
+1 Configure Voices indipendently (ON)
+2 Konfigurovat hlasy nezávisle (ON)
+1 Configure Voices indipendently (OFF)
+2 Konfigurovat hlasy nezávisle (OFF)
+1 Audio Books MOde (ON)
+2 Režim audio knihy (ON)
+1 Audio Books Mode (OFF)
+2 Režim audio knihy (OFF)
+1 SAPI5 Voices
+2 Hlas SAPI5
+1 SAPI4 Voices
+2 Hlas SAPI4
+1 Force specific language rule (ON)
+2 Vynutit specifické pravidlo jazyka (ON)
+1 Force specific language rule (OFF)
+2 Vynutit specifické pravidlo jazyka (OFF)
+1 Custom Volume Title (ON)
+2 Vlastní množství titulu (ON)
+1 Custom Volume Title (OFF)
+2 Vlastní množství titulu (ON)
+1 Append Clipboard Text (ON)
+2 Pøipojit text ze schránky (ON)
+1 Append Clipboard Text (OFF)
+2 Pøipojit text ze schránky (OFF)
+1 Custom Voice in quoted text (ON)
+2 Vlastní hlas v citovaném textu (ON)
+1 Custom Voice in quoted text (OFF)
+2 Vlastní hlas v citovaném textu (OFF)
+1 Right-Click to insert Keywords and Special TAGs
+2 Kliknutím pravého tlaèítka vkládat text a speciální znaèky
+1 Italian
+2 Italský
+1 English (US)
+2 Anglický (US)
+1 Save Recorded Wav as...
+2 Uložit záznam jako Wav...
+1 Start Record From Microphone
+2 Zaèít nahrávat z mikrofonu
+1 Txt File(*.txt)
+2 Soubor Txt (*.txt)
+1 Mp3 File (*.mp3)
+2 Soubor Mp3 (*.mp3)
+1 Expert mode user interface
+2 Režim uživatelského rozhraní pro experty
+1 Don't save anything in this session
+2 V této relaci nic neukládat
+1 Don't save anything in this session (Off)
+2 V této relaci nic neukládat (Off)
+1 Don't save anything in this session (On)
+2 V této relaci nic neukládat (On)
+1 Auto save settings every n minutes (Off)
+2 Automaticky uložit nastavení každých n minut (Off)
+1 Auto save settings every n minutes (On)
+2 Automaticky uložit nastavení každých n minuti (On)
+1 F10 to Enable Global HotKeys validity (Off)
+2 F10 povolení platnosti globálních klávesových zkratek (Off)
+1 F10 to Enable Global HotKeys validity (On)
+2 F10 povolení platnosti globálních klávesových zkratek (On)
+
+1 Save settings now
+2 Uložit nastavení nyní
+1 Save and insert recorded
+2 Uložit a vložit záznam
+
+1 Show Recent Documents at Opening (On)
+2 Zobrazi poslední dokumenty pøi otevøení (On)
+1 Show Recent Documents at Opening (Off)
+2 Zobrazi poslední dokumenty pøi otevøení (Off)
+1 Easy HotKeys (On)
+2 Jednoduché klávesové zkratky (On)
+1 Easy HotKeys (Off)
+2 Jednoduché klávesové zkratky (Off)
+1 Global HotKeys Validity (On)
+2 Platnost globálních klávesových zkratek (On)
+1 Global HotKeys Validity (Off)
+2 Platnost globálních klávesových zkratek (Off)
+
+1 Random Sample Text
+2 Náhodné ukázky textu
+1 The text has changed, do you want to continue?
+2 Text se zmìnil, chcete opravdu pokraèovat?
+1 Transparent Window
+2 Prùhledné okno
+1 Select Keyword Symbol
+2 Vybrat symbol klíèového slova
+1 Auto save settings 
+2 Automaticky ukládat nastavení
+1 Save settings every nn minutes
+2 Uložit nastavení každých nn minut
+1 5 minutes
+2 5 minut
+1 10 minutes
+2 10 minut
+1 15 minutes
+2 15 minut
+1 20 minutes
+2 20 minut
+1 30 minutes
+2 30 minut
+1 45 minutes
+2 45 minut
+1 60 minutes
+2 60 minut
+1 Show Splash Screen
+2 Zobrazit úvodní obrazovku
+1 Remove PDF page numbers
+2 Odstranit èísla stránek z PDF
+1 Easy HotKeys
+2 Jednoduché klávesové zkratky
+1 Enable global HotKeys validity
+2 Povolit platnost globálních klávesových zkratek
+1 DSpeech Play & Close
+2 DSpeech: Pøeèíst a zavøít
+
+1 Save
+2 Uložit
+1 Save as...
+2 Uložit jako...
+1 Undo	CTRL+Z
+2 Zpìt  	CTRL+Z
+1 &Open Item
+2 &Otevøít položku
+1 &Remove
+2 Odst&ranit
+1 Find &Target
+2 Nají&t cíl
+1 &Show at Opening
+2 Zobrazit pøi otevøení
+
+1 DSpeech - Open recent Document
+2 DSpeech - Otevøít poslední dokument
+1 DSpeech - Untitled
+2 DSpeech - Bez názvu
+
+1 Store &Pos
+2 Uložit &poz.
+1 Store the actual cursor position
+2 Uloží aktuální pozici kurzoru
+
+1 Auto-Apply default conversion table to text from ClipBoard
+2 Automaticky použít výchozí konverzní tabulku na text ze schránky
+
+1 Speak previous word (Ctrl+Left)
+2 Èíst pøedchozí slovo (Ctrl+Left)
+1 Speak next word (Ctrl+Right)
+2 Èíst další slovo (Ctrl+Right)
+1 Speak - Stop (F5)
+2 Èíst - Zastavit (F5)
+1 Pause - Resume (F4)
+2 Pozastavit - Pokraèovat (F4)
+1 Speak from Start (F9)
+2 Èíst od zaèátku (F9)
+1 Speak from current line (F7)
+2 Èíst od aktuálního øádku (F7)
+1 Speak from previous line (F6)
+2 Èíst od pøedchozího øádku (F6)
+1 Speak from next line (F8)
+2 Èíst od dalšího øádku (F8)
+1 Get and speak text from ClipBoard
+2 Získat a èíst text zkopírovaný do shránky
+1 Enable SRT handling (allows manage subtitle files)
+2 Povolit SRT manipulaci (umožní spravovat soubory titulkù)
+1 Enable AI (Artificial Intelligence) reply when press Enter
+2 Povolit AI (umìlou inteligenci) odpovìdìt, když stisknìte Enter
+1 If voice supports this feature, set the grammar rule of the selected language
+2 Pokud hlas podporuje tuto funkci, nastavte pravidlo gramatiky zvoleného jazyka
+1 Select symbol identifying keywords (#DO, #LOOP, #TOP...)
+2 Vybrat symbol, který identifikuje klíèová slova (#DO, #LOOP, #top ...)
+1 Set Volume, Speed and Pitch individually for every voice
+2 Nastavit Hlasitost, Rychlost a Výšku pro každý hlas zvláš
+1 Save audio files (mp3, ogg) with max volume (ignores actual volume setting)
+2 Uložit zvukový soubor (mp3, ogg) s maximální hlasitostí (ignoruje aktuální nastavení hlasitosti)
+1 When "Get Clipboard" is selected, if any text is copied on Clipboard, it's appended after existing text
+2 Když je (Získat ze schránky) vybráno, když je jakýkoli text zkopírován do schránky, pøipojí se za stávající text.
+1 If you open a PDF, removes page numbers and document title from every page
+2 Pokud otevøete PDF, odstraní se èísla stránek a tituly na každé stránce
+1 Show advanced options (for expert users only)
+2 Zobrazí pokroèilé možnosti (pouze pro zkušené uživatele)
+
+1 Save text	Ctrl+E    
+2 Uložit text	Ctrl+E
+1 Save text as...
+2 Uložit text jako...
+1 Table Formats (*.tab)
+2 Formáty tabulek (*.tab)
+1 Add BREAK keyword between appended files
+2 Vložit klíèové slovo BREAK mezi pøiložené soubory
+1 Stop speaking if you click on main window
+2 Pøestat mluvit, pokud kliknete na hlavní okno
+1 P&hrase
+2 &Fráze
+1 Select and speak aloud entire phrase
+2 Vybrat a èíst nahlas celé fráze
+1 Space Bar to start and stop Speech and other smart HotKeys 
+2 Mezerník pro spuštìní a zastavení ètení a další chytré klávesové zkratky
+1 When you tweak volume, speed or pitch, speaks aloud the value you are setting
+2 Pokud pøenastavíte hlssitost, rychlost, nebo výšku bude to èteno v této hodnotì
+1 Commands "Speak from Current/Previous/Next line" reproduce only selected line
+2 Pøíkazy "Èíst od Aktuálního/Pøedešlého/Dalšího øádku" platí pouze pro vybraný øádek 
+1 If another program has focus, HotKeys work too
+2 Pokud má jiný program aktivní vstup, klávesové zkratky pracují také
+1 Batch text files conversion to audio files...
+2 Mnohoèetný pøevod souborù na zvukové soubory (Dávka)...
+1 Select output for Batch conversion
+2 Vyberte výstup pro dávkový pøevod
+1 Allows to specify, in conversion tables, single ascii characters, e.g. [32] --> SPACE 
+2 Umožòuje urèit, v pøevodních tabulkách jednotlivé ASCII znaky, napø: [32] --> SPACE
+1 In Internet Links mode, play only new text
+2 V režimu internetových odkazù, pøehrává jen nový text
+1 Remove Each
+2 Odstranit vše
+1 Undo
+2 Zpìt
+1 Untitled
+2 Bez názvu
+
+1 Remark
+2 Poznámka
+1 Stop Speak
+2 Zastavit ètení
+1 Wait (1-60 Sec)
+2 Èekat (1-60 Sec)
+1 Delay (100-900 mSec)
+2 Prodleva (100-900 mSec)
+1 Clear Screen
+2 Smazat obrazovku
+1 Hide Window
+2 Skrýt okno
+1 Show Window
+2 Zobrazit okno
+1 Wait Any Key
+2 Èekat na libovolnou klávesu
+1 Highlight Window
+2 Okno do popøedí
+1 Do-Loop cycle
+2 Cyklus Do-Loop
+1 Exit Do-Loop cycle
+2 Konec cyklu Do-Loop
+1 Random block
+2 Náhodný blok
+1 Call Subroutine
+2 Volání podprogramù
+1 Hide and Show window sample
+2 Pøíklad zobrazit a skrýt okno
+1 Waiting for any Key Press sample
+2 Pøíklad èekání na stisk libovolné klávesy
+1 Delete Dspeech
+2 Smazat DSpeech
+1 Shutdown Computer
+2 Vypnout poèítaè
+1 Delete Dspeech + Shutdown
+2 Smazat DSpeech + Vypnout
+1 Set language
+2 Nastavit jazyku
+1 Open Folder
+2 Otevøít složku
+1 Open selected file in DSpeech
+2 Otevøít vybraný soubor v DSpeech
+1 Close this window
+2 Zavøít toto okno
+1 Browse devices to find file you want to open
+2 Procházet zaøízení pro nalezení souboru, který chceete otevøít
+1 Find selected file on disk
+2 Najít vybrané soubory na disku
+1 Remove selected file from list
+2 Odstranit vybrané soubory ze seznamu
+1 Show this window next time you start DSpeech
+2 Zobrazit toto okno pøi pøíštím spuštìní DSpeech
+1 Browse
+2 Procházet
+1 Browse...
+2 Procházet...
+1 Open Folder...
+2 Otevøít složku...
+1 Voice Info...
+2 Info o hlasu...
+1 Dspeech - Voice Info
+2 DSpeech - Informace o hlasu
+1 Name:
+2 Název:
+1 Vendor:
+2 Prodejce:
+1 Description:
+2 Popis:
+1 Gender:
+2 Pohlaví: 
+1 Native Audio Format:
+2 Nativní formát zvuku:
+
+1 File Info...
+2 Informace o souboru...
+1 Dspeech - File Info
+2 DSpeech - Informace o souboru
+1 Name:
+2 Název:
+1 Path:
+2 Cesta:
+1 Type:
+2 Typ:
+1 Total Characters:
+2 Celkem znakù:
+1 Actual Position:
+2 Aktuální pozice u znaku:
+1 Total Lines:
+2 Celkem øádkù:
+1 Actual Line Position:
+2 Aktuální pozice na øádku:
+1 Changed:
+2 Zmìnìno:
+
+1 New (Safe mode)	Ctrl+N
+2 Nový (bezpeèný režim)	Ctrl+N
+1 (Safe mode)
+2 (bezpeèný režim)
+1 Home Page Web
+2 Domovská strána na internetu
+1 Safe mode (this time don't save settings)
+2 Bezpeèný režim (tentokrát neukládat nastavení)
+1 Ready
+2 Pripraven
+1 Save As Mp3
+2 Uložit jako Mp3
+1 Res&tore Pos
+2 Obnovit poz.
+1 Convert in audio file (wav, mp3, etc)...
+2 Pøevést na zvukový soubor (wav, mp3, atd.)...
+1 Make window transparent
+2 Udìlá okno prùhledné
+1 Save actual cursor position
+2 Uloží aktuální pozici kurzotu
+1 Restore previous cursor position
+2 Obnovit pøedchozí pozici kurzoru
+1 Speak previous word (Ctrl + Left)
+2 Pøeète pøedchozí slovo (Ctrl + vlevo)
+1 Speak next word (Ctrl + Right)
+2 Pøeète další slovo (Ctrl + vpravo)
+1 DSpeech Append
+2 DSpeech: Pøidat
+1 DSpeech Converts To Wav
+2 DSpeech: Pøevést na Wav
+1 Lingua Code:
+2 Kód jazyku:

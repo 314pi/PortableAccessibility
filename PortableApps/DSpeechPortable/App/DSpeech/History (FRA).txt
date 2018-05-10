@@ -1,0 +1,694 @@
+DSpeech - HISTORY
+~~~~~~~~~~~~~~~~~
+
+v. 1.68
+
+- Introduction de la fonction Explorateur de polices qui vous permet d'afficher et de tester de nouvelles polices sans avoir à les installer dans le système.
+- Insertion de la fonction Copier en image qui en pratique fait une capture d'écran du contenu de la zone de texte et la copie dans le presse-papier.
+- Adaptation des menus et rendu plus ergonomique.
+- Corrections et diverses améliorations.
+
+v. 1.67
+
+- Insérez la fonction Table des caractères qui vous permet d'insérer rapidement dans le texte des caractères spéciaux non disponibles avec le clavier utilisé (comme les majuscules accentuées, le double S allemand ou le n avec l'accent circonflexe).
+- Maintenant, dans la liste des personnages, les plus récents sont affichés en premier.
+- Introduit une fonction qui vous permet de charger et d'utiliser un type donné de police juste pour la durée de la session de travail du programme.
+- Corrections et diverses améliorations.
+
+v. 1.66
+
+- Ajout de l'outil "Editeur de prononciation" qui vous permet d'adapter la prononciation des mots à des entrées synthétiques, par exemple pour avoir le terme "DSpeech" à une voix italienne, vous pouvez convertir la prononciation en "D-Spich".
+- Le nouvel élément de menu "Application Info" vous permet d'obtenir rapidement des informations sur le fichier de configuration actuellement utilisé et sur tout fichier ouvert et son encodage.
+- Modifications mineures et améliorations (par exemple maintenant, quand vous commencez à convertir un morceau de texte sélectionné, un titre extrapolé de ce dernier sera proposé à la place de la traditiolnelle "Selected 01, 02 etc", qui sera réservée uniquement aux cas dans lequel la première option n'est pas réalisable).
+
+v. 1.65
+
+- Modification de la gestion du numéro de série, maintenant les deux premiers chiffres indiquent le numéro de version réel, tandis que le dernier chiffre indique le numéro de build, cela signifie que, par exemple, dans la version actuelle, v1.65, sera un chiffre supplémentaire est également visible pour indiquer le nombre de fois que la version a été compilée (x es 1.65.14). Supposons donc qu'après la sortie de la version 1.65, un petit bogue est découvert dans le programme, il sera immédiatement résolu et le programme recompilé avec un numéro de build incrémenté de 1. Cela évite d'avoir à publier de nouvelles versions pour chaque petit bogue. , mais permet également à ceux qui sont intéressés, d'avoir la dernière version complète du programme.
+- Amélioration de la rapidité avec laquelle le programme applique des traductions aux différentes langues à l'interface.
+- Ajout de la fonctionnalité de conversion de texte en temps réel, ce qui vous permet d'appliquer une série de modifications au texte pendant la conversion elle-même sans modifier le texte, ceci est particulièrement valable pour changer des mots étrangers ou des composites qui sont mal prononcé par des voix synthétiques.
+- Ajout d'une option pour préserver le formatage original des fichiers PDF lorsqu'ils sont lus par le programme.
+- Autres changements mineurs.
+
+v. 1.64.9
+
+- Ajout de la possibilité de convertir le format audio Speex (.spx) spécialement conçu pour l'audio parlé.
+- Introduit la possibilité de convertir au format audio Adaptive Multi Rate (.amr) même si, dans ce cas, le paquet n'a pas les fichiers nécessaires à la conversion (je ne les ai pas mis pour ne pas surcharger le zip). Je le verrai à les rendre disponibles dans un téléchargement séparé.
+- Ajout d'une option pour décoder manuellement le texte dans le format spécifié (ceci peut être utile si le fichier à lire n'a pas d'en-tête ou est corrompu, si la recherche heuristique a échoué).
+- Corrections d'erreurs et changements mineurs.
+
+v. 1.64.8
+
+- Ajout de convertir un fichier audio au format AC3.
+- Ajout d'une option pour faire une tentative de décodage de texte heuristique (le programme essaie de trouver le type de codage en analysant le texte).
+- Maintenant, lorsque vous créez des livres audio, si les options de fractionnement sont définies, mais que le texte à convertir est plus petit que le minimum spécifié, seul le fichier mp3 (ou ogg, acc ...) sera créé sans créer de dossier spécial qui le contient, il agit comme si les options de fractionnement étaient désactivées.
+- Vous pouvez maintenant utiliser des caractères Unicode pour les chemins et les noms de fichiers convertis.
+- Corrections d'erreurs et changements mineurs.
+
+v. 1.64.7
+
+- Déplacement de toute la partie de sélection du type d'ASR et du périphérique à utiliser comme sortie sur la page principale.
+- Ajout de l'option "Texte en Clair" qui vous permet de supprimer toutes les traces de mise en forme du texte et fonctionne comme n'importe quel éditeur de texte brut.
+- Ajout de l'option "Texte en Hexadecimal" qui vous permet d'afficher n'importe quel fichier, octet par octet, et de l'analyser (actuellement seulement en lecture seule, si quelqu'un souhaiterai ajouter une modification binaire, faites le moi savoir et je verrai si vous pouvez le faire).
+- Ajout d'une option à partir de la ligne de commande "INI" pour spécifier l'utilisation d'un fichier ini donné (si vous ne spécifiez pas de chemin, vous utiliserez celui du programme lui-même.
+- Correction d'erreur.
+
+v. 1.64.6
+
+- Ajout de deux éléments de menu pour le changement de police, dont l'un vous permet de n'afficher que les polices à espacement fixe.
+- Rendre le menu contextuel plus rationnel et ajouter un mot-clé pour obtenir l'arrêt du compte à rebours.
+- Amélioration des performances du programme en général et des traductions dans les différentes langues en particulier.
+- Maintenant, le programme est également capable d'ouvrir et d'enregistrer en encodage UTF-7.
+- Vous pouvez maintenant spécifier (à partir d'une option spéciale) si, dans la liste des façons dont vous pouvez enregistrer des fichiers texte, vous devez inclure les modes inutilisés tels que UTF32 Big Endian ou UTF-7 lui-même.
+- Nombreux changements dans l'Interface Utilisateur.
+- nombreuse(s) correction(s) d'erreur(s).
+
+v. 1.64.5
+
+- Introduit deux nouvelles options de ligne de commande, et deux mots clés similaires, les FULLTEXT et FULLSCREEN qui fournissent en mode plein écran, respectivement la zone de texte et/ou l'ensemble du programme et, enfin, le mot-clé RESTORE pour désactiver à la fois la FullScreen la FullText .
+- Maintenant, si vous sélectionnez un mot (ou même plusieurs) et appuyez sur Lire, ne sera prononcé que le mot indiqué, pour revenir à la lecture normale de double cliquer sur Lire, ou supprimer la sélection.
+- Maintenant le programme peut décoder presque tous les encodages automatiquement, les tables de conversion, ayant fondues au soleil, conservent encore une certaine utilité, par exemple pour transformer l'accentuation (caret, tréma) dans des normes de voyelles accentuées que les voix synthétiques lisent avec moins de difficulté. Il serait toujours utile de créer une table pour le codage Dos Windows, si vous en avez créé une intéressante et voulez l'inclure dans le paquet, faites le moi savoir.
+- Optimiser certaines parties de code critiques, ce qui devrait améliorer considérablement la vitesse d'exécution.
+
+v. 1.64.4
+
+- Vous pouvez maintenant spécifier si en lisant un HTML, vous voulez essayer de le garder formaté ou pas (comme la traduction ne fonctionne pas très bien, il peut être plus pratique de désactiver cette option).
+- Ajout de la possibilité d'ouvrir (lire) des fichiers ODT (Open Document).
+- Ajout du menu Vue et du menu Outils qui permettent de redistribuer les différentes options de façon plus rationnelle.
+- Diverses corrections de bugs concernant le formatage du texte et l'interface utilisateur en général (introduit avec les dernières options de formatage).
+- Autres changements de moindre importance.
+
+v. 1.64.3
+
+- Maintenant, vous pouvez faire des substitutions avec du texte formaté ainsi que du texte brut.
+- Ajout, à côté du bouton "Lire", d'un nouveau bouton "Sp/Up" pour reprendre la lecture depuis le début du texte.
+- Maintenant, le bouton "Lire la ligne précédente" ne fait plus référence à la première ligne du texte, mais à la ligne où vous avez appuyé sur "Lire", c'est pratiquement une sorte de fonction "Arrière" pour revenir au point précédent. sans utiliser la fonctionnalité "Enreg Pos".
+- nombreuse(s) correction(s) d'erreur(s).
+
+v. 1.64.2
+
+- Lors de la première exécution, s'il y a plusieurs fichiers .lng dans le dossier racine ou dans le sous-dossier \ LNG, le programme vous permettra de choisir votre langue préférée directement.
+- Les packs de langues ont été directement intégrés dans le zip principal, il n'est donc plus nécessaire de les télécharger et de les installer séparément.
+- Ajout d'une barre de traitement de texte avec la possibilité de changer la police, la taille, la couleur, l'alignement, l'interlignage et d'autres fonctionnalités de texte.
+- La zone de sélection d'élément a également été déplacée vers la barre d'édition.
+- Ajout de la possibilité d'activer la barre de sélection rapide à gauche du texte.
+- Réactivé l'option pour les phrases aléatoires (désactivée involontairement à la suite des innovations dans le menu).
+- Diverses adaptations et améliorations apportées à la capture du programme et du presse-papiers afin que le texte formaté puisse être géré en plus du texte Unicode standard.
+- nombreuse(s) correction(s) d'erreur(s).
+
+v. 1.64.1
+
+- Ajout de compatibilité en lecture et en écriture avec les fichiers UTF-32 LE et BE.
+- Correction et correction(s) d'erreur(s) varié.
+
+v. 1.64.0
+
+- Ajout d'une option pour enregistrer et sauvegarder les dimensions de la fenêtre une fois redimensionnée (active par défaut).
+- Améliorations fixes et diverses.
+
+v. 1.63.9
+
+- Diverses améliorations dans le code, notamment en ce qui concerne l'insertion de TAG et de Mots-Clés.
+- Certaines options ont été déplacées/modifiées (par exemple, Transparent, Majuscule et Minuscule, et Créer un Mp3).
+- L'option de conversion en MP3 du texte sélectionné a été remplacée par la version standard qui, si elle est sélectionnée, convertit tout ou partie du texte.
+- Correction et correction(s) d'erreur(s) varié.
+
+v. 1.63.8
+
+- Ajout du mode "Plein Ecran" qui vous permet de visualiser uniquement la zone de texte agrandie avec ou sans la barre de menu (en option).
+- Amélioration de la gestion interne des liens.
+- Maintenant, le programme peut également enregistrer les fichiers texte Big Endian UTF-16.
+- Correction mineure.
+
+v. 1.63.7
+
+- Maintenant, vous pouvez également ouvrir des liens directement.
+- Améliorer les performances globales du logiciel.
+- Ajout de la possibilité d'enregistrer au format texte UTF-8 qui, par rapport à l'Unicode, économise souvent de l'espace disque.
+- Amélioration du décodage automatique de différents formats, notamment le format "epub" (livre électronique).
+- Déploiement automatique de tables spécifiques aux fichiers (qui doivent être révisées car elles posent parfois des problèmes au lieu de les résoudre).
+- Correction mineure.
+
+v. 1.63.6
+
+- Maintenant, l'algorithme de conversion de wav, mp3, etc. fonctionne sur une bande de roulement parallèle, ce qui vous permet d'augmenter considérablement la vitesse de conversion et d'assurer une meilleure réponse de l'interface tout au long du processus.
+- Ajout d'une option pour vérifier s'il existe une version plus récente en ligne.
+- Correction mineure.
+
+v. 1.63.5
+
+- Ajout du cube en rotation comme une alternative possible au haut-parleur (en fonction de la couleur et de la taille du cube, vous pouvez savoir à quel point vous êtes dans le texte).
+- Correction de quelques petits bugs introduits avec la dernière version.
+
+v. 1.63.4
+
+- Ajout du cube en rotation comme une alternative possible au haut-parleur (en fonction de la couleur et de la taille du cube, vous pouvez savoir à quel point vous êtes dans le texte).
+- Ajout de la possibilité de désactiver l'écran de démarrage de son propre écran (sans avoir à entrer dans les options).
+- Ajout de la possibilité d'enregistrer au format audio .Opus.
+- Ajout de l'option pour enregistrer dans le format audio .Amr, pour ne pas alourdir le paquet, cette option n'a pas été activée, si vous souhaitez qu'elle soit activée, faites le moi savoir.
+- De nombreuses corrections et de petites améliorations.
+
+v. 1.63.3
+
+- Vous pouvez maintenant ouvrir plusieurs fichiers simultanément en les faisant glisser ensemble dans la fenêtre du programme.
+- Modifié la Barre Système, qui devrait être vue complètement sur n'importe quel système.
+- Correctionsdiverses.
+
+v. 1.63.2
+
+- Amélioration de la compatibilité avec les lecteurs d'écran (le programme est testé spécifiquement avec NVDA).
+- Ajout d'une option qui permet (facultativement) d'afficher et de minimiser l'icône du programme dans la Barre Système au lieu de dans la barre des tâches.
+- Correction de divers.
+
+v. 1.63.1
+
+- Système d'impression amélioré, vous pouvez maintenant définir les options d'impression ou ouvrir une fenêtre pour sélectionner les imprimantes, puis imprimer.
+- correction(s) d'erreur(s) et les ajustements minimum de l'Interface Utilisateur.
+
+v. 1.63.0
+
+- Divers correction(s) d'erreur(s), améliorations dans les fonctions d'impression, modifications de l'interface utilisateur et adaptations cosmétiques et techniques pour Win10.
+- Élimine l'effet rebond énervant des boutons Info-Bulles.
+- Maintenant, les fichiers XML, lorsqu'ils sont ouverts, sont automatiquement formatés et indentés.
+
+v. 1.62.9
+
+- correction(s) d'erreur(s).
+
+v. 1.62.8
+
+- Ajout de la possibilité d'imprimer le contenu de la zone de texte.
+- Ajout de la possibilité d'enregistrer des fichiers texte au format RTF sans perdre le formatage d'origine.
+- Ajout de la possibilité d'ouvrir et enregistrer des fichiers au format HTML.
+- Amélioration de la prise en charge du format standard pour les livres électroniques ePub.
+- Maintenant, les fichiers Word sont ouverts, en gardant autant que possible le formatage d'origine.
+- Ajout de la possibilité de travailler avec différentes polices dans le même document.
+- Améliorations fixes et diverses.
+
+v. 1.62.7
+
+- Ajout de l'élément de menu "New (Safe Mode)" qui permet d'ouvrir un nouveau document et/ou de tester sans craindre de perdre le signe ou d'altérer les autres paramètres du programme, car rien ne sera sauvegardé. Cette fonction peut être utilisée pour une utilisation occasionnelle ou pour tester sans modifier les paramètres.
+- Remplacement du contrôle "Edit" de la fenêtre principale par le "RichEdit" le plus complet, qui permet différentes combinaisons de caractères et mises en page personnalisées.
+- Correction mineure.
+
+v. 1.62.6
+
+- Il est maintenant possible d'utiliser des chemins plus longs que 256 caractères (ce qui était la limite standard pour les fichiers ini).
+- Supprimez les icônes de raccourcis.
+- Correction du bug d'affichage avec Windows 10.
+- Correction mineure.
+
+v. 1.62.5
+
+- Curseurs modifiés avec une version plus moderne.
+
+v. 1.62.4
+
+- Remplacé le bouton "Phrase" inutile (qui était en fait un espace réservé en attente de fonctionnalités plus utiles), avec "Convertir en MP3" qui vous permet de convertir tout le texte ou juste le texte sélectionné en fiechier
+- Correction de quelques bugs mineurs.
+
+v. 1.62.3
+
+- Réécrire les différentes parties du programme pour rendre DSpeech entièrement compatible avec les systèmes d'exploitation modernes.
+- Amélioration de la gestion des fichiers EPUB.
+- Mises à jour correctives mineures.
+
+v. 1.62.2
+
+- Version non publiée.
+
+v. 1.62.1
+
+- Améliorations de l'Interface Utilisateur.
+- Diverses mises à niveau dans les routines de conversion.
+- Mises à jour mineures.
+
+v. 1.62
+
+- Introduit la compatibilité avec les noms de fichiers et les chemins Unicode.
+- Mises à jour mineures.
+
+v. 1.61.1
+
+- Ajout de la possibilité de télécharger un lien internet toutes les 30 secondes (avant la limite était au moins d'une minute).
+- Maintenant, si vous désactivez le suivi, vous pouvez ignorer le texte pendant la lecture.
+- Ajout d'un élément de menu pour effacer le contenu du Presse-Papier.
+- Ajout de l'option permettant d'ajouter l'option APPEND au menu contextuel de l'explorateur.
+- Transférer certaines options pour certains paramètres à des positions plus commodes.
+- Maintenant, la fonctionnalité Remplacer vous permet de trouver et remplacer aussi des chaînes.
+- Correction d'un bug qui empêchait la bonne synchronisation entre le texte parlé et le texte sélectionné, dans le cas où le texte afficherait des guillemets de différents types.
+- Amélioration de l'option permettant de supprimer les numéros de page, les auteurs et les titres des pages PDF individuelles.
+- Retouche de l'Interface Utilisateur et corrections mineures.
+
+v. 1.61
+
+- Ajout de la possibilité de choisir le format audio de sortie pour les conversions par lots.
+- Vous pouvez maintenant faire glisser un nouveau fichier pour l'ouvrir également dans la fenêtre du fichier récemment ouvert.
+- Améliorer certains éléments de menu pour les rendre plus intuitifs et compréhensibles, idem pour diverses sous-fonctions de paramètres.
+- Ajout de l'option permettant de choisir d'insérer ou non un mot-clé BREAK entre un fichier et le fichier joint suivant.
+- Extension des options de split pour les livres audio.
+- Maintenant dans la StatusBar, la position du curseur et la taille globale du texte sont représentées.
+- Correction de quelques problèmes graphiques mineurs sur l'interface.
+- Correction mineure.
+
+v. 1.60.9
+
+- Amélioration de la fonction Pause/Reprise.
+- Ajout de la possibilité d'interrompre la lecture du texte en cliquant sur le texte lui-même.
+- Ajout du bouton "Transparent" pour faire de la fenêtre principale de la fenêtre transparente, ce qui la rend visible en dessous.
+- Ajout d'un bouton pour surligner et lire la phrase sur laquelle le curseur est positionné.
+- Correction de quelques bugs rares.
+- Touches d'interface utilisateur minimales.
+- Remarque: Les boutons "Phrase" et "Transparent" sont plus que des espaces réservés pour toutes les nouvelles fonctionnalités qui peuvent être introduites plus tard sans qu'il soit nécessaire de modifier l'interface.
+
+v. 1.60.8
+
+- Amélioration du menu déroulant avec les éléments que vous pouvez sélectionner, maintenant le nom des éléments est relativement petit et le menu lui-même a été élargi de sorte que vous pouvez voir les différents types de voix avec facilité.
+- Ajout de la possibilité de spécifier si, après avoir créé et sauvegardé un fichier audio, une fenêtre d'explorateur doit s'ouvrir avec sa sélection.
+- De temps en temps, un comique rappelle que KEYWORDS doit rester seul sur une ligne et ne peut pas être insérer avec d'autres mots.
+- Ajout d'une alerte sonore pour indiquer l'activation/désactivation des Mot-Clé globaux du F10.
+- Corrections mineures et modifications minimales de l'interface utilisateur.
+
+v. 1.60.7
+
+- Ajout d'une option (Options -> Accessibilité) qui vous permet d'activer/désactiver Global Mot-Clé (ce groupe de Mot-Clé qui sont interceptés même si DSpeech travaille en arrière-plan ou si vous travaillez avec un autre programme) avec le appuyez simplement sur F10. Cela peut être très utile, par exemple, imaginez que vous souhaitez commencer à lire un texte en cours de lecture mais sans avoir à quitter votre situation (par exemple, Outlook), appuyez simplement sur F10, puis appuyez sur F10 F9 (qui ordonne à DSpeech de reprendre la lecture de l'en-tête) puis appuyez à nouveau sur F10 pour désactiver tout le reste des Mot-Clé qui pourraient nous déranger si nous faisons autre chose à ce moment-là (cette option peut aussi être activée) de la baguette).
+- Autres modifications mineures et corrections mineures.
+
+v. 1.60.6
+
+- Ajout, dans le menu contextuel, de l'option permettant de supprimer toutes les occurrences de la chaîne actuellement sélectionnée (Remove Each) du texte. De cette façon, vous pouvez supprimer rapidement tous les caractères étranges sans avoir à utiliser la fonction "Remplacer" et/ou appliquer des tables de conversion.
+- Correction de quelques bugs incluant l'erreur générée par l'ouverture de fichiers PDF défectueux.
+
+v. 1.60.5
+
+- Ajout du paramètre de ligne de commande "/ VOICE" qui spécifie la voix à utiliser. Il doit être suivi d'une chaîne avec le nom du guillemet (pas nécessairement complet), par exemple:
+DSpeech /VOICE "Silvia"
+- Augmenter les chances de choisir l'intervalle entre les rechargements des pages web (va maintenant de 1 minute à 1 heure).
+- La commande "Store Pos" pour stocker la position du curseur vous permet maintenant d'utiliser plusieurs slots ou l'unique slot habituel comme d'habitude.
+- Entrez un compteur pour le nombre total de caractères et un voyant pour indiquer quand l'enregistrement audio est actif.
+- Diverses modifications et corrections mineures.
+
+v. 1.60.4
+
+- Complètement changé la disposition des liens Internet.
+- Dans la fonction de rechargement automatique des pages Internet, vous pouvez maintenant spécifier l'intervalle de temps.
+- Maintenant, dans les tables de conversion, vous pouvez spécifier des caractères ASCII en les indiquant avec le numéro correspondant, un type [32] qui correspond au code ASCII 32, c'est-à-dire, l'espace. Il est possible de spécifier des délimiteurs personnalisés (les délimiteurs par défaut sont double quadruple: [[32]].
+- Ajout de la possibilité d'appliquer automatiquement la table de conversion par défaut au texte copié à partir de Presse-Papier.
+- Augmentez la taille de texte maximale pouvant être copiée automatiquement à partir de Presse-Papier (10 000 caractères à 1 000 000 caractères).
+- Diverses modifications et corrections mineures.
+
+v. 1.60.3
+
+- Maintenant, le volume, la vitesse et le pas sont affichés non seulement graphiquement, mais aussi avec leur valeur numérique précise.
+- Maintenant, la fonctionnalité de doublage de films prend également en charge VideoLAN VLC Player et MPV Player en plus de Media Player Classic & C. déjà mentionné
+- Si vous essayez d'ouvrir un fichier vidéo, essayez d'ouvrir le fichier de sous-titres correspondant (le cas échéant).
+- Ajout de l'option "Find Target File" pour ouvrir une fenêtre de l'Explorateur sur le fichier actuellement ouvert.
+- Vous pouvez maintenant spécifier combien de minutes vous voulez sauver automatiquement (ou même l'éteindre complètement).
+- Dans la barre d'état, il y a maintenant une zone qui indique l'extension du fichier ouvert et sa typologie (indiquée par une couleur spéciale).
+- Maintenant, si la fonction "Autorise la gestion des fichiers SRT" n'est pas sélectionnée, DSpeech ne peut pas ouvrir les fichiers SRT (cela signifie que tout le monde ne connaît pas les fichiers SRT, ceux qui ne les connaissent pas doivent les désactiver) ).
+- Amélioration de la gestion des lecteurs multimédia dans la fonction de doublage de films.
+- Maintenant, au premier démarrage, DSpeech tente de sélectionner la meilleure entrée parmi celles disponibles dans la langue du système, la même que pour l'entrée de texte citée, qui est également activée par défaut.
+- Introduit quelques alertes de sécurité pour protéger l'utilisateur face à des opérations potentiellement dangereuses.
+- Maintenant, les options du menu contextuel de l'explorateur pour ouvrir et lire un fichier avec DSpeech ou pour le convertir en wav ou en mp3 lorsque le programme se ferme ne permettent pas d'enregistrer les paramètres.
+- Correction d'un bug conceptuel dans l'environnement de développement qui a déterminé, lors de l'ouverture du programme, de créer un fichier dans le répertoire temporaire (c'était le fichier de l'icône du programme, et maintenant l'icône est créée et gérée par programme lui-même).
+- Moins de changements et de corrections.
+
+v. 1.60.2
+
+- DSpeech est maintenant capable de doubler des films en lisant les sous-titres pendant la visualisation, supportant ainsi les fichiers de sous-titres (format .SRT). Avec cette fonctionnalité, vous pouvez lire les sous-titres tout en regardant un film sans être obligé de les lire à l'écran (ce qui empêche souvent le film de se produire). Si vous avez défini une entrée différente pour la lecture du texte entre guillemets, cela améliorera le résultat final, car la norme de sous-titrage fournit une double voix. Le seul Media Player pris en charge par cette fonctionnalité est Media Player Classic et versions ultérieures.
+- Maintenant, si vous lisez un fichier SRT et que la voix appropriée est sélectionnée, lorsque vous lancez la lecture, la vidéo correspondante est également démarrée via le lecteur Media Player en cours de lecture. Si vous utilisez Media Player Classic ou une version ultérieure, la lecture et la vidéo sont synchronisées à tout moment dans le texte. Par exemple, si vous lancez la lecture à partir du milieu du texte, la vidéo sera également lancée. la moitié du film. Si vous utilisez un autre lecteur multimédia, la lecture commencera toujours depuis le début. (Ceci peut être changé dans le futur tant que Media Player en question a la capacité de démarrer, en spécifiant la ligne de commande, un film de nnn millisecondes.
+- Introduction du paramètre de ligne de commande "/ MINIMIZE" pour démarrer le programme minimisé.
+- Moins de changements et de corrections.
+
+v. 1.60.1
+
+- Introduit un système de pré-traitement pour formater les textes, en effet, pour une limite Windows, les zones de texte ne peuvent contenir plus de lignes de 1024 caractères, dans ce cas, elles sont présentées aux boss qui rompent le plus naturellement possible , ces lignes trop longues les rendant parfaitement utilisables.
+- L'application de la table de conversion par défaut et la suppression des retours de rebonds inutiles sont désormais effectuées lorsqu'un fichier est ouvert au lieu de le convertir en wav ou en mp3.
+- Ajout de l'option permettant de choisir si les commandes "Parler de courant /Précédent /Suivant /Ligne de départ" doivent être utilisées pour lire la seule ligne indiquée, ou que la lecture continue avec les lignes suivantes.
+- Ajout de la fonction Annuler pour annuler la dernière modification apportée au texte (Annuler).
+- Maintenant, les commandes "Store Pos" et "Restore Pos" fonctionnent également lorsque la lecture est activée.
+- Diverses modifications et corrections mineures.
+
+v. 1.60
+
+- Révision de l'interface, des boutons pour reproduire le texte et la marge de gauche, la précédente et les suivants ont été recueillis ensemble et plus intuitive graphiquement sans compromettre la facilité d'utilisation par les lecteurs d'écran. Le bouton permettant de lire le contenu du Presse-Papier a également été déplacé.
+- Introduit la possibilité d'utiliser des commandes vocales pour contrôler le programme (par exemple "PLAY", "SPEAK", "PAUSE" ou "DISABLE" pour désactiver les commandes vocales). Évidemment, parce que cette fonctionnalité fonctionne bien, le microphone avec lequel les commandes sont données ne couvre pas DSpeech pendant la lecture du texte, sinon le programme peut se commander avec des résultats inattendus.
+- Avec deux nouveaux boutons, vous pouvez maintenant enregistrer la position actuelle du curseur et restaurer plus tard, ce qui est utile si, par exemple, vous voulez aller à un point précis du texte que vous lisez, puis revenir au point qui avait quitté le signe.
+- Un nouveau bouton vous permet maintenant de visualiser rapidement la fenêtre avec des documents récents (ce qui est plus d'un PlaceHolder, si un jour DSpeech sera enrichi par une nouvelle fonction importante, cette clé peut être utilisée pour elle).
+- Maintenant, la commande commande « /PLAY » ligne texte à la joint commande « #Fermer », donc DSpeech lit le texte pertinent et se referme automatiquement, dito l'explorateur de commande contextuelle.
+- Maintenant dans les enregistrements de microphone et les sauvegardes suivantes est stocké le chemin et le choix entre wav et mp3.
+- Réaffecter certaines des icônes de raccourci à d'autres options.
+- [DATA] Maintenant, la possibilité d'inclure un court intervalle de silence au début et à la fin du fichier de sortie utilise WAIT et non le KeyWord TAG SILENCE qui a souvent des problèmes parce que chaque moteur TTS interprète les TAGs à sa manière .
+- Diverses modifications et correctifs divers.
+
+v. 1.58.8
+
+- Insérer une fenêtre qui vous permet d'ouvrir des documents récemment ouverts, elle peut être affichée à chaque démarrage ou même à la demande de l'utilisateur lors de l'exécution (à partir du menu Fichier ou de la combinaison Ctrl + R).
+- Introduction d'une nouvelle option Smart Mot-Clé, active par défaut, qui active un groupe de Mot-Clé simplifiés pour les opérations les plus courantes. Par exemple, pour démarrer ou arrêter la lecture de texte, appuyez simplement sur la barre d'espace (ou Ctrl + Espace si la zone de texte est active), la touche Accueil redémarre la lecture à partir du début de la ligne courante, tandis que les touches PagUp et PagDown sont utilisés pour lire la phrase précédente et suivante.
+- Rendre les noms de certaines options et éléments de menu plus intuitifs.
+- EasterEgg a été éliminé (en vain).
+- Version Note aux traducteurs: plusieurs options ont maintenant une info-bulle (la bande dessinée qui apparaît lorsque vous vous tenez dessus avec la souris) qui expliquent le mieux la fonction à laquelle elles se rapportent; peut être traduit en douceur, néanmoins attendre recommande avant de faire, en fait, mon anglais est pas parfait et il est probable que dans les prochaines versions de certains d'entre eux seront modifiés.
+- Ajout d'un écran de démarrage initial (désactiver dans le menu Options -> Avancé).
+- Réaffecter certaines des icônes de raccourci à des options plus utiles.
+- Moins de changements et de corrections.
+
+v. 1.58.7
+
+- Maintenant, l'attente générée par le mot de passe "WAIT_ANYKEY" peut être interrompue non seulement en appuyant sur n'importe quelle touche, mais aussi en cliquant simplement sur la souris.
+- Ajout du mot clé "DELAY" qui vous permet d'entrer une attente de 100 à 900 millisecondes avant de continuer.
+- A partir de maintenant, les enregistrements réalisés directement depuis le microphone peuvent être sauvegardés sous forme de fichiers mp3 ainsi que dans le format wav habituel.
+- Maintenant, dans les options de création de livres audio, vous pouvez spécifier 100 millisecondes à 5 secondes en tant que délai d'interligne (avant que la plage soit comprise entre 1 et 5 secondes).
+- Menu contextuel mis à jour pour KeyWords.
+- Maintenant, si votre fichier ini a été généré par une autre version de DSpeech, il est supprimé et ignoré, ce qui élimine tous les problèmes d'incompatibilité entre les fichiers ini des différentes versions.
+- Changements et de corrections mineurs.
+
+v. 1.58.6
+
+- Minimiser le temps de transition entre les lignes.
+- Ajout de la possibilité de supprimer automatiquement les numéros de page et le titre du texte lors de l'ouverture de fichiers PDF, et il se retrouve souvent immédiatement après et qui, lors de la lecture, est une nuisance aussi insistante qu'une pause.
+- Options supprimées pour conserver la taille du fichier PDF d'origine (pratiquement inutile, voire nuisible).
+- Ajout de l'option pour enregistrer automatiquement les paramètres toutes les 15 minutes (il peut être utile de sauvegarder le signe de point auquel vous êtes arrivé en lisant un texte en cas de panne de courant).
+- Maintenant la sélection automatique des mots pendant qu'ils sont parlés fonctionne parfaitement même si vous spécifiez d'utiliser une entrée différente pour le texte cité (jusqu'à présent, la ligne entière a été sélectionnée au lieu du mot unique).
+- DSpeech garde maintenant la mémoire d'état de la fenêtre (maximisée ou non) et la restaure au prochain redémarrage.
+- Maintenant, le "DO-LOOP" permet, si désiré, de limiter le nombre de boucles à la valeur désirée, par exemple, si vous voulez que le cycle soit répété 4 fois, écrivez "LOOP 4".
+- Ajout de l'option permettant de choisir le symbole ou l'ensemble de symboles qui précède les mots-clés en les reconnaissant comme tels (ce symbole est la passerelle par défaut).
+- Changements et de corrections mineurs.
+
+v. 1.58.5
+
+- Ajout du mot clé h.
+- Ajout du mot clé "TOP" qui place la fenêtre principale de DSpeech au premier plan.
+- Ajout d'un élément de menu, dans le menu Aide, visible uniquement avec le mode Expert activé, pour entrer des phrases prédéfinies, cela peut être utile pour les tests.
+- Le mot clé "STOP" est désormais pris en charge lors des conversions dans les fichiers audio.
+- Maintenant, l'image de l'annonceur est automatiquement redimensionnée en fonction de la taille de la boîte.
+- Changements et de corrections mineurs.
+
+v. 1.58.4
+
+- KeyWord ajouté "WAIT_ANYKEY" qui met le programme en attente d'appuyer sur une touche pour continuer la lecture.
+- Ajout KEYWORD « HIDE » et « SHOW » pour se cacher et réafficher la fenêtre principale du programme.
+- Ajout KEYWORD « TRANSPARENT utilisé pour effacer le texte de la boîte.
+- Ajout du mot clé "SHUTDOWN" pour éteindre l'ordinateur à la commande (à la fin de la lecture d'un texte).
+- Ajout du mot-clé "SELFDESTRUCT" pour supprimer l'exécutable DSpeech, le fichier ini et le fichier actuellement ouvert à la fin d'une reproduction de texte à partir du disque.
+- Ajout du KewWord "SELFDESTRUCT_AND_SHUTDOWN" qui agit comme une somme des deux premiers.
+- Ajout du mot clé "DEL" qui est utilisé pour supprimer un fichier donné ou un dossier avec tout son contenu (tel que le fichier texte qui vient d'être lu) du disque.
+- Ajout de la possibilité d'activer le mode avancé d'interface utilisateur qui permet d'ajouter des éléments de menu supplémentaires et de faire d'autres choses que les débutants cachent mieux, comme la possibilité d'enregistrer pendant la lecture audio.
+- Correction d'un bug qui empêchait la traduction de la fenêtre d'aide.
+- Changements et de corrections mineurs.
+
+v. 1.58.3
+
+- Éliminé un problème dans certaines voix (Loquendo avant tout) qui, face à certaines phrases ou combinaisons de mots, bloque la reproduction du texte et doit ensuite être redémarré manuellement.
+- Correction du bug qui empêchait le bon fonctionnement du mot clé "PLAY", probablement introduit par la version 1.58.
+- Changements et de corrections mineurs.
+
+v. 1.58.2
+
+- Ajout de la possibilité d'associer l'ouverture de DSpeech avec des extensions de texte gratuites et disponibles.
+- Vous pouvez maintenant activer le suivi même lorsque vous définissez une entrée personnalisée pour le texte entre guillemets.
+- Introduction de tables spécifiques à la conversion automatique des fichiers (par exemple, la table de conversion pour les fichiers ePub, avec cette option activée, applique automatiquement la table contenue dans le fichier lors de l'ouverture du fichier "ePUB.tab" si présent).
+- Divers correctifs et améliorations à l'Intelligence Artificielle et à l'Interface Utilisateur.
+- Changements mineurs.
+
+v. 1.58.1
+
+- Introduit la possibilité de mettre en pause la création d'un livre audio.
+- Changements et de corrections mineurs.
+
+v. 1.58
+
+- Correction d'un bug important qui empêchait la création de livres audio sur une certaine taille.
+- Maintenant, comme certains utilisateurs confondaient les fonctions, à moins que le mode avancé ne soit activé, les boutons de l'enregistreur de son et vice versa sont désactivés pendant la lecture du texte.
+- Ajouts et corrections mineurs.
+
+v. 1.57.9
+
+- Support des fichiers au format "xhtml".
+- Supporte les fichiers dans le format audio bien connu pour les livres audio "EPub" (expérimentaux).
+- Ajout d'une option pour conserver autant que possible le format physique original des fichiers PDF.
+- Maintenant, les boutons "Parler de la ligne précédente" et "Parler de la prochaine ligne" ne jouent pas seulement la ligne en question, mais continuent avec le suivant, ce qui est très utile car il permet d'avoir une fonction analogue à l'avant et à l'arrière lecteur multimédia rapide.
+- Ajout de deux nouvelles tables de conversion, l'une servant à supprimer la date et l'heure des conversations Skype afin qu'elles puissent jouer avec DSpeech en créant un dialogue entre les protagonistes du chat, l'autre sert à corriger les défauts dans les lettres accentuées ils se manifestent lors de l'ouverture d'un fichier Pdf ou EPub.
+- Ajouts et corrections mineurs.
+
+v. 1.57.8
+
+- Correction de quelques petits bugs introduits avec les dernières versions.
+- Maintenant, certaines icônes d'icônes sont cliquables et vous pouvez ensuite définir leurs options.
+- Ajout de la fonction "Quitter sans enregistrer les paramètres" pour terminer sans enregistrer les paramètres (utile lorsque vous expérimentez).
+- Système de menu amélioré et positionnement iconique.
+
+v. 1.57.7
+
+- Ajout d'une LED indiquant si le format audio sélectionné est le meilleur pour l'élément sélectionné.
+- Ajout de iconcodes qui indiquent l'activation de certaines options (telles que Mot-Clé).
+- Ajout d'une option pour afficher des informations complètes sur l'entrée sélectionnée.
+- Maintenant, l'élément de menu "Fermer" supprime le fichier en question des documents récents et supprime le signet.
+- Au lieu de cela, l'élément de menu "Nouveau" garde le document juste fermé.
+- Modifier et rendre les éléments de menu plus rationnels.
+- Suite à plusieurs demandes, l'icône d'origine est restaurée.
+- Corrections diverses.
+
+v. 1.57.6
+
+- Ajout d'une fonctionnalité qui vous permet de sélectionner automatiquement le plus bel objet parmi ceux disponibles.
+- Introduit une fonction qui vous permet de sélectionner le meilleur format audio pour la voix en cours d'utilisation.
+- Amélioration de la gestion des chemins, maintenant DSpeech se souvient de la position des derniers fichiers ouverts et enregistrés.
+- Ajout de la possibilité de forcer les règles grammaticales d'une langue donnée pour différentes entrées de langue qui supportent cette fonction (comme Loquendo).
+- Changé l'icône.
+- Corrections diverses.
+
+v. 1.57.5
+
+- Introduit une fonction qui enregistre le texte sélectionné en wav, mp3, etc.
+- Le bouton "Get Presse-Papier" est maintenant fermé.
+- Ajout de la possibilité d'exécuter le Presse-Papier en mode APPEND.
+- Améliorer et accélérer la fonction qui capture automatiquement le contenu du Presse-papiers.
+- Le temps DSpeech fonctionne également avec des résolutions inférieures à la résolution nominale (1024x768), mais avec un rendement esthétique mineur. Je vais pour les paramètres de taille de police (DPI).
+- Un oeuf de Pâques a été placé, maintenant aussi DSpeech en a un: écrivez "Dimio" et essayez de le jouer (habituellement pas des oeufs de Pâques, mais je sais bien que personne ne lira ici).
+- Correction (corriger, entre autres choses, le bug qui empêchait le redémarrage automatique après le changement de langue de l'interface).
+
+v. 1.57.4
+
+- Introduit une possibilité d'introduire une pause de durée variable entre la prononciation d'une ligne et la suivante.
+- Ajout de la possibilité de personnaliser, lors de la création de livres audio multi-volumes, les noms des volumes individuels, vous pouvez maintenant spécifier le titre en suivant le raccourci KeyWord, si rien n'est spécifié, le titre sera extrapolé du texte.
+- Dans la fenêtre "Remplacer", vous pouvez prévisualiser le nouveau mot ou la phrase que vous remplacez.
+- Maintenant, à la fin d'une série de substitutions, le nombre d'occurrences du terme remplacé est indiqué.
+- Ajout de la fonction Trouver tout pour vous permettre de savoir combien de fois un terme donné est utilisé dans le texte.
+- Beaucoup de corrections et correctifs (corriger, entre autres choses, le bug, introduit à ce qui semble être la version 1.57, qui a empêché le Pitch de se modifier).
+
+v. 1.57.3
+
+- Correction de la gestion des instances multiples, vous ne pouvez pas avoir plusieurs instances ouvertes en même temps (c'est une limite d'interface SAPI) mais l'ouverture ou la fermeture a été simplifiée et rationalisée.
+- Petites corrections et retouches.
+
+v. 1.57.2
+
+- Sélection des options simplifiée et améliorée (maintenant les options d'accessibilité et les changements de Shell sont fusionnés en un seul écran).
+- Amélioration de la gestion automatique des priorités; Maintenant, en attendant les ordres, la priorité reste normale, pendant la lecture, elle monte et descend pendant les conversions et les renflouements.
+- Améliorations et corrections diverses.
+
+v. 1.57.1
+
+- Ajouté "Revert" éléments de menu, pour restaurer à l'origine un texte qui a été modifié, et "Fermer".
+- Divers correctifs et petites améliorations de l'interface utilisateur.
+
+v. 1.57
+
+- Ajout de la fonctionnalité de documents récents.
+- Changement du fonctionnement des boutons principaux devenus plus pratiques et rationnels, maintenant "Speak" commence à lire à partir du point exact où se trouve le curseur, plus "Speak From Current Line" et "Speak From Start".
+- Introduit deux nouveaux boutons qui vous permettent de prononcer le mot suivant ou précédent à la fois, ils peuvent être appelés par Mot-Clé mais ne font pas partie du cycle TAB.
+- Ajout du support pour les contrôles à distance multimédia.
+- Insertion du nouveau TAG "\ Lang = xx", qui vous permet de prononcer le texte avec les règles de grammaire de la langue spécifiée, de sorte que vous pouvez, par exemple, lire un texte italien dans une entrée espagnole. Le résultat sera que, tout en maintenant l'accent espagnol, la voix parlera en italien. Cependant, il convient de noter que cela ne fonctionne pas avec toutes les entrées.
+- Introduction de nouveaux Mot-Clé pour l'enregistrement, la lecture et l'enregistrement audio.
+- En cliquant sur le personnage montrera une bande dessinée qui explique certaines fonctionnalités du logiciel.
+- Élimination de l'option permettant d'exécuter le logiciel en mode veille, la priorité sera maintenant automatiquement réduite si la fenêtre est réduite.
+- Les options "AutoBookmarks" et "AutoLoad Last Files as Startup" sont maintenant indépendantes les unes des autres.
+- Modifier les paramètres par défaut pour différentes options.
+- De nombreuses corrections et diverses améliorations.
+
+v. 1.56.5
+
+- Un système de cryptage de l'historique a été introduit pour que, en lisant le fichier INI, il ne soit pas possible de récupérer les fichiers ouverts lors de l'opération DSpeech.
+- Corrections minimales et diverses améliorations.
+
+v. 1.56.4
+
+- Correction d'un bug qui empêchait l'application correcte des tables de conversion.
+
+v. 1.56.3
+
+- Correction d'un bug qui rendait impossible l'enregistrement de fichiers audio avec des noms plus courts de trois caractères.
+- Amélioration de la disposition du menu et rendu certaines voix plus compréhensibles.
+- Vous pouvez maintenant ouvrir /convertir des pages Web directement à partir de la ligne de commande.
+- Remplace le signal audio de conversion finale généré par le haut-parleur interne par un signal audio généré par les haut-parleurs du système. Cela était nécessaire car le haut-parleur interne du SO 64 bits a été désactivé et ne fonctionne plus.
+- Correction et mise à niveau mineure.
+
+v. 1.56.2
+
+- Obtenez des menus plus rationnels et des options pour créer des livres audio.
+- Amélioration de la fonction pour supprimer les déplacements de tête erronés /inutiles.
+- Correction mineure.
+
+v. 1.56.1
+
+- Ajout de la possibilité d'enregistrer au format WMA.
+- Correction d'un bug qui empêchait la sélection correcte du périphérique d'entrée pour l'ASR.
+- Correction du bug Bookmarks qui les rendait inutilisables avec certaines méthodes d'ouverture de fichiers.
+- Améliorations dans la mise en page des éléments de menu.
+
+v. 1.56
+
+- Correction d'une défaite dans la conversion Ogg Vorbis.
+- Ajout de la possibilité d'enregistrer au format AAC Mp4.
+- Plug-In incorporé pour lire des fichiers PDF.
+- Correction mineure.
+
+v. 1.55.4
+
+- Activez l'option "Mot-Clé" qui vous permet de contrôler DSpeech via le clavier même s'il n'est pas au premier plan.
+
+v. 1.55.3
+
+- Correction de l'option "configuration d'éléments indépendants" (probablement introduite avec la version 1.55.2).
+
+v. 1.55.2
+
+- Ajout de l'option de ligne de commande "Speak" qui vous permet de prononcer directement une courte phrase sur le PC.
+- Maintenant, l'option ligne de commande / masqué permet à DSpeech de fonctionner en arrière-plan.
+- Ajout de l'option "HiddenFix" à utiliser à la place de "Hidden" s'il y a des problèmes avec les tags express des entrées Loquendo.
+- Correction mineure.
+
+v. 1.55.1
+
+- Correction d'un bug qui provoquait un plantage du programme en déverrouillant les pages Web hors ligne.
+- Autres corrections mineures.
+
+v. 1.55
+
+- Ajout de la possibilité de produire des fichiers audio compressés au format Ogg Vorbis (taille plus petite et meileure qualité que le MP3).
+- DSpeech est capable de stocker et de restaurer la position du curseur pour les derniers fichiers ouverts lors des ouvertures suivantes (fonction Auto Bookmarks).
+- Ajout de la possibilité d'appliquer une table de conversion spécifique à la volée.
+- Table de conversion de polices Dos-Windows améliorée et étendue (Merci à Alessandro Pannocchi).
+- Ajout d'une demande de confirmation à la fermeture du programme si le texte a été modifié.
+
+v. 1.54
+
+- Vous pouvez maintenant ouvrir et lire des liens Internet.
+- Les liens Internet ouverts peuvent être mémorisés.
+- DSpeech prend désormais en charge les flux RSS (expérimentaux) et peut les mettre à jour automatiquement toutes les 5 minutes (le nouveau flux ne sera lu que s'il est mis à jour).
+- Correction mineure.
+
+v. 1.53
+
+- La vitesse de conversion du mp3 est augmentée de 30%.
+- Insérer une minuterie pour chronométrer le temps de conversion.
+- Correction mineure.
+
+v. 1.52
+
+- Ajout de la possibilité de spécifier si les balises XML doivent être valides pour le texte suivant ou seulement pour la ligne en cours (par défaut).
+- Ajout de KeyWord "PLAYOVER" et "ENDPLAYOVER" qui vous permettent d'insérer une musique de fond (pour l'instant cela ne fonctionne pas avec les bannières).
+- Maintenant, le mot-clé "WAIT" fonctionne avec toutes les voix dans les sauvegardes wav /mp3.
+- Maintenant, lors de la création de livres audio, vous pouvez désactiver complètement la lecture du titre et du numéro de volume.
+- Correction mineure.
+
+v. 1.51
+
+- Ajout du support pour les fichiers RTF.
+- Ajout du support pour les fichiers HTM et HTML.
+- Ajout du support pour les fichiers PDF (Nécessite le "plug-in DSpeech PDF" installé).
+- Ajout du support pour les fichiers DOC MS Word (nécessite Word à installer).
+
+v. 1.50
+
+- Ajout de la possibilité d'effectuer des conversions personnalisées entre différents formats de texte, par exemple du format DOS au format Windows.
+- Il a considérablement accéléré l'option pour supprimer les reculs inappropriés.
+- Correction de quelques bugs mineurs.
+- Retouche de L'interface utilisateur.
+
+v. 1.49
+
+- Intégration d'une fonction de reconnaissance vocale qui vous permet de dicter du texte à votre ordinateur ou même de parler à l'intelligence artificielle en temps réel (malheureusement, l'IA est italien, alors que le moteur ASR de Microsoft est pour le moment en anglais), vous pouvez utiliser des produits tiers).
+
+v. 1.48
+
+- Ajout de la possibilité d'enregistrer de l'audio à partir du microphone et d'insérer le résultat dans la boîte de dialogue, de sorte que vous pouvez créer des mixages entre des voix réelles et synthétiques.
+- Ajout d'une fonctionnalité qui vous permet de discuter en temps réel avec une forme apparente de IA (intelligence artificielle).
+
+v. 1.47
+
+- Prise en charge accrue des entrées SAPI4, maintenant la plupart des options avancées disponibles uniquement pour les entrées SAPI5, telles que le système de création de dialogues ou les fonctions de création audio, sont maintenant disponibles pour ce type de voix.
+- Ajout d'une option qui vous permet d'utiliser une entrée différente de celle utilisée pour les boîtes de dialogue de devis.
+- Ajout d'une option permettant de spécifier si le titre d'un volume fractionné doit être au format: "Titre et Numéro" ou "Numéro et Titre".
+- Ajout de la possibilité d'intégrer DSpeech dans le menu contextuel d'Explorer.
+- Correction d'un bug qui, dans les longs textes, provoquait un mauvais positionnement de la lecture du début dans la chanson.
+- Autres corrections mineures.
+
+v. 1.46
+
+- Ajout du support pour la traduction d'interface multilingue.
+- Ajout de la possibilité d'intégrer dans le menu contextuel Windows.
+- Amélioration du support pour les entrées SAPI4.
+- Ajout de la possibilité de supprimer automatiquement les tâches directes non justifiées par ponctuation avant une conversion (sert à rationaliser l'analyse des documents numérisés).
+- Ajout du "Mode Parlant" qui vous permet d'avoir un retour audio chaque fois que vous changez le volume, la vitesse ou la hauteur au clavier.
+- Amélioration de la compatibilité et de la stabilité du programme.
+- Autres améliorations et corrections mineures.
+
+v. 1.45
+
+- Ajout du support (limité) aux entrées SAPI4.
+- Correction de quelques bugs dans la conversion en mp3 lors de la division en plusieurs fichiers.
+- Les TAG personnalisés peuvent maintenant être subdivisés en sous-menus.
+- Autres corrections mineures.
+
+v. 1.44
+
+- Complètement déconnecté entre les lignes pendant la lecture.
+- Maintenant dans les montages, vous pouvez également utiliser des fichiers mp3 ainsi que des fichiers wav.
+- Correction de quelques problèmes avec la fonctionnalité Word Wrap activée.
+- Ajout de la possibilité de spécifier la police et sa taille.
+
+v. 1.43
+
+- Ajout de l'option Fichier Ajouter pour ajouter un fichier en file d'attente à celui qui est actuellement ouvert, le KeyWord BREAK sera inséré entre les deux.
+- Ajout de la possibilité d'exécuter le programme avec la priorité d'inactivité.
+- Dans le fichier "CustomTAG.TXT", vous pouvez maintenant entrer des TAG personnalisés qui apparaîtront dans le menu contextuel (par exemple, les tags expressifs de Loquendo).
+- Maintenant, la fonctionnalité Remplacer vous permet également d'inclure les retours de bouchon.
+- Retouche de L'interface utilisateur.
+- Maintenant, même pendant la conversion mp3, la fenêtre reste sensible, et vous pouvez appuyer sur le bouton d'abandon pour arrêter le processus.
+- Amélioration de la compatibilité avec les lecteurs d'écran.
+- Ajout des boutons Prononcer la ligne précédente, Prononcer la ligne actuelle et Parler la ligne suivante pour obtenir la lecture de la position du curseur précédente, actuelle et suivante.
+- Ajout du support pour les mp3 TAG, pour augmenter la compatibilité avec certains lecteurs mp3.
+- Introduit plusieurs nouveaux raccourcis clavier.
+- Restyling de l'interface.
+- Ajout de la fonction Word Wrap (expérimentale).
+- Correction de quelques bugs.
+
+v. 1.42
+
+- La vitesse de conversion d'un texte en wav ou mp3 est grandement augmentée.
+- Correction du bug qui provoquait la distorsion audio avec les tags loquendo express dans les sauvegardes wav ou mp3.
+- Ajout de la possibilité de spécifier le format audio de sortie, utile si vous voulez intégrer un fichier wav en bitrate connu dans le produit fini.
+- Maintenant, pour ceux qui possèdent plus d'une carte son, vous pouvez spécifier où la sortie audio doit être redirigée.
+- Ajout de la possibilité d'entrer une pause de 300 millisecondes au début et à la fin de chaque fichier audio créé (utile pour augmenter la compatibilité avec les lecteurs CD et MP3).
+- Ajout de la possibilité de créer plusieurs fichiers par paragraphe. Maintenant, si vous définissez l'option de subdivision "Personnalisé", dans la sauvegarde, un nouveau fichier sera créé chaque fois que vous verrez le mot clé "REAK" q dans le texte.
+- Maintenant, si vous divisez le fichier de sortie en plusieurs fichiers, chacun commence par dire son nom et son numéro de fichier.
+- Toujours si vous utilisez des subdivisions de volume, ils sont tous enregistrés dans un dossier avec le nom du fichier que vous avez choisi.
+- Il est maintenant possible de configurer votre PC de sorte que, à la fin d'une conversion en wav ou en mp3, il arrête le système.
+- Ajout de la fonction de remplacement aux fonctions d'édition.
+- Amélioration de la compatibilité avec les lecteurs d'écran.
+- Ajout d'une option pour supprimer toutes les factures inutiles (utile pour améliorer la lecture des textes mal formatés).
+- Restyling d'interface.
+- Autres enfants mineurs.
+
+v. 1.41
+
+- Lecteur d'écran compatible avec les commandes Volume, Vitesse et Pitch.
+- Ajout de la possibilité de créer des livres audio divisés en fichiers tot-minute chacun.
+- Ajout de la commande FIND dans le menu d'édition.
+- Introduit la possibilité de spécifier le format de compression mp3 afin de prioriser la qualité, la taille ou l'équilibre.
+- Amélioration de la fonction de suivi.
+- Correction mineure.
+
+v. 1.40
+
+- Et qui se souvient le plus :-)

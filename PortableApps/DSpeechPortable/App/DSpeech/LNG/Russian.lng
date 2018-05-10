@@ -1,0 +1,573 @@
+# Peter Savin <99wonders@gmail.com>
+1 Selected
+2 Выделенное
+1 Abort
+2 Прервать
+1 About DSpeech
+2 О программе
+1 Accessibility options
+2 Настройки доступа 
+1 Verbose mode
+2 Произносить свойства речи
+1 Add initial and final silence
+2 Вставить тишину в начале и в конце
+1 Always save audio with max volume
+2 Всегда сохранять звук в полную громкость
+1 Append...
+2 Добавить...
+1 as
+2 как
+1 Audio Book creation
+2 Создание аудиокниги
+1 Audio format
+2 Формат звука
+1 Audio Output
+2 Аудиовыход
+1 Balanced
+2 Оптимальные размер и качество
+1 Break (Split output file here)
+2 Разрыв (здесь разбить выходной файл)
+1 Breath
+2 Вздох
+1 but if the text is very long, it can employ some minutes to accomplish. continue?
+2 если тескт очень большой, обработка может занять несколько минут. Продолжить?
+1 Call routine sample
+2 Шаблон отзыва на команду
+1 Clipboard Contents
+2 Содержание буфера обмена 
+1 Close
+2 Закрыть
+1 Close DSpeech
+2 Закрыть DSpeech
+1 Configure voices independently
+2 Настраивать голоса раздельно
+1 Copy
+2 Копировать
+1 Copy	CTRL+C
+2 Копировать	Ctrl + C
+1 Cough
+2 Кашель
+1 Speak Current Line 
+2 Текущую строку
+1 custom TAG
+2 Пользовательские метки
+1 Cut
+2 Вырезать
+1 Cut	CTRL+X
+2 Вырезать	Ctrl + X
+1 Delete 
+2 Удалить
+1 Delete	CANC
+2 Удалить	Del
+1 Edit
+2 Редактировать
+1 Emphasize
+2 Повысить тон
+1 Enable TAB key on text box
+2 Включить клавишу TAB в окне с текстом
+1 Encoding To Mp3...
+2 Идет преобразование в MP3...
+1 English (default)
+2 Английский (по умолчанию)
+1 English (GB)
+2 Английский (Великобритания)
+1 English (USA)
+2 Английский (США)
+1 Exit
+2 Выход
+1 File
+2 Файл
+1 Find	CTRL+F
+2 Найти	Ctrl + F
+1 Find
+2 Найти
+1 Fi&nd what:
+2 Найти
+1 &Find Next
+2 Дальше
+1 Match &case
+2 Учесть регистр
+1 Font Select
+2 Шрифт
+1 Font Select
+2 Шрифт
+1 Font Size
+2 Размер шрифта
+1 French
+2 Французский
+1 from here
+2 отсюда
+1 Fully custom (use BREAK keyword only)
+2 Особое (использовать #BREAK) 
+1 Go to edit box
+2 Перейти в окно с текстом
+1 Help
+2 Справка
+1 Insert
+2 Вставить
+1 Insert KEYWORD
+2 Вставить команду
+1 Insert custom TAG
+2 Вставить пользовательский тег
+1 Insert special TAG
+2 Вставить особый тег
+1 KEYWORD
+2 Команда 
+1 Laugh
+2 Смех
+1 Load last opened file at startup
+2 Загружать последний открытый файл при запуске
+1 New	Ctrl+W
+2 Новый	Ctrl + W 
+1 Speak Next Line
+2 Следующую
+1 No split
+2 Не разбивать на части
+1 On voice select speak country too
+2 При выборе голоса называть страну
+1 Open...	Ctrl+O
+2 Открыть...	Ctrl + O
+1 Open URL...	Ctrl+U
+2 Открыть ссылку...	Ctrl + U
+1 Open URL
+2 Открыть ссылку
+1 Type Url you want open...
+2 Введите ссылку для открытия:
+1 Open
+2 Открыть
+1 Optimize Quality
+2 Наилучшее качество
+1 Optimize Size
+2 Наименьший размер
+1 Options
+2 Настройки
+1 Options
+2 Настройки
+1 or
+2 или
+1 Other Countries
+2 Другие страны
+1 Paste
+2 Вставить
+1 Paste	CTRL+V
+2 Вставить	Ctrl + V
+1 Pause
+2 Пауза
+1 Pause
+2 Пауза
+1 Pitch
+2 Тон
+1 Pitch
+2 Тон
+1 Pitch (-10 to 10)
+2 Тон (от -10 до 10)
+1 Play wav or mp3 file...
+2 Воспроизвести WAV или MP3...
+1 Speak Current Line
+2 Текущую строку
+1 Speak Previous Line 
+2 Предыдущую
+1 Random sentencies sample
+2 Шаблон с произвольным текстом
+1 Recognition sample
+2 Шаблон распознавания речи 
+1 Recognition with timeout sample
+2 Распознавание речи с истечением времени
+1 Remove Useless CrLfs
+2 Elimina inutili ritorni a capo
+1 Удалить лишние возвраты каретки...
+2 Elimina ritorni a capo...
+1 Replace	CTRL+R 
+2 Заменить	Ctrl + R 
+1 Replace
+2 Заменить
+1 Re&place with:
+2 Заменить на:
+1 Replace &All
+2 Заменить все
+1 Run file...
+2 Открыть файл...
+1 Run with idle priority
+2 Запуск с низким приоритетом
+1 Auto Bookmarks
+2 Автоматические закладки
+1 Auto load last opened file at startup
+2 При запуске загружать последний открытый файл 
+1 Save text file as...	Ctrl+S
+2 Сохранить текстовый файл как...	Ctrl + S
+1 Save settings on exit
+2 Сохранять настройки при выходе
+1 Save text file
+2 Сохранить текстовый файл
+1 Save wav, mp3 or ogg as...	Ctrl+Shift+S
+2 Сохранить WAV, MP3 или OGG как...	Ctrl + Shift + S
+1 Saving to file
+2 Идет сохранение в файл...
+1 Select all
+2 Выбрать все
+1 Select All	CTRL+A
+2 Выбрать все	Ctrl + A
+1 Select mp3 compression
+2 Выбрать степень сжатия MP3
+1 Select SAPI interface 
+2 Выбрать программный интерфейс речевых приложений
+1 Shortcut List
+2 Сочетания клавиш 
+1 Show Character
+2 Персонаж
+1 &Internet Links
+2 Ссылки в Интернете
+1 Address:
+2 Адрес:
+1 Go
+2 ›››
+1 Add
+2 +
+1 Auto Re&load
+2 Перезагрузка
+1 Show Tracking
+2 Отслеживать чтение
+1 Silence
+2 Тишина
+1 Smack
+2 Чмок
+1 Spanish (Argentine)
+2 Испанский (Аргентина)
+1 Spanish (Chile)
+2 Испанский (Чили)
+1 Spanish (Mexico)
+2 Испанский (Мексика)
+1 Spanish (Spain)
+2 Испанский (Испания)
+1 German
+2 Немецкий
+1 Dutch
+2 Голландский
+1 Swedish
+2 Шведский
+1 Speak
+2 Читать
+1 Speak
+2 Читать
+1 Speak from here
+2 Читать отсюда
+1 Speak Clipboard Contents
+2 Прочитать буфер обмена 
+1 Speak From Cursor
+2 Читать от курсора
+1 Speak txt file...
+2 Прочитать текстовый файл...
+1 Speak selected
+2 Прочитать выделенное
+1 Speak-Stop
+2 Читать - Не читать
+1 special TAG
+2 Особый тег
+1 Speed
+2 Скорость
+1 Speed (-10 to 10)
+2 Скорость (от -10 до 10)
+1 Spell
+2 Читать по буквам
+1 Split wav and mp3 files
+2 Разбить файлы WAV и MP3
+1 Stop
+2 Стоп
+1 Stop speak
+2 Прекратить чтение
+1 Support With Donation...
+2 Поддержать проект...
+1 Swallow
+2 Глотание
+1 Switch to next voice
+2 Следующий голос
+1 Switch to previous voice
+2 Предыдущий голос
+1 This command removes all useless return carriage from text
+2 Эта команда удаляет все лишние возвраты каретки в тексте.
+1 Throat
+2 Горло
+1 to
+2 к
+1 txt file
+2 Файл TXT
+1 Use SAPI4 Voices
+2 Использовать голоса SAPI4
+1 Use SAPI5 Voices
+2 Использовать голоса SAPI5 
+1 Voice
+2 Голос
+1 Voice Select
+2 Голос
+1 Volume
+2 Громкость
+1 Volume (0 to 100)
+2 Громкость (от 0 до 100)
+1 Wait
+2 Ожидание
+1 Wait (1 to 10)
+2 Ожидание (от 1 до 10)
+1 When finish shutdown PC
+2 Выключить ПК по завершении
+1 When press Enter, read the line
+2 Чтение строки на Enter
+1 Word Wrap
+2 Переносить слова
+1 Shortcut List
+2 Сочетания клавиш
+1 Language selection
+2 Выбор языка
+1 Save audio file as...	Ctrl+Shift+S
+2 Сохранить аудиофайл как...	Ctrl + Shift + S
+1 Save text file as
+2 Сохранить текстовый файл как
+1 Save text file as...
+2 Сохранить текстовый файл как...
+1 Open file...
+2 Открыть файл
+1 Converting To Wav...
+2 Преобразование в WAV...
+1 Auto-remove inappropriate return carriages
+2 Автоудаление лишних возвратов каретки
+1 Auto-remove inappropriate return carriages (hard)
+2 Автоудаление лишних возвратов каретки (усиленное)
+1 Remove Inappropriate Return Carriages... 
+2 Удаление лишних возвратов каретки
+1 Remove inappropriate return carriages (hard)...
+2 Удаление лишних возвратов каретки (усиленное)
+1 already exists.
+2 уже существует.
+1 Do you want to replace it?
+2 Хотите заменить? 
+1 You need to restart for apply this changes. Restart now? 
+2 Для вступления в силу изменений требуется перезапуск программы. Перезапустить?
+1 This command removes all useless return carriage from text, but if the text is very long, it can employ some minutes to accomplish, continue? 
+2 Эта команда удаляет все лишние возвраты каретки из текста, но если текст большой, это может занять несколько минут. Продолжить?
+1 DSpeech requires at least 1024x768 resolution screen. 
+2 Минимальное разрешение экрана для программы DSpeech – 1024x768.
+1 DSpeech Remove Useless CrLfs
+2 Удалить лишние возвраты каретки
+1 Explorer integration...
+2 Встраивание в проводник...
+1 DSpeech Shell Extensions
+2 DSpeech в контекстном меню
+1 Context Menu Extensions
+2 Команды в контекстном меню
+1 DSpeech Open
+2 Открыть с DSpeech
+1 DSpeech Speak Aloud
+2 Прочитать с DSpeech
+1 DSpeech Convert To Wav
+2 Преобразовать в WAV с DSpeech
+1 DSpeech Convert To MP3
+2 Преобразовать в MP3 с DSpeech
+1 Cancel
+2 Отмена
+1 Convert To Mp3 With DSpeech
+2 Преобразовать в MP3 с DSpeech
+1 Open With DSpeech
+2 Открыть с DSpeech
+1 Speak With DSpeech
+2 Прочитать с DSpeech
+1 Convert To Wav With DSpeech
+2 Преобразовать в WAV с DSpeech
+1 Total Progress
+2 Всего обработано
+1 Conversion Progress
+2 Идет преобразование
+1 F1 = Go to edit box.
+F4 = Pause-Resume.
+F5 = Speak-Stop.
+F6 or ALT+UP = Speak Previous Line.
+F7 or ALT+LEFT = Speak Current Line.
+F8 or ALT+DOWN = Speak Next Line.
+F9 or ALT+RIGHT = Speak From Cursor.
+F11 = Switch to previous voice.
+F12 = Switch to next voice.
+F11+SHIFT = Switch to first voice.
+F12+SHIFT = Switch to last voice.
+ESC = Stop.
+
+ALT+1 = Decrease volume.
+ALT+2 = Increase volume.
+ALT+3 = Decrease speed.
+ALT+4 = Increase speed.
+ALT+5 = Decrease pitch.
+ALT+6 = Increase pitch.
+2 F1 = Переход в окно с текстом
+F4 = Остановить/продолжить
+F5 = Читать/не читать
+F6 или ALT + UP = Читать предыдущую строку
+F7 или ALT + LEFT = Читать текущую строку
+F8 или ALT + DOWN = Читать следующую строку
+F9 или ALT + RIGHT = Читать от курсора
+F11 = Предыдущий голос
+F12 = Следующий голос
+F11 + SHIFT = Первый голос
+F12 + SHIFT = Последний голос
+Esc = Стоп
+
+ALT + 1 = Уменьшить громкость
+ALT + 2 = Увеличить громкость
+ALT + 3 = Уменьшить скорость
+ALT + 4 = Увеличить скорость
+ALT + 5 = Понизить тон
+ALT + 6 = Повысить тон
+1 The text has changed, do you want to exit?
+2 Текст был изменен. Закрыть без сохранения?
+1 Open sound file
+2 Открыть аудиофайл
+1 Customize voice in quoted texts...
+2 Изменить голос в цитатах
+1 Voice for quoted texts
+2 Голос для цитат
+1 use different voice for Quoted Text
+2 Читать цитаты другим голосом
+1 Speak volume number first 
+2 Сначала произносить уровень звука
+1 Auto select voice-specific audio format 
+2 Автовыбор формата звука в соответствии с голосом
+1 Get Clipboard
+2 Достать из буфера
+1 Start Recording
+2 Начать запись
+1 Enable AI reply when press Enter
+2 Ответ персонажа на Enter 
+1 Set ASR options...
+2 Настроить распознавание речи...
+1 Select AI personality
+2 Выбрать персонаж
+1 Stop Recording
+2 Остановить запись
+1 Play Recorded
+2 Воспроизвести записанное
+1 Insert recorded
+2 Вставить записанное
+1 Start record
+2 Начать запись
+1 Stop Play
+2 Остановить воспроизведение
+1 Select Default Conversion Table
+2 Выбрать таблицу преобразований по умолчанию
+1 Dos to Windows
+2 Из DOS в Windows
+1 Apply Conversion Table...
+2 Применить таблицу преобразований...
+1 Apply Default Conversion Table
+2 Применить таблицу преобразований по умолчанию
+1 All supported formats (*.txt *.doc *.rtf *.html *.pdf)
+2 Все поддерживаемые файлы (*.txt *.doc *.rtf *.html *.pdf)
+1 DSpeech - Error 
+2 DSpeech - Ошибка
+1 If you want to open DOC files you must first install MS Word 
+2 Для открытия файлов DOC требуется установленный "MS Word"
+1 Remove Inappropriate Return Carriages
+2 Удалить лишние возвраты каретки 
+1 Remove Inappropriate Return Carriages (Hard) 
+2 Удалить лишние возвраты каретки (усиленно)
+1 Batch conversion...
+2 Пакетная обработка...
+1 Batch conversions accomplished. 
+2 файлов успешно обработано.
+1 Auto-Apply Default Conversion Table
+2 Автоматически применять таблицу умолчанию
+1 Record from microphone
+2 Запись с микрофона
+1 Commands
+2 Команды
+1 Extended Commands
+2 Прочитать
+1 Start ASR
+2 Разпознать речь
+1 TAGs validity for current line only 
+2 Включать теги только для текущей строки
+1 Speak volume title and volume number
+2 Произносить название и номер каждой части 
+1 Split Options
+2 Разбиение
+1 Speak volume number and volume title 
+2 Произносить номер и название каждой части
+1 Audio Book options...
+2 Настройки аудиокниг...
+1 Enable Hotkeys
+2 Включить сочетания клавиш
+1 Italian
+2 Итальянский
+1 Russian
+2 Русский
+1 Japanese
+2 Японский
+1 Korean
+2 Корейский
+1 Ukrainian
+2 Украинский
+1 Vietnamese
+2 Въетнамский
+1 5 Min
+2 5 минут
+1 10 Min
+2 10 минут
+1 20 Min
+2 20 минут
+1 30 Min
+2 30 минут
+1 Open Conversion Table...
+2 Открыть таблицу преобразований
+1 Save audio file as...
+2 Сохранить аудиофайл как...
+1 Audio Books Options
+2 Настройки аудиокниг
+1 Title and number
+2 Название и номер
+1 Remove return carriages
+2 Удалить возвраты каретки
+1 OK
+2 Готово
+1 DSpeech About
+2 О программе
+1 Support with a Donation
+2 Поддержать проект
+1 DSpeech Shell Extensions
+2 Встраивание программы в проводник
+1 This software is and will always remain free.
+If you are satisfied with them and want to help me to improve or motivate the development of other quality programs, any amount of donation small or large will be welcome and gratefully appreciated.
+
+Dimitrios Coutsoumbas (Dimio)
+2 Эта программа была, есть и всегда будет бесплатной. Если она вам нравится и вы желаете помочь мне ее усовершенствовать, а также сподвигнуть меня на создание других качественных программ, любой взнос, малый или большой, приветствуется и ценится.
+Dimitrios Coutsoumbas (Dimio)
+1 Speak-Stop (F5)
+2 Читать - Не читать (F5)
+1 Pause-Resume (F4)
+2 Пауза – продолжить (F4)
+1 Speak from cursor (F9)
+2 Читать от курсора (F9)
+1 Speak previous line (F6)
+2 Читать предыдущую строку (F6)
+1 Speak current line (F7)
+2 Читать текущую строку (F7)
+1 Speak next line (F8)
+2 Читать следующую строку (F8)
+1 Start Record From Microphone
+2 Начать запись с микрофона
+1 Get and speak the text that you copy on the Clipboard
+2 Достать и прочитать текст, скопированный в буфер обмена
+1 Save and insert recorded
+2 Сохранить и вставить записанное
+1 Select Split Options:
+2 Настройки разбиения:
+1 Select default conversion table:
+2 Выбрать таблицу преобразований по умолчанию
+1 Conversion table
+2 Таблица преобразований
+1 Spanish (Colombia)
+2 Испанский (Колумбия)
+1 Selena
+2 Селена
+1 e-mail:
+2 Почта	
+1 home page:
+2 Страница
+
+
+# От переводчика: если в переводе что-то не нравится или не работает, добавьте собственный перевод. Это не трудно сделать. 
+

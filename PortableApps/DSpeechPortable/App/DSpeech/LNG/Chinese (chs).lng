@@ -1,0 +1,531 @@
+#Hu Xue-feng <huxuefeng.cs@gmail.com>
+1 5 min
+2 5 分钟
+1 10 min
+2 10 分钟
+1 20 min
+2 20 分钟
+1 30 min
+2 30 分钟
+1 Abort
+2 放弃
+1 About DSpeech
+2 关于 DSpeech
+1 Accessibility options
+2 辅助功能选项
+1 Add
+2 新增
+1 Add initial and final silence
+2 在开始和结束时加入静音片段
+1 Address:
+2 网址:
+1 All supported formats (*.txt *.doc *.docx *.rtf *.html *.xml *.pdf)
+2 所有支持格式 (*.txt *.doc *.docx *.rtf *.html *.xml *.pdf)
+1 already exists.
+Do you want to replace it?
+2 已经存在。
+你要替换它吗?
+1 Always save audio with max volume
+2 默认以最大音量储存声音
+1 Append...
+2 添加/设置文件的搜索路径......
+1 as
+2 为
+1 Apply Conversion Table...
+2 应用转换表......
+1 Apply Default Conversion Table
+2 应用预设的转换表
+1 Audio Book creation
+2 创建有声书
+1 Auto Bookmarks
+2 自动加上书签
+1 Audio format
+2 声音格式
+1 Audio Output
+2 声音输出
+1 Auto-Apply Default Conversion Table
+2 自动套用转换表
+1 Auto Re&load
+2 自动重载(&L)
+1 Auto load last opened file at startup
+2 启动时自动打开上一次使用的文件
+1 Auto-remove inappropriate return carriages
+2 自动清除不恰当的换行标记
+1 Auto-remove inappropriate return carriages (hard)
+2 自动清除不恰当的强迫换行标记
+1 Auto select voice-specific audio format 
+2 自动选择特定语音的声音格式
+1 Balanced
+2 两者均衡
+1 Batch conversion...
+2 批量转换多个......
+1 Batch conversions accomplished. 
+2 批量转换完成
+1 Break (Split output file here)
+2 分割 (在这个位置将输出文件分割)
+1 Breath
+2 呼吸
+1 but if the text is very long, it can employ some minutes to accomplish. continue?
+2 但如果文本过长,可能需要数分钟才能完成, 要继续吗?
+1 Call routine sample
+2 启用样本
+1 Cancel
+2 取消
+1 Catalan
+2 西班牙加泰罗尼亚语
+1 Chinese
+2 中文
+1 Clipboard Contents
+2 剪贴板内容 
+1 Close
+2 关闭
+1 Close DSpeech
+2 关闭 Dspeech
+1 Commands
+2 命令
+1 Configure voices independently
+2 单独配置每个语音
+1 Context Menu Extensions
+2 建立程序快速菜单
+1 Copy
+2 复制
+1 Copy	CTRL+C
+2 复制	CTRL+C
+1 Converting To Wav...
+2 正在转换为 Wav 格式......
+1 Conversion Progress
+2 转换进度
+1 Convert To Mp3 With DSpeech
+2 用 DSpeech转换成 MP3 格式
+1 Convert To Wav With DSpeech
+2 用 DSpeech 转换成 Wav 格式
+1 Cough
+2 咳嗽
+1 custom TAG
+2 自定义标签
+1 Customize voice in quoted texts...
+2 自定义引用文字的语音......
+1 Cut
+2 剪贴
+1 Cut	CTRL+X
+2 剪贴	CTRL+X
+1 Delete
+2 删除
+1 Delete	CANC
+2 删除	CANC
+1 Dos to Windows
+2 Dos 模式切换至窗口模式
+1 DSpeech - Error 
+2 DSpeech - 程序发生错误 
+1 DSpeech Convert To MP3
+2 转换为 MP3 格式
+1 DSpeech Convert To Wav
+2 转换成 Wav 格式
+1 DSpeech Open
+2 DSpeech 开启
+1 DSpeech Remove Useless CrLfs
+2 DSpeech 会清除没有用的 CrLfs
+1 DSpeech requires at least 1024x768 resolution screen. 
+2 程序要求屏幕的分辨率设定最小要有1024x768 
+1 Dspeech Shell Extensions
+2 把 DSpeech 扩展至系统接口
+1 DSpeech Speak Aloud
+2 DSpeech 高声朗读
+1 Dutch
+2 荷兰语
+1 Edit
+2 编辑
+1 Emphasize
+2 强调
+1 Enable TAB key on text box
+2 在文本框可以使用 TAB 键
+1 Enable AI reply when press Enter
+2 启用按下输入键时的智能响应
+1 Encoding To Mp3...
+2 以 MP3 格式编码......
+1 English (default)
+2 英文 (默认值)
+1 English (GB)
+2 英式英文
+1 English (USA)
+2 美式英文
+1 Explorer integration...
+2 整合到系统接口......
+1 Exit
+2 退出
+1 Extended Commands
+2 扩展命令
+1 File
+2 文件
+1 Find	CTRL+F
+2 查找	CTRL+F
+1 Find
+2 查找
+1 Fi&nd what:
+2 查找内容:(&N)
+1 &Find Next
+2 查找下一个(&F)
+1 Font Select
+2 选择字体
+1 Font Size
+2 字号
+1 French
+2 法语
+1 from here
+2 从这里
+1 Fully custom (use BREAK keyword only)
+2 完全自定义 (只使用 BREAK 关键词)
+1 Get Clipboard
+2 使用剪贴板
+1 Go
+2 开始
+1 Go to edit box
+2 跳至编辑框
+1 German
+2 德语
+1 greek
+2 希腊语
+1 Help
+2 帮助
+1 If you want to open DOC files you must first install MS Word 
+2 如果你要开启 DOC 格式的文件, 必须先安装 Microsoft Word
+1 Insert
+2 插入
+1 Insert KEYWORD
+2 插入 关键词
+1 Insert custom TAG
+2 插入自定义标签
+1 Insert recorded
+2 插入刚录下的片段
+1 Insert special TAG
+2 插入特殊标签
+1 &Internet Links
+2 使用网络链接(&I)
+1 KEYWORD
+2 关键词
+1 Language selection
+2 语言选择
+1 Laugh
+2 笑声
+1 Match &case
+2 区分大小写(&C) 
+1 New	Ctrl+W
+2 建立新文件	Ctrl+W 
+1 No split
+2 没有分割
+1 On voice select speak country too
+2 语言所属的国家
+1 Open...	Ctrl+O
+2 打开......	Ctrl+O
+1 Open sound file
+2 打开声音文件
+1 Open URL...	Ctrl+U
+2 打开 URL 网址......	Ctrl+U
+1 Type Url you want open...
+2 请输入网址......
+1 OK
+2 确定
+1 Open
+2 打开
+1 Open file...
+2 打开文件...... 
+1 Open With DSpeech
+2 用 DSpeech 来打开 
+1 Optimize Quality
+2 较佳音质
+1 Optimize Size
+2 体积较小
+1 Options
+2 选项
+1 or
+2 或
+1 Other Countries
+2 其他国家
+1 Paste
+2 粘贴
+1 Paste	CTRL+V
+2 粘贴	CTRL+V
+1 Pause
+2 暂停
+1 Pitch
+2 音调
+1 Pitch (-10 to 10)
+2 音调 ( -10 至 10)
+1 Play Recorded
+2 播放刚录下的片段
+1 Play wav or mp3 file...
+2 播放 wav 或 mp3 文件......
+1 Random sentencies sample
+2 随机的语句样本
+1 Recognition sample
+2 语音识别样本
+1 Recognition with timeout sample
+2 有时间限制的语音识别样本
+1 Record from microphone
+2 用麦克风录音
+1 Remove Inappropriate Return Carriages
+2 清除不恰当的自动换行标记
+1 Remove Inappropriate Return Carriages (Hard) 
+2 清除不恰当的强迫换行标记
+1 Remove Inappropriate Return Carriages... 
+2 清除不恰当的换行标记......
+1 Remove inappropriate return carriages (hard)...
+2 清除不恰当的强迫换行标记......
+1 Remove Useless CrLfs
+2 清除没用的 CrLfs 标记
+1 Remove Useless Return Carriage...
+2 清除没用的段落换行标记
+1 Replace	CTRL+R
+2 替换	CTRL+R
+1 Replace
+2 替换
+1 Replace with:
+2 替换为:
+1 Replace &All
+2 全部替换 (&A) 
+1 Run file...
+2 运行文件......
+1 Run with idle priority
+2 以闲置优先方式运行
+1 Save audio file as...
+2 将声音文件另存为......
+1 Save settings on exit
+2 结束时自动储存设定值
+1 Save text file
+2 储存文本文件
+1 Save text file as
+2 将文本文件另存为
+1 Save text file as...
+2 将文本文件另存为......
+1 Save text file as...	Ctrl+S
+2 将文本文件另存为......	Ctrl+S
+1 Save wav or mp3 as...       Ctrl+Shift+S
+2 将 wav 或 mp3 文件另存为......  Ctrl+Shift+S
+1 Save wav, mp3 or ogg as...	Ctrl+Shift+S
+2 将wav, mp3 或 ogg 文件另存为......	Ctrl+Shift+S
+1 Saving to file
+2 正在保存文件
+1 Select AI personality
+2 选择人工智能的个性
+1 Selected
+2 已选取
+1 Select all
+2 全选
+1 Select all	Ctrl+A
+2 全选	Ctrl+A
+1 Select conversions table
+2 选择转换表
+1 Select Default Conversion Table
+2 选用预设的转换表
+1 Select mp3 compression
+2 选择 mp3 压缩规格
+1 Select SAPI interface 
+2 选择 SAPI 接口
+1 Set ASR options...
+2 设定语音识别选项......
+1 Shortcut List
+2 快捷方式列表
+1 F1 = Go to edit box.
+F4 = Pause-Resume.
+F5 = Speak-Stop.
+F6 or ALT+UP = Speak Previous Line.
+F7 or ALT+LEFT = Speak Current Line.
+F8 or ALT+DOWN = Speak Next Line.
+F9 or ALT+RIGHT = Speak From Cursor.
+F11 = Switch to previous voice.
+F12 = Switch to next voice.
+F11+SHIFT = Switch to first voice.
+F12+SHIFT = Switch to last voice.
+ESC = Stop.
+
+ALT+1 = Decrease volume.
+ALT+2 = Increase volume.
+ALT+3 = Decrease speed.
+ALT+4 = Increase speed.
+ALT+5 = Decrease pitch.
+ALT+6 = Increase pitch.
+2 F1 = 跳至编辑框.
+F4 = 暂停/恢复.
+F5 = 朗读/停止.
+F6 或 ALT+向上键 = 朗读前一行.
+F7 或 ALT+向左键 = 朗读当前行.
+F8 或 ALT+向下键 = 朗读下一行.
+F9 或 ALT+向右键 = 从光标开始朗读.
+F11 = 切换到前一个语音.
+F12 = 切换到后一个语音.
+F11+SHIFT = 切换到第一个语音.
+F12+SHIFT = 切换到最后一个语音.
+ESC = 停止.
+
+ALT+1 = 减低音量.
+ALT+2 = 提高音量.
+ALT+3 = 减慢朗读速度.
+ALT+4 = 加快朗读速度.
+ALT+5 = 降低音调.
+ALT+6 = 提升音调.
+1 Show Character
+2 显示人物
+1 Show Tracking
+2 显示轨迹
+1 Silence
+2 静音
+1 Smack
+2 唧咀
+1 Spanish (Argentine)
+2 西班牙语 (亚根廷)
+1 Spanish (Chile)
+2 西班牙语 (智利)
+1 Spanish (Mexico)
+2 西班牙语 (墨西哥)
+1 Spanish (Spain)
+2 西班牙语 (西班牙)
+1 Speak
+2 朗读
+1 Speak-Stop
+2 朗读/停止
+1 Speak Clipboard Contents
+2 朗读剪贴板的内容
+1 Speak Current Line
+2 朗读当前行
+1 Speak From Cursor
+2 从光标处开始朗读
+1 Speak from here
+2 从这里开始朗读
+1 Speak Next Line
+2 朗读下一行
+1 Speak Previous Line 
+2 朗读上一行
+1 Speak selected
+2 朗读已选取的文字
+1 Speak txt file...
+2 朗读纯文本文件......
+1 Speak volume title and volume number 
+2 朗读章节标题及编号
+1 Speak volume number and volume title 
+2 朗读章节编号及标题
+1 Speak volume number first 
+2 先朗读章节的编号
+1 Speak With DSpeech
+2 用 DSpeech 朗读
+1 special TAG
+2 特殊标签
+1 Speed
+2 速度
+1 Speed (-10 to 10)
+2 速度 (-10 至 10)
+1 Spell
+2 拼写
+1 Split Options
+2 分割设定
+1 Split wav and mp3 files
+2 分割 wav 及 mp3 文件
+1 Start ASR
+2 开始语音识别
+1 Start record
+2 开始录音
+1 Start Recording
+2 开始录音
+1 Stop
+2 停止
+1 Stop Play
+2 停止播放
+1 Stop Recording
+2 停止录音
+1 Stop speak
+2 停止朗读
+1 Support With Donation...
+2 用捐款来赞助......
+1 Swallow
+2 吞咽
+1 Swedish
+2 瑞典语
+1 Switch to next voice
+2 转换后一个人声
+1 Switch to previous voice
+2 转换前一个人声
+1 Throat
+2 喉咙音
+1 TAGs validity for current line only 
+2 卷标指令仅在本行有效
+1 The text has changed, do you want to exit?
+2 文本已经变更, 要离开吗?
+1 This command removes all useless return carriage from text, but if the text is very long, it can employ some minutes to accomplish, continue? 
+2 这项指令会将文章内所有的换行标记清除，但文本太长的话，需要花上数分钟来完成。要继续吗?
+1 to
+2 至
+1 Total Progress
+2 整体进度
+1 txt file
+2 文本文件
+1 use different voice for Quoted Text
+2 对引用的文字用不同人物的语音
+1 Use SAPI4 Voices
+2 使用 SAPI 4 语音引擎
+1 Use SAPI5 Voices
+2 使用 SAPI 5 语音引擎
+1 Verbose mode
+2 详尽模式
+1 Voice
+2 语音
+1 Voice for quoted texts
+2 对引用文字使用的语音
+1 Voice Select
+2 选择语音
+1 Volume
+2 音量
+1 Volume (0 to 100)
+2 音量(0 至 100)
+1 Wait
+2 等待
+1 Wait (1 to 10)
+2 等待 (由 1 至 10 )
+1 When finish shutdown PC
+2 完成后自动关闭计算机
+1 When press Enter, read the line
+2 当按下输入键时, 读出本行文字
+1 Word Wrap
+2 自动换行
+1 You need to restart for apply this changes. Restart now?
+2 如果要执行这项改动必须将程序重新启动，要立即重新启动吗?
+1 Chinese (chs)
+2 中文简体
+1 Chinese (cht)
+2 中文繁体
+1 Save audio file as...	Ctrl+Shift+S
+2 保存声音文件为...... 	Ctrl+Shift+S
+1 Audio Book options...
+2 有声书选项......
+1 Select compression level
+2 选择压缩级别
+1 Enable Hotkeys
+2 启用快捷键
+1 Select Split options:
+2 选择分割选项：
+1 Conversion table
+2 转换表
+1 Select default conversion table:
+2 选择默认转换表
+1 Remove return carriages
+2 移除回车符
+1 Title and number
+2 标题和编号
+1 Select Recognition Engine
+2 选择语音识别引擎
+1 Select Audio Input Device
+2 选择声音输入设备
+1 Open URL
+2 打开 URL 网址
+1 Open Conversion Table...
+2 打开转换表......
+1 Table Formats (*.tab)
+2 表格式 (*.tab)
+1 ASR Options
+2 自动语音识别选项
+1 Audio Books Options
+2 有声书选项
+1 Support with a Donation
+2 用捐款进行赞助
+1 DSpeech About
+2 关于 DSpeech
+1 Resume
+2 继续

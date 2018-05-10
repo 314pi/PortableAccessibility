@@ -1,0 +1,589 @@
+# Bonta László <bonta1hu@gmail.com>
+1 Ready
+2 Kész
+1 home page:
+2 honlap:
+1 Selected
+2 Kijelölve
+1 Abort
+2 Megszakít
+1 About DSpeech
+2 A DSpeech névjegye
+1 Accessibility options
+2 Kisegítõ beállítások
+1 Verbose mode
+2 Bõbeszédû mód
+1 Add initial and final silence
+2 Csend hozzáadása az elejéhez és a végéhez
+1 Always save audio with max volume
+2 Hang mentése mindig maximális hangerõvel
+1 Append...
+2 Hozzáfûzés...
+1 as
+2 mint
+1 Audio Book creation
+2 Hangoskönyv létrehozása
+1 Audio format
+2 Hangformátum
+1 Audio Output
+2 Hangkimenet
+1 Balanced
+2 Kiegyenlített
+1 Break (Split output file here)
+2 Megszakítás (kimeneti fájl szeletelése innen)
+1 Breath
+2 Lélegzet
+1 but if the text is very long, it can employ some minutes to accomplish. continue?
+2 De ha a szöveg nagyon hosszú, a mûvelet több percig is eltarthat. Folytassuk?
+1 Call routine sample
+2 Emlékezzen a rutinmintára
+1 Catalan
+2 Katalán
+1 Clipboard Contents
+2 Vágólap tartalma
+1 Close
+2 Bezárás
+1 Close DSpeech
+2 DSpeech bezárása
+1 Configure voices independently
+2 Hangfüggetlen beállítások
+1 Copy
+2 Másolás
+1 Copy	CTRL+C
+2 Másolás	CTRL+C
+1 Cough
+2 Köhögés
+1 Speak Current Line 
+2 Aktuális sor felolvasása
+1 custom TAG
+2 Egyéni eljárás
+1 Cut
+2 Kivágás
+1 Cut	CTRL+X
+2 Kivágás	CTRL+X
+1 Delete 
+2 Törlés
+1 Delete	CANC
+2 Törlés	DEL
+1 Edit
+2 Szerkesztés
+1 Emphasize
+2 Hangsúlyozás
+1 Enable TAB key on text box
+2 Fülek engedélyezése a szövegdobozon
+1 Encoding To Mp3...
+2 MP3 tömörítése folyamatban...
+1 Greek
+2 Görög
+1 English (default)
+2 Angol (alapértelmezett)
+1 English (GB)
+2 Angol (GB)
+1 English (USA)
+2 Angol (USA)
+1 Exit
+2 Kilépés
+1 File
+2 Fájl
+1 Find	CTRL+F
+2 Keresés	CTRL+F
+1 Find
+2 Keresés
+1 Fi&nd what:
+2 Mit keres:
+1 &Find Next
+2 Következõ keresése
+1 Match &case
+2 Kis- és nagybetûk megkülönböztetése
+1 Font Select
+2 Betûtípus kiválasztása
+1 Font Select
+2 Betûtípus kiválasztása
+1 Font Size
+2 Betûtípus mérete
+1 French
+2 Francia
+1 from here
+2 innen
+1 Fully custom (use BREAK keyword only)
+2 Teljesen egyéni (csak BREAK kulcsszót használjon)
+1 Go to edit box
+2 Ugrás a szövegdobozhoz
+1 Help
+2 Súgó
+1 Insert
+2 Beszúrás
+1 Insert KEYWORD
+2 Kulcsszó beszúrása
+1 Insert custom TAG
+2 Egyéni eljárás beszúrása
+1 Insert special TAG
+2 Speciális eljárás beszúrása
+1 KEYWORD
+2 Kulcsszó
+1 Laugh
+2 nevetés
+1 Load last opened file at startup
+2 Utoljára megnyitott fájl betöltése indításkor
+1 New	Ctrl+W
+2 Új	Ctrl+W 
+1 Speak Next Line
+2 Következõ sor felolvasása
+1 No split
+2 Nincs szeletelés
+1 On voice select speak country too
+2 A beszédhanghoz válasszon országot
+1 Open...	Ctrl+O
+2 Megnyitás...	Ctrl+O
+1 Open URL...	Ctrl+U
+2 URL cím megnyitása...	Ctrl+U
+1 Open URL
+2 URL cím megnyitása
+1 Type Url you want open...
+2 Adja meg a megnyitni kívánt URL címet...
+1 Open
+2 Megnyitás
+1 Optimize Quality
+2 Minõség optimalizálása
+1 Optimize Size
+2 Méret optimalizálása
+1 Options
+2 Beállítások
+1 Options
+2 Beállítások
+1 or
+2 vagy
+1 Other Countries
+2 Egyéb országok
+1 Paste
+2 Beillesztés
+1 Paste	CTRL+V
+2 Beillesztés	CTRL+V
+1 Pause
+2 Szünet
+1 Pause
+2 Szünet
+1 Pitch
+2 Hangmagasság
+1 Pitch
+2 Hangmagasság
+1 Pitch (-10 to 10)
+2 Hangmagasság (-10-tõl 10-ig)
+1 Play wav or mp3 file...
+2 wav vagy mp3 fájl lejátszása...
+1 Speak Current Line
+2 Aktuális sor felolvasása
+1 Speak Previous Line 
+2 Elõzõ sor felolvasása
+1 Random sentencies sample
+2 Véletlenszerû mondatok mintája
+1 Recognition sample
+2 Beszédfelismerés mintája
+1 Recognition with timeout sample
+2 Beszédfelismerés idõtúllépés mintával
+1 Remove Useless CrLfs
+2 Felesleges sortörések eltávolítása
+1 Remove Useless Return Carriage...
+2 Felesleges sortörések eltávolítása...
+1 Replace	CTRL+R 
+2 Csere	CTRL+R 
+1 Replace
+2 Csere
+1 Re&place with:
+2 Csere &erre:
+1 Replace &All
+2 Összes cseréje
+1 Run file...
+2 fájl futtatása...
+1 Run with idle priority
+2 Futtatás alacsony prioritással
+1 Auto Bookmarks
+2 Automatikus könyvjelzõk
+1 Auto load last opened file at startup
+2 Utoljára megnyitott fájl automatikus betöltése indításkor
+1 Save text file as...	Ctrl+S
+2 Szövegfájl mentése mint...	Ctrl+S
+1 Save audio file as...	Ctrl+Shift+S
+2 Hangfájl mentése mint...	Ctrl+Shift+S
+1 Save settings on exit
+2 Beállítások mentése kilépéskor
+1 Save text file
+2 Szövegfájl mentése
+1 Saving to file
+2 Mentés fájlba...
+1 Select all
+2 Összes kijelölése
+1 Select All	CTRL+A
+2 Összes kijelölése	CTRL+A
+1 Select mp3 compression
+2 MP3 tömörítés kiválasztása
+1 Select SAPI interface 
+2 SAPI felület kiválasztása
+1 Shortcut List
+2 Billentyûparancsok listája
+1 Show Character
+2 Karakter megjelenítése
+1 &Internet Links
+2 &Internet hivatkozások
+1 Address:
+2 Cím:
+1 Go
+2 Ugrás
+1 Add
+2 Hozzáad
+1 Auto Re&load
+2 Frissítés
+1 Show Tracking
+2 A kurzor követi az eredeti szöveget
+1 Silence
+2 csend
+1 Smack
+2 Csók hangja
+1 Spanish (Argentine)
+2 Spanyol (Argentín)
+1 Spanish (Chile)
+2 Spanyol (Csille)
+1 Spanish (Mexico)
+2 Spanyol (Mexikó)
+1 Spanish (Spain)
+2 Spanyol (Spanyol)
+1 German
+2 Német
+1 Dutch
+2 Holland
+1 Swedish
+2 Svéd
+1 Speak
+2 Olvasás
+1 Speak
+2 Olvasás
+1 Speak from here
+2 Olvasás innen
+1 Speak Clipboard Contents
+2 Vágólap tartalmának felolvasása
+1 Speak From Cursor
+2 Olvasás a kurzortól
+1 Speak txt file...
+2 Szövegfájl olvasása...
+1 Speak selected
+2 Kijelölt olvasása
+1 Speak-Stop
+2 Olvasás elindítása/leállítása
+1 special TAG
+2 Speciális eljárás
+1 Speed
+2 Sebesség
+1 Speed (-10 to 10)
+2 Sebesség (-10-tõl 10-ig)
+1 Spell
+2 Olvasás betûnként
+1 Split wav and mp3 files
+2 wav vagy mp3 fájlok szeletelése
+1 Stop
+2 Leállítás
+1 Stop speak
+2 Olvasás leállítása
+1 Support With Donation...
+2 Támogatás adományozással...
+1 Swallow
+2 Nyelés
+1 Switch to next voice
+2 Váltás a következõ hangra
+1 Switch to previous voice
+2 Váltás az elõzõ hangra
+1 This command removes all useless return carriage from text
+2 Ez a parancs eltávolítja az összes sortörést a szövegbõl!
+1 Throat
+2 Torokköszörülés
+1 to
+2 ->
+1 txt file
+2 Szövegfájl
+1 Use SAPI4 Voices
+2 SAPI4 hangok használata
+1 Use SAPI5 Voices
+2 SAPI5 hangok használata
+1 Voice
+2 Hang
+1 Voice Select
+2 Hang kiválasztása
+1 Volume
+2 Hangerõ
+1 Volume (0 to 100)
+2 Hangerõ (0-ától 100-ig)
+1 Wait
+2 Várakozás
+1 Wait (1 to 10)
+2 Várakozás (1-tõl 10-ig)
+1 When finish shutdown PC
+2 A számítógép kikapcsolása ha kész
+1 When press Enter, read the line
+2 Sor felolvasása enter lenyomásakor
+1 Word Wrap
+2 Automatikus szövegtördelés
+1 Shortcut List
+2 Billentyûparancsok listája
+1 Language selection
+2 Nyelvválasztás
+1 Save audio file as...
+2 Hangfájl mentése mint...
+1 Save text file as
+2 Szövegfájl mentése mint
+1 Save text file as...
+2 Szövegfájl mentése mint...
+1 Open file...
+2 Fájl megnyitása...
+1 Converting To Wav...
+2 wav konvertálása folyamatban...
+1 Auto-remove inappropriate return carriages
+2 Automatikusan törli a felesleges sortöréseket
+1 Auto-remove inappropriate return carriages (hard)
+2 Automatikusan törli a felesleges sortöréseket (haladó)
+1 Remove Inappropriate Return Carriages... 
+2 Felesleges sortörések törlése...
+1 Remove inappropriate return carriages (hard)...
+2 Felesleges sortörések törlése (haladó)...
+1 already exists.
+2 már létezik.
+Do you want to replace it?
+Felülírja?
+1 You need to restart for apply this changes. Restart now? 
+2 A változtatások életbelépéséhez újra kell indítani a programot. Újraindítja most?
+1 This command removes all useless return carriage from text, but if the text is very long, it can employ some minutes to accomplish, continue? 
+2 Ez a parancs törli a felesleges sortöréseket a szövegbõl, de ha a szöveg nagyon hosszú, akkor ez eltarthat néhány percig. Folytassuk?
+1 DSpeech requires at least 1024x768 resolution screen. 
+2 A DSpeech futtatásához legalább 1024x768 képernyõfelbontás szükséges.
+1 DSpeech Remove Useless CrLfs
+2 A DSpeech eltávolítja a szükségtelen sortöréseket
+1 Explorer integration...
+2 Integráció a Windows Intézõbe...
+1 DSpeech Shell Extensions
+2 DSpeech helyi menü kiegészítések
+1 Context Menu Extensions
+2 Helyi menü kiegészítések
+1 DSpeech Open
+2 DSpeech Megnyitása
+1 DSpeech Speak Aloud
+2 Hangos olvasás DSpeech-csel
+1 DSpeech Convert To Wav
+2 Konvertálás wav-ra DSpeech-csel
+1 DSpeech Convert To MP3
+2 Konvertálás mp3-ba DSpeech-csel
+1 Cancel
+2 Mégse
+1 Convert To Mp3 With DSpeech
+2 Konvertálás Mp3-ba DSpeech-csel
+1 Open With DSpeech
+2 Megnyitás DSpeech-csel
+1 Speak With DSpeech
+2 Olvasás DSpeech-csel
+1 Convert To Wav With DSpeech
+2 Konvertálás Wav-ra DSpeech-csel
+1 Total Progress
+2 Összes folyamat
+1 Conversion Progress
+2 Konvertálás folyamata
+1 F1 = Go to edit box.
+2 F1 = Ugrás a szövegdobozhoz
+F4 = Pause-Resume.
+F5 = Speak-Stop.
+F6 or ALT+UP = Speak Previous Line.
+F7 or ALT+LEFT = Speak Current Line.
+F8 or ALT+DOWN = Speak Next Line.
+F9 or ALT+RIGHT = Speak From Cursor.
+F11 = Switch to previous voice.
+F12 = Switch to next voice.
+F11+SHIFT = Switch to first voice.
+F12+SHIFT = Switch to last voice.
+ESC = Stop.
+
+ALT+1 = Decrease volume.
+ALT+2 = Increase volume.
+ALT+3 = Decrease speed.
+ALT+4 = Increase speed.
+ALT+5 = Decrease pitch.
+ALT+6 = Increase pitch.
+2 F1 = Ugrás a szövegdobozhoz.
+F4 = Szünet/folytatás.
+F5 = Olvasás elindítása/leállítása.
+F6 vagy alt+felfelé nyíl = Elõzõ sor felolvasása.
+F7 vagy alt+balra nyíl = Aktuális sor felolvasása.
+F8 vagy Alt+lefelé nyíl = Következõ sor felolvasása.
+F9 vagy alt+jobbra nyíl = Olvasás a kurzortól.
+F11 = Váltás elõzõ hangra.
+F12 = Váltás következõ hangra.
+Shift+F11 = Váltás az elsõ hangra.
+Shift+F12 = Váltás az utolsó hangra.
+Escape = Leállítás.
+
+ALT+1 = Hangerõ csökkentése.
+ALT+2 = Hangerõ növelése.
+ALT+3 = Sebesség csökkentése.
+ALT+4 = Sebesség növelése.
+ALT+5 = Hangmagasság csökkentése.
+ALT+6 = Hangmagasság növelése.
+
+1 The text has changed, do you want to exit?
+2 A szöveg megváltozott, ki szeretne lépni?
+1 Open sound file
+2 Hangfájl megnyitása
+1 Customize voice in quoted texts...
+2 Idézõjeles szöveg testreszabása...
+1 Voice for quoted texts
+2 Idézõjeles szöveg hangja
+1 use different voice for Quoted Text
+2 Különbözõ hangok használata az idézõjeles szövegekhez
+1 Speak volume number first 
+2 Kötetszám felolvasása a cím elõtt
+1 Auto select voice-specific audio format 
+2 Válassza ki az alapértelmezett bitrátát egyszeri belépéssel
+1 Get Clipboard
+2 Beillesztés vágólapról
+1 Start Recording
+2 Felvétel indítása
+1 Enable AI reply when press Enter
+2 Mesterséges intelligencia válasz engedélyezése mikor Entert nyom
+1 Set ASR options...
+2 Beszédfelismerés Beállítása...
+1 Select AI personality
+2 Válassza ki a mesterséges intelligencia személyiségét
+1 Stop Recording
+2 Felvétel leállítása
+1 Play Recorded
+2 Felvétel lejátszása
+1 Insert recorded
+2 Felvétel beszúrása
+1 Start record
+2 Felvétel elindítása
+1 Stop Play
+2 Lejátszás leállítása
+1 Select Default Conversion Table
+2 Válassza ki az alapértelmezett konverziós táblát
+1 Dos to Windows
+2 Dos-ról Windows-ra
+1 Apply Conversion Table...
+2 Konverziós tábla alkalmazása...
+1 Apply Default Conversion Table
+2 Alapértelmezett konverziós tábla alkalmazása
+1 All supported formats (*.txt *.doc *.rtf *.html *.pdf)
+2 Összes támogatott formátum (*.txt *.doc *.rtf *.html *.pdf)
+1 DSpeech - Error 
+2 DSpeech - Hiba 
+1 If you want to open DOC files you must first install MS Word 
+2 Ha DOC fájlokat szeretne megnyitni, akkor elõször telepítenie kell a MS Word megfelelõ verzióját
+1 Remove Inappropriate Return Carriages
+2 Törölje a felesleges sortörést
+1 Remove Inappropriate Return Carriages (Hard) 
+2 Törölje a felesleges sortörést (haladó)
+1 Batch conversion...
+2 Több konvertálása...
+1 Batch conversions accomplished. 
+2 A több konverzió elkészült.
+1 Auto-Apply Default Conversion Table
+2 Alapértelmezett konverziós tábla automatikus alkalmazása
+1 Record from microphone
+2 Felvétel mikrofonról
+1 Commands
+2 Vezérlõk
+1 Extended Commands
+2 Speciális vezérlõk
+1 Start ASR
+2 Beszédfelismerés
+1 TAGs validity for current line only 
+2 Eljárások érvényessége csak az aktuális sorra
+1 Speak volume title and volume number
+2 Kötet címének és kötet számának olvasása
+1 Split Options
+2 Szeletelési beállítások
+1 Speak volume number and volume title 
+2 Kötet számának és kötet címének olvasása
+1 Audio Book options...
+2 Hangoskönyv Beállítások...
+1 Audio Books Options
+2 Hangoskönyv Beállítások
+1 Conversion table
+2 Konverziós tábla
+1 Select default conversion table:
+2 Válassza ki az alapértelmezett konverziós táblát:
+1 Remove return carriages
+2 Sortörések eltávolítása
+1 Title and number
+2 Címek és számok
+1 Select Split options:
+2 Válassza ki a szeletelési lehetõséget:
+1 5.000 Characters (ca 5 Minutes)
+2 5000 karakter (körülbelül 5 perc)
+1 10.000 Characters (ca 10 Minutes)
+2 10000 karakter (körülbelül 10 perc)
+1 20.000 Characters (ca 20 Minutes)
+2 20000 karakter (körülbelül 20 perc)
+1 30.000 Characters (ca 30 Minutes)
+2 30000 karakter (körülbelül 30 perc)
+1 Enable Hotkeys
+2 Gyorsbillentyûk Engedélyezése
+1 Select compression level
+2 Válassza ki a tömörítési szintet
+1 Save audio file as...
+2 Hangfájl mentése mint...
+1 F1 = Go to edit box.
+F4 = Pause-Resume.
+F5 = Speak-Stop.
+F6 or ALT+UP = Speak Previous Line.
+F7 or ALT+LEFT = Speak Current Line.
+F8 or ALT+DOWN = Speak Next Line.
+F9 or ALT+RIGHT = Speak From Cursor.
+F11 = Switch to previous voice.
+F12 = Switch to next voice.
+F11+SHIFT = Switch to first voice.
+F12+SHIFT = Switch to last voice.
+ESC = Stop.
+
+ALT+1 = Decrease volume.
+ALT+2 = Increase volume.
+ALT+3 = Decrease speed.
+ALT+4 = Increase speed.
+ALT+5 = Decrease pitch.
+ALT+6 = Increase pitch.
+2 F1 = Ugrás a szövegdobozhoz.
+F4 = Szünet-folytatás.
+F5 = Olvasás-Leállítás.
+F6 vagy ALT + FEL = Elõzõ sor olvasása.
+F7 vagy ALT + BALRA = Aktuális sor olvasása.
+F8 vagy ALT + LE = Következõ sor olvasása.
+F9 vagy ALT + JOBBRA = Olvasás a kurzortól.
+F11 = Váltás az elõzõ hangra.
+F12 = Váltás a következõ hangra.
+F11 + SHIFT = Váltás az elsõ hangra.
+F12 + SHIFT = Váltás az utolsó hangra.
+Esc = Leállítás.
+
+ALT + 1 = Hangerõ csökkentése.
+ALT + 2 = Hangerõ növelése.
+ALT + 3 = Sebesség csökkentése.
+ALT + 4 = Sebesség növelése.
+ALT + 5 = Hangmagasság csökkentése.
+ALT + 6 = Hangmagasság növelése.
+1 Select the actually speaking word
+2 Válassza ki az egyes szavakhoz azt a pillanatot, amelyben hangsúlyos
+1 Programmed by Dimitrios Coutsoumbas (Dimio)
+2 Készítette Dimitrios Coutsoumbas (Dimio)
+1 DSpeech About
+2 A DSpeech névjegye
+1 Open Conversion Table...
+2 Konverziós tábla megnyitása...
+1 ASR Options
+2 ASR Beállítások
+1 Select Recognition Engine
+2 Válassza ki a beszédfelismerés motorját
+1 Select Audio Input Device
+2 Válassza ki a hangrögzítõ eszközt
+1 This software is and will always remain free.
+If you are satisfied with them and want to help me to improve or motivate the development of other quality programs, any amount of donation small or large will be welcome and gratefully appreciated.
+
+Dimitrios Coutsoumbas (Dimio)
+2 Ez a szoftver mindig ingyenes, és a jövõben az is fog maradni.
+Ha ön elégedett, és azt szeretné, hogy segítsen tökéletesíteni, vagy szeretné motiválni a fejlesztést más, jó programokra, bármilyen kis adományt szívesen fogadunk és nagyra értékeljük.
+
+Dimitrios Coutsoumbas (Dimio)
+1 Support with a Donation
+2 Támogatás adományozással

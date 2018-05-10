@@ -1,0 +1,258 @@
+DSpeech (por Dimio)
+~~~~~~~~~~~~~~~~~~
+
+A versão atualizada pode ser encontrada no seguinte link:
+
+Home: "http://dimio.altervista.org/"
+
+DESCRIÇÃO:
+~~~~~~~~~~~~
+
+O DSpeech é um programa de TTS (Text To Speech) com funcionalidade de ASR (Automatic Speech Recognition) integrada. E 'que está preparado para ler em voz alta o texto escrito e escolher as frases para Pronunciar de acordo com as respostas vocais do consumidor. É 'projetado especificamente para dar respostas de forma rápida
+Possúi as funções de maior utilidade prática que são necessárias para os programas deste tipo, Mantendo, entretanto, a limpeza do registo do computador e o consumo de recursos (não é Instalado, mas pode ser colocado no menu de contexto, mantendo uma leveza constante).
+
+As principais características do DSpeech são:
+
+1. Permite salvar a saída na forma de um arquivo Wav ou Mp3.
+2. Permite selecionar rapidamente vozes diferentes e combiná-las para criar diálogos entre as mesmas.
+3. Contém um sistema de reconhecimento vocal que, através de uma linguagem simples de script, permite criar Diálogos interativos com o consumidor (válido apenas para alguns idiomas).
+4. Permite configurar as vozes de forma independente.
+5. Através de etiquetas especiais, permite variar dinamicamente as características das vozes durante a reprodução (Velocidade, volume e frequência), para inserir quebras, enfatizar termos ou fazer a ortografia.
+6. Permite capturar e reproduzir automaticamente o conteúdo da área de transferência.
+7. Suporta todos os mecanismos vocais compatíveis com SAPI 4 e 5, possuindo, também, uma série de características secundárias, entre as quais se destacam:
+
+1. No arranque do programa, permite carregar automaticamente o último ficheiro aberto, indo directamente para a posição relativa de leitura onde o usuário tinha ficado.
+2. Suporta a linha de comando, permitindo ao usuárioa construção de livros em áudio, sem recurso à interface gráfica ou para outros fins.
+3. Permite especificar o formato da saída de áudio, o que pode ser útil em situações muito particulares, quando Existe a necessidade de operar com alguns arquivos wav de características definidas.
+4. Permite criar algumas montagens inserindo, através de palavras-chave especiais, alguns elementos nos arquivos wav ou mp3. Isso pode ser útil para apresentar, durante a leitura, os efeitos particulares como um golpe de tosse, riso ou Também do seu filme musical.
+5. Quando os mp3s são guardados, é possível especificar a qualidade dos mesmos, de forma a privilegiar as Dimensões ou a qualidade do resultado.
+6. Agora, é possível converter integralmente um texto em mp3 ou dividi-lo em ficheiros de 5, 10 ou 15 minutos cada.
+7. No ficheiro "CustomTAG.TXT", é possível inserir etiquetas personalizadas que aparecerão no Menu contextual (por exemplo, as tags expressivas de Loquendo).
+
+
+
+TEXTO PARA VOZ:
+~~~~~~~~~~~~~~~
+
+Através do menu contextual (clique direito) é possível especificar com qual das vozes deve ser lido uma frase, o que facilita a criação de diálogos entre diferentes vozes.
+Também é possível inserir etiquetas especiais que permitem modificar as características da voz, ao longo da leitura (velocidade, volume, freqüência etc).
+
+
+
+OPÇÕES DE ÁUDIO:
+~~~~~~~~~~~~~~
+
+É 'possível especificar a placa de  áudio, para redirecionar a saída e, acima de tudo, a taxa de bits das vozes Que estão a ser usadas. É conveniente tentar sempre usar a mesma taxa de bits das vozes em uso, caso contrário, poderá haver perdas De qualidade (como se a voz falasse com uma lata).
+Em geral, a performance usada pela maior parte das vozes sintéticas é: "16 Khz 16 Mono Bit",
+Enquanto as vozes da Microsoft usam "22 Khz 16 Mono Bit".
+Estas performances são particularmente importantes pois uma conversão pode influenciar os ficheiros Wav ou Mp3.
+
+
+
+CONVERSÃO EM FICHEIRO WAV OU MP3:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+É 'possível usar o DSpeech para a conversão do texto em um arquivo Wav ou Mp3. Se o formato mp3 for o escolhido, é dada a possibilidade de especificar as características da compressão, na verdade, pode ser configurado para privilegiar as dimensões, em detrimento da qualidade do áudio do arquivo produzido, ou para obter uma conversão equilibrada entre tamanho e qualidade.
+
+
+
+EDITAR O TEXTO:
+~~~~~~~~~~~~~~~~~~~~
+
+Para além das funções de edição padrão (encontrar, substituir, cortar etc.), este programa possui uma função particular, que permite "Remover os retornos inúteis". Serve para eliminar todos os retornos inúteis que estejam presentes no texto, os quais poderiam limitar a fluidez da leitura das vozes artificiais. Na verdade, muitas vezes os textos contêm retornos, quase desnecessários, que afectariam negativamente a leitura.
+
+
+CRIAÇÃO DE AUDIOLIVROS:
+~~~~~~~~~~~~~~~~~~~~~~~
+*/*
+O programa suporta Uma série de opções para a criação de audiolivros, de forma particular, a possibilidade de dividir O texto em vários ficheiros com diversas durações. Também é possível usar a subdivisão manual do texto em ficheiros. 
+Neste caso, é necessário inserir a palavra-chave #BREAK toda a vez que se deseja iniciar um novo ficheiro.
+Através do menu "Anexar" é possível unir mais ficheiros de texto, um depois do outro.
+Entre um e o outro, a palavra-chave, #BREAK,  de divisão será inserida #automaticamente para que permita a Subdivisão dos arquivos separados por texto.
+Também é possível inserir uma pausa no início do texto, de modo que seja mantida a compatibilidade com leitores de CD ou mp3 mais antigos.
+
+
+
+RECONHECIMENTO VOCAL:
+~~~~~~~~~~~~~~~~~~
+
+O DSpeech suporta um sistema de reconhecimento vocal que, unido a um simples sistema de scripts, lhe permite criar diálogos interativos com o utilizador do tipo:
+USUÁRIO: "Computador"
+PC: "Computador pronto, quem é?"
+USUÁRIO: "Dimio"
+PC: "Bem-vindo então"
+Etc.
+
+O sistema de scripts é muito semelhante ao do BASIC, por agora as seguintes palavras-chave são suportadas:
+
+Nota do tradutor:
+
+Dado que o sistema de reconhecimento de voz não é válido para o idioma português, optou-se por não proceder à tradução das palavras-chave. Caso o utilizador deseje saber quais são, só terá que recorrer ao manual (inglês ou italiano) para que delas possa ter conhecimento.
+
+No menu contextual (clique direito), é possível encontrar todas estas PALAVRAS-CHAVE com exemplos relativos.
+
+TECLAS DE ATALHO:
+~~~~~~~~~~
+
+Todas as funções da interface apresentam teclas de atalho
+F1 = Abre a ajuda
+F2 = Leva o foco para o texto
+F2 + CTRL = Ir para o botão "ler"
+F4 = Pausa-Continua.
+F5 = Ler-Parar.
+F6 = Ler a partir da linha anterior
+F7 = Ler a partir da linha corrente
+F8 = Ler a partir da próxima linha
+F9 = Ler desde o início
+F11 = Passar para a voz anterior
+F12 = Passar para a voz seguinte
+F11+SHIFT = Passar para a primeira voz
+F12+SHIFT = Passar para a última voz
+ESC = Parar.
+
+ALT+LEFT = Ler a linha corrente
+ALT+RIGHT = Ler a próxima linha
+ALT+UP = Ler a linha anterior
+ALT+DOWN = Ler a próxima linha
+
+ALT+1 = Diminuir o volume.
+ALT+2 = Aumentar o volume.
+ALT+3 = Diminuir a velocidade
+ALT+4 = Aumentar a velocidade
+ALT+5 = Diminuir a tonalidade
+ALT+6 = Aumentar a tonalidade
+
+CTRL+SHIFT+R = Iniciar/Parar a gravação
+CTRL+SHIFT+P = Tocar/Parar o que foi gravado
+CTRL+SHIFT+S = Guardar/inserir o que foi gravado
+
+ATALHOS INTELIGENTES:
+
+Space = Ler-Parar.
+Home = Ler a partir da linha corrente
+PgUp = Ler a partir da linha anterior
+PgDn = Ler a partir da linha seguinte
+
+COMANDOS DE VOZ:
+
+PLAY = Ler.
+SPEAK = Ler e activar os comandos de voz.
+STOP = Parar.
+PAUSE = Pausar.
+RESUME = Continuar.
+UP = Ler a partir da linha anterior
+DOWN = Ler a partir da próxima linha.
+START = Ler desde o início.
+DISABLE = Desactivar os comandos de voz.
+
+
+
+LINHA DE COMANDO:
+~~~~~~~~~~~~~
+
+É possível especificar um nome de arquivo para abrir e reproduzir automaticamente. Isso permite executar em automático, Como um script.
+
+
+SINTAXE:
+
+DSPEECH.ExE [/ Play] [/ Speak] [/ Wav] [/ Mp3] [/ Ogg] [/ Hidden | / HiddenFix] [FileToSpeech.txt]
+
+
+INSTRUÇÕES DE LINHA DE COMANDO:
+
+- Para abrir um ficheiro:
+
+DSpeech.exe source.txt
+
+- Para iniciar uma reprodução de ficheiros:
+
+DSpeech.exe / Play source.txt
+
+- ler em voz alta uma frase curta:
+
+DSpeech.exe / Speak Hello!
+
+- Para converter um ficheiro de texto em mp3:
+
+DSpeech.exe / mp3 source.txt [destination.mp3]
+
+- Para converter um ficheiro de texto para ogg:
+
+DSpeech.exe / ogg source.txt [destination.ogg]
+
+- Para converter um ficheiro de texto em wav:
+
+DSpeech.exe / wav source.txt [destination.wav]
+
+
+
+CONFIGURAÇÃO DO SISTEMA:
+~~~~~~~~~~~~~~~~~~~~
+
+Com o Windows NT / 2000, primeiro precisa instalar o pacote MSIC-SAPI5.1, que pode baixar da página da Microsoft ou Também de um dos seguintes links:
+
+Http://aldostools.mysite4now.com/sapi51.msi
+Http://www.arlington.com.au/sapi51.msi
+
+Com o Windows NT / 2000, se deseja usar o reconhecimento vocal, também precisa instalar o mecanismo para o reconhecimento; Isso pode ser feito a partir da página da microsoft, baixando o pacote completo, SAPI 5.1 SDKs (60MB), o qual, depois de instalado, é assumido pelo DSpeech. Também pode baixar o motor sozinho (30MB) A partir deste link:
+
+Http://clans.gameclubcentral.com/shoot/SR.zip
+
+O Windows XP / 2003 / VISTA não precisa de nada, pois estes mecanismos já se encontram incluídos nos idiomas que os suportam. 
+
+O DSpeech solicita uma resolução de ecrã de pelo menos 1024x768.
+O DSpeech não funciona nos sistemas Windows 9x.
+
+
+
+AS VOZES:
+~~~~~~~~~~~
+
+O DSpeech, usa as vozes instaladas no sistema, por padrão.
+ no Windows XP, existe apenas o Microsoft SAM (em Inglês.
+se o MS-SAPI5.1 estiver instalado no Windows NT / 2000, ficam disponíveis Duas vozes (Mike e Mary) também em inglês.
+Os utilizadores do XP podem descarregar aqui:
+
+Http://download.microsoft.com/download/speechSDK/SDK/5.1/WXP/EN-US/Sp5TTIntXP.exe
+
+Estas últimas vozes são melhores que o Sam, mas muito inferiores às vozes comercializadas pelas empresas
+
+Como vozes pagas, de melhor qualidade que as disponibilizadas de forma grátis, encontramos as seguintes:
+
+Acapela (vozes claras e inteligíveis, mas não o máximo em termos de naturalidade).
+Cepstral (apresentam uma qualidade razoável, mas os seus preços são os mais equilibrados)
+Loquendo (muito bom, especialmente em termos de naturalidade e expressividade, também apresentam preços elevados)
+RealSpeak (certamente bom).
+VoiceWare (Também não são muito ruins, mas não são italianos).
+Ivona (provavelmente o melhor).
+
+
+
+Notas:
+~~~~~~
+
+Quando um ficheiro de mp3 é inserido no texto, especialmente se tiver grandes dimensões, uma pequena pausa pode ser introduzida entre a Reprodução da linha anterior e a reprodução do ficheiro de áudio, isso é normal e não Constitui um erro, porém, quando se guarda o resultado no formato de arquivo wav ou mp3, a quebra Desaparece completamente.
+Para a compressão em mp3, o codec utilizado é o Blades (www.mp3dev.org), que corresponde ao arquivo "Lame.exe" incluído no pacote.
+
+
+
+CODERS:
+~~~~~~~
+Dimitrios Coutsoumbas (Dimio)
+SKYPE: katafratto
+ICQ: 145633952
+E-MAIL: cyberdimio@gmail.com
+HOME: http://dimio.altervista.org/
+
+
+BETA-TESTERS:
+~~~~~~~~~~~~~
+
+Talksina (talksina@gmail.com)
+
+TRADUTOR PORTUGUÊS:
+~~~~~~~~~~~~~
+Ângelo Miguel Abrantes
+angelomiguelabrantes@sapo.pt
+
+S. Domingos de Rana, 18:48 26-07-2017

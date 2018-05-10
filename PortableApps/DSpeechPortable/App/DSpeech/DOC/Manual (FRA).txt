@@ -1,0 +1,220 @@
+DSpeech (par Dimio)
+~~~~~~~~~~~~~~~~~~
+
+Le menu Aide permet de vérifier l'existance d'une nouvelle version.
+Il permet aussi d'accéder directement au site de Dimio via l'option Site Web
+
+Sinon, la dernière version est téléchargeable sur le lien suivant:
+
+Accueil: "http://dimio.altervista.org/"
+
+PRECISIONS:
+~~~~~~~~~~~
+
+Création: Michel SAVARD, à partir du fichier Manual (ENG).txt
+
+DESCRIPTION:
+~~~~~~~~~~~~
+
+DSpeech est un programme TTS (Du Texte à la Parole) avec la fonctionnalité ASR (Reconnaissance automatique de la parole) integrée. Et ce au point de lire à haute voix le texte écrit et de choisir les phrases à lire en accord avec les réponses vocales de l'utilisateur. Il est prévu pour fournir rapidement et directement des fonctions plus pratiques que celles requisent par des programmes de ce type, maintenant au plus bas l'invasivité et la consommation des ressources (il n'y a pas d'insatllation, il n'est pas intégré au système, il est léger, il s'installe rapidement et ne modifie pas le registre).
+
+Les caractéristiques principales de DSpeech sont:
+
+1. Il permet de sauvegarder le résultat dans un fichier Wav ou Mp3.
+2. Il est possible de combiner rapidement différentes voix et ainsi de créer un dialogue.
+3. Intégrant un système de Reconnaissance vocale qui, à travers un langage simple de SCRIPT, permet de créer des dialogues interactifs avec l'utilisateur.
+4. Il permet de modeler les voix de manière indépendante.
+5. A l'aide de BALISES spéciales, il permet de modifier dynamiquement les caractéristiques des voix pendant la reproduction (vitesse, volume et fréquence), d'insérer des pauses, d'accentuer des termes ou d'épeler des mots.
+6. Il permet de capturer et de reproduire automatiquement le contenu du presse-papier.
+7. Il supporte tous les synthétiseurs vocaux compatibles avec SAPI 4 et 5.
+
+Intégrant en outre une série de commandes secondaires, parmi lesquelles:
+
+1. Au lancement, il permet de charger automatiquement le dernier fichier ouvert avec la position relative de lecture.
+2. Il accepte des lignes de commande qui permettent, sans interface graphique, la création de livres audio.
+3. Il permet de choisir le format de sortie audio, ce qui est utile dans des situations particulières, quand il est nécessaire de travailler avec des fichiers WAV de caractéristiques précises.
+4. Il permet de créer des assemblages en insérant, à l'aide d'un mot-clé spécial, des fichiers wav ou mp3. Il peut être utile d'introduire, pendant la lecture, des effets spéciaux comme une quinte de toux, un rire, ou une musique externe.
+5. Lors de la sauvegarde des fichiers mp3, il est possible de spécifier les caractéristiques, en privilégiant la taille ou la qualité du réultat.
+6. Et maintenant il est possible de convertir un texte, en mp3 ou wav, en le découpant en fichiers de 5, 10 ou 15 minutes chacun.
+7. Dans le fichier "CustomTAG.TXT", il est possible d'ajouter des BALISES personnaliées qui apparaitront, ensuite, dans le menu contextuel (par exemple les expressions personnalisées de Loquendo).
+
+TEXT TO SPEECH:
+~~~~~~~~~~~~~~~
+A l'aide du menu contextuel (Clic Droit) il est possible de spécifier avec quelle voix doit être lue une phrase, ce qui rend possible la création de dialogues entre différentes voix.
+Il est également possible d'insérer des balises spéciales pour modifier les caractéristiques de la voix pendant la lecture (vitesse, volume, fréquence, etc).
+
+OPTIONS AUDIO:
+~~~~~~~~~~~~~~
+
+Il est possible de choisir la sortie audio vers laquelle rediriger le son et le débit des voix utilisées. Il est recommandé d'utiliser toujours le même débit pour les voix utilisées, dans le cas contraire, il pourrait se produire une perte de qualité dans le rendu de la voix.
+En général, le réglage utilisé par la majeure partie des voix de synthèse est: "16 Khz 16 Mono Bit", alors que les voix Microsoft utilisent "22 Khz 16 Mono Bit."
+Ces réglages sont particulièrement importants lors de la conversion en fichier Wav ou Mp3.
+
+CONVERSION EN FICHIER WAV OU MP3 et autres:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DSpeech peut aussi convertir un texte en fichier Wav ou Mp3. Si le format mp3 est choisi, il est possible de définir les caractéristiques de la compression, en fonction des réglages on peut privilégier la taille, la qualité audio du fichier produit, pour obtenir un résultat équilibré.
+
+EDITION DU TEXTE:
+~~~~~~~~~~~~~~~~~
+
+En plus des fonctions standards d'édition (trouver, remplacer, copier etc.) une fonction particulière est ajoutée, "Enlever les retours clavier inutiles." Cela permet de supprimer tous les espaces inutiles dans le texte qui pourrait ralentir la fluidité de la lecture avec des voix artificielles.
+
+CREATION DE LIVRES AUDIO:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Une série d'options est intégrée pour la création de livres audio, en ce sens, qu'il est possible de diviser le texte, en plusieurs fichiers de n minutes chaque. Il est possible d'utiliser une subdivision manuelle du texte en n fichiers. Dans ce cas, il est impératif d'insérer le mot-clé #BREAK pour créer un nouveau fichier.
+A partir du menu "Ajouter" il est possible de réunir plusieurs fichiers TXT, l'un à la suite de l'autre.
+Un mot-clé #BREAK est insérer automatiquement entre chaque fichier ajouté, ce qui permet la sous-division du texte en fichiers distincts.
+Il est possible d'insérer un #BREAK en début de texte, pour garder compatibilité avec les lecteurs CD ou les anciens lecteurs mp3.
+
+RECONNAISSANCE VOCALE:
+~~~~~~~~~~~~~~~~~~~~~~
+
+DSpeech intègre un système de reconnaissane vocale, qui lié à un système simple de script, le rend apte à créer un dialogue interactif avec l'utilisateur, du genre:
+UTILISATEUR: "Ordinateur"
+PC: "Ordinateur prêt, qui êtes vous? "
+UTILISATEUR: "Dimio"
+PC: "Alors, Bienvenue"
+Etc.
+
+Le système de script est semblable au langage BASIC, pour l'instant les mots-clé suivants sont reconnus:
+
+#VOICE Nom de la voix		exemple:	Microsoft Paul Mobile
+#I GIVE
+#EXIT DO
+#LOOP
+#RECOGNIZE Mot1, [Mot2], [OTHER_WORDS]...
+#RECOGNIZE_WITHTIMEOUT Seconde, Mot1, [Mot2], [OTHER_WORDS]...
+#IF RECOGNIZED Mot1, [Mot2], [OTHER_WORDS]...
+#IF TIMEOUT
+#END IF
+#CALL NomdelaroutineSub
+#SUB Nom de la routine
+#END SUB
+#RANDOM
+#HOUSES
+#END RANDOM
+#EXECUTE CheminAccèsProgramme
+#OPEN Texteàlire.txt
+#STOP
+#BREAK
+#PLAY Nomdufichier.wav
+#WAIT nSeconde
+#CLOSE
+
+Dans le menu contextuel (click droit) on a accès à tous les MOTS-CLÉ avec des exemples.
+Je n'explique pas la syntaxe, considérant qu'elle peut être déduite, intuitivement, à partir des exemples.
+Ci-dessous un exemple de script de reconnaissane vocale:
+
+#VOICE Marco
+Je suis Angelus, l'ordinateur de Dimitri. Qui es tu?
+#DO
+ #RECOGNIZE Dimitri, Gloria, OTHER_WORDS
+ #IF RECOGNIZED Dimitri
+  Angelus attend tes instructions.
+  #EXIT DO
+ #END IF 
+ #IF RECOGNIZED Gloria
+  Tu te trompes d'ordinateur, le tien est à côté.
+  #EXIT DO
+ #END IF 
+ #IF RECOGNIZED OTHER_WORDS
+  #RANDOM
+  #CASE
+   Peux tu répéter, s'il te plait? Je n'ai pas reconnu ton nom.
+  #CASE
+   Qu'as tu dit? Peux tu répéter?
+  #CASE
+   Je n'ai pas reconnu ton nom, peut être que je ne le connais pas!
+  #END RANDOM
+ #END IF 
+#LOOP
+
+RACCORSIS CLAVIER:
+~~~~~~~~~~~~~~~~~~
+
+Ils sont détaillés dans le menu AIDE sous-menu Aide DSpeech.
+ 
+LIGNE DE COMMANDE:
+~~~~~~~~~~~~~~~~~~
+
+Il est possible de préciser un nom de fichier à ouvrir et reproduire automatiquement. Ce qui permet d'exécuter un script automatiquement.
+
+SYNTAXE:
+
+DSPEECH.ExE [/Play] [/Speak] [/Wav] [/Mp3] [/Ogg] [/Hidden|/HiddenFix] [FileToSpeech.txt]
+
+
+EXEMPLES DE LIGNES DE COMMANDE:
+
+- Ouvrir un fichier:
+
+DSpeech.exe source.txt
+
+- Démarrer la lecture d'un fichier: 
+
+DSpeech.exe /Play source.txt
+
+- Lire à haute voix une phrase courte: 
+
+DSpeech.exe /Speak Hello!
+
+- Convertir un fichier texte en mp3: 
+
+DSpeech.exe /mp3 source.txt [destination.mp3]
+
+- Convertir un fichier texte en ogg:
+
+DSpeech.exe /ogg source.txt [destination.ogg]
+
+- Convertir un fichier texte en wav: 
+
+DSpeech.exe /wav source.txt [destination.wav]
+
+CONFIGURATION SYSTEME:
+~~~~~~~~~~~~~~~~~~~~~~
+
+Le paquet MS-SAPI5.1 peut être présent sur votre système. Il est téléchargeable sur le site Microsoft. 
+
+Vous pouvez le trouver sur d'autres sites.
+
+DSpeech nécessite une résolution, a minima, de 1024x768.
+
+Personnelement j'utilise les voix Microsft Paul Mobile et Microsoft Julie Mobile.
+
+LES VOIX:
+~~~~~~~~~
+
+DSpeech, utilise les voix existantes dans le système, par défaut.
+
+La qualité de ces voix est réellement en-deça de celle des voix des tierces parties (une différence énorme), c'est pourquoi il est conseillé de télécharger et installer ces voix concurrentes. Malheureusement les meilleures sont payantes, et ne peuvent pas être distribuées légalement. vous trouverez les meilleures voix chez les fabricants ci-dessous:
+
+Acapela (Voix claires et intelligibles mais pas des plus naturelles).
+Cepstral (Meilleur rapport qualité/prix, la qualité n'est pas du niveau des voix les plus chères, mais elles restent correctes).
+Loquendo (Très bonnes voix naturelles et expressives (beaucoup d'échos en Français), elles coûtent aussi très cher).
+RealSpeak (Assurément bon).
+VoiceWare (Ne sont pas mauvaises, mais il n'y a pas de voix italiennes).
+Ivona (Probablement le meilleur, mais le prix n'est pas donné).
+Voxygen (Les voix sont assez chères)
+
+Notes:
+~~~~~~
+
+Quand un fichier mp3 est insérer dans le texte, compte tenu de sa taille importante, une petite pause peut de produire entre la lecture de la ligne précédente et la lecture du fichier audio, ceci est normal et ne constitue pas un BUG, en tout cas, au moment de la création du fichier wav ou mp3, le  break disparait.
+
+Le codec Blades (www.mp3dev.org) est utilisé pour la compression MP3, il correspond au fichier "Lame.exe" inclus dans le paquet.
+
+CODEURS:
+~~~~~~~
+
+Dimitrios Coutsoumbas (Dimio)
+SKYPE  : katafratto
+ICQ    : 145633952
+E-MAIL : cyberdimio@gmail.com
+HOME   : http://dimio.altervista.org/
+
+BETA-TESTEURS:
+~~~~~~~~~~~~~
+
+Talksina (talksina@gmail.com)

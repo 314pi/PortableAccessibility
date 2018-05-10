@@ -1,0 +1,447 @@
+# Philip Deane <pd@globalinx-itc.com>
+1 Selected
+2 選択
+1 Abort
+2 中座、頓挫
+1 About DSpeech
+2 DSpeechについて
+1 Accessibility options
+2 便利なオプション
+1 Verbose mode
+2 冗長モード
+1 Add initial and final silence to wav or mp3
+2 最初と最後の空白部をwav又はmp3に変換する
+1 Always save audio with max volume
+2 常に音声は最大音量で保存する
+1 Append...
+2 追加
+1 as
+2 as
+1 Audio Book creation
+2 オーディオブック作成
+1 Audio format
+2 オーディオ形式
+1 Audio Output
+2 オーディオ出力
+1 Balanced
+2 バランス
+1 Break (Split output file here)
+2 分断（出力ファイルをここで分ける）
+1 Breath
+2 息
+1 but if the text is very long, it can employ some minutes to accomplish. continue?
+2 もしテキストがかなり長い場合には、完了するまでに数分間要します。続けますか？
+1 Call routine sample
+2 決まったサンプルを呼び出す
+1 Catalan
+2 カタルーニャ語
+1 Clipboard Contents
+2 クリップボードの内容 
+1 Close
+2 閉じる
+1 Close DSpeech
+2 DSpeechを閉じる
+1 Configure voices independently
+2 音声は個別に設定する
+1 Copy
+2 コピー
+1 Copy	CTRL+C
+2 コピー	CTRL+C
+1 Cough
+2 咳
+1 Speak Current Line 
+2 現在の行を読む
+1 custom TAG
+2 TAGのカスタム
+1 Cut
+2 切り取り
+1 Cut	CTRL+X
+2 切り取り	CTRL+X
+1 Delete 
+2 削除
+1 Delete	CANC
+2 削除	CANC
+1 Edit
+2 編集する
+1 Emphasize
+2 強調する
+1 Enable TAB key on text box
+2 テキストボックス上でTABキーを使用可能にする
+1 Encoding To Mp3...
+2 MP3へ暗号化
+1 greek
+2 ギリシア語
+1 English (GB)
+2 英語(英国)
+1 English (USA)
+2 英語(米国)
+1 Exit
+2 終了
+1 File
+2 ファイル
+1 Find	CTRL+F
+2 見つける	CTRL+F
+1 Font Select
+2 フォントの選択
+1 Font Select
+2 フォントの選択
+1 Font Size
+2 フォントのサイズ
+1 French
+2 フランス語
+1 from here
+2 ここから
+1 Fully custom (use BREAK keyword only)
+2 フルカスタム（BREAKキーワードのみ使用）
+1 Go to edit box
+2 編集ボックスへ
+1 Help
+2 ヘルプ
+1 Insert
+2 挿入
+1 Insert KEYWORD
+2 キーワードを挿入
+1 Insert custom TAG
+2 カスタムTAGを挿入
+1 Insert special TAG
+2 特別TAGを挿入
+1 KEYWORD
+2 キーワード
+1 Laugh
+2 笑う
+1 Load last opened file at startup
+2 最後に開いたファイルをスタートアップにロードする
+1 New	Ctrl+W
+2 新しい画面	Ctrl+W 
+1 Speak Next Line
+2 次の行を読む
+1 No split
+2 分けない
+1 On voice select speak country too
+2 選択された使用言語の声でも
+1 Open...	Ctrl+O
+2 開く	Ctrl+O
+1 Open
+2 開く
+1 Optimize Quality
+2 品質を最適化する
+1 Optimize Size
+2 サイズを最適化する
+1 Options
+2 オプション
+1 Options
+2 オプション
+1 or
+2 or
+1 Other Countries
+2 その他の国々
+1 Paste
+2 貼り付け
+1 Paste	CTRL+V
+2 貼り付け	CTRL+V
+1 Pause
+2 一時中断
+1 Pause
+2 一時中断
+1 Pitch
+2 ピッチ
+1 Pitch
+2 ピッチ
+1 Pitch (-10 to 10)
+2 ピッチ (-10 から 10)
+1 Play wav or mp3 file...
+2 wav 又は mp3ファイルを再生する
+1 Speak Current Line
+2 現在の行を読む
+1 Speak Previous Line 
+2 前の行を読む
+1 Random sentencies sample
+2 任意のサンプル文章
+1 Recognition sample
+2 サンプルの認識
+1 Recognition with timeout sample
+2 タイムアウトされたサンプルの認識
+1 Remove Useless CrLfs
+2 使えないCrLfsを移動する
+1 Remove Useless Return Carriage...
+2 不要な改行を削除する
+1 Replace	CTRL+R 
+2 置き換え	CTRL+R 
+1 Run file...
+2 ファイルの実行
+1 Run with idle priority
+2 無効なものから優先的に実行する
+1 Save text file as...	Ctrl+S
+2 テキストファイルに名前を付けて保存する	Ctrl+S
+1 Save settings on exit
+2 終了設定を保存する
+1 Save text file
+2 テキストファイルを保存する
+1 Save wav or mp3 as...	Ctrl+Shift+S
+2 wav 又は mp3 ファイルに名前を付けて保存する	Ctrl+Shift+S
+1 Saving to file
+2 ファイルに保存する
+1 Select all
+2 全て選択
+1 Select All	CTRL+A
+2 全て選択	CTRL+A
+1 Select mp3 format
+2 mp3形式を選択する
+1 Select SAPI interface 
+2 SAPIインターフェースを選択する
+1 Shortcut List
+2 ショートカットのリスト
+1 Show Character
+2 Show Character
+1 Show Tracking
+2 トラッキングを表示する
+1 Silence
+2 無言
+1 Smack
+2 持ち味
+1 Spanish (Argentine)
+2 スペイン語 (アルゼンチン)
+1 Spanish (Chile)
+2 スペイン語 (チリ)
+1 Spanish (Mexico)
+2 スペイン語 (メキシコ)
+1 Spanish (Spain)
+2 スペイン語(スペイン)
+1 German
+2 ドイツ語
+1 Dutch
+2 オランダ語
+1 Swedish
+2 スウェーデン語
+1 Speak
+2 話す
+1 Speak
+2 話す
+1 Speak from here
+2 ここから話す
+1 Speak Clipboard Contents
+2 クリップボードの中身を話す
+1 Speak From Cursor
+2 カーソルの個所から話す
+1 Speak txt file...
+2 テキストファイルを話す
+1 Speak selected
+2 選択されたところを話す
+1 Speak-Stop
+2 話すー終える
+1 special TAG
+2 特別TAG
+1 Speed
+2 スピード
+1 Speed (-10 to 10)
+2 スピード (-10 から 10)
+1 Spell
+2 スペル
+1 Split wav and mp3 files
+2 wav と mp3ファイルを分ける
+1 Stop
+2 終える
+1 Stop speak
+2 話を終える 
+1 Support With Donation...
+2 寄付によるサポート
+1 Swallow
+2 つばをのむ
+1 Switch to next voice
+2 次の声にスィッチする
+1 Switch to previous voice
+2 前の声にスィッチする
+1 This command removes all useless return carriage from text
+2 このコマンドで不要な改行を削除します
+1 Throat
+2 のど
+1 to
+2 to
+1 txt file
+2 テキストファイル
+1 Use SAPI4 Voices
+2 SAPI4音声を使う
+1 Use SAPI5 Voices
+2 SAPI5音声を使う
+1 Voice
+2 音声
+1 Voice Select
+2 音声選択
+1 Volume
+2 音量
+1 Volume (0 to 100)
+2 音量 (0 から 100)
+1 Wait (1 to 10)
+2 待機 (1 から 10)
+1 When finish shutdown PC
+2 PCのシャットダウンを終われせる時
+1 When press Enter, read the line
+2 Enterキーを押して、行を読んでください
+1 Word Wrap
+2 ワード形式で表示
+1 Shortcut List
+2 ショートカットのリスト
+1 Language selection
+2 言語の選択
+1 Save audio file as...
+2 音声に名前をつけて保存する
+1 Save text file as
+2 テキストファイルに名前をつけて保存する
+1 Save text file as...
+2 テキストファイルに名前をつけて保存する
+1 Open file...
+2 ファイルを開く
+1 Converting To Wav...
+2 Wavに変換する.
+1 Auto-remove inappropriate return carriages
+2 不適切改行の自動削除
+1 Auto-remove inappropriate return carriages (hard)
+2 不適切改行の自動削除（ハード）
+1 Remove Inappropriate Return Carriages... 
+2 不適切改行の削除
+1 Remove inappropriate return carriages (hard)...
+2 不適切改行の削除（ハード）
+1 already exists.
+Do you want to replace it?
+2 既に存在します
+置き換えますか？
+1 You need to restart for apply this changes. Restart now? 
+2 この変更を有効にするために再起動が必要です。今すぐ再起動しますか？
+1 This command removes all useless return carriage from text, but if the text is very long, it can employ some minutes to accomplish, continue? 
+2  このコマンドでテキストからの不要な改行を削除できますが、もしテキストが長い場合には、完了するまでに数分間要します。続けますか？
+1 DSpeech requires at least 1024x768 resolution screen. 
+2 DSpeech では最低 1024x768の解像度を有するスクリーンが必要です
+1 DSpeech Remove Useless CrLfs
+2 DSpeech は不用なCrLfsを削除します
+1 Explorer integration...
+2 Explorerの統合
+1 DSpeech Shell Extensions
+2 DSpeech シェル拡張子
+1 Context Menu Extensions
+2 コンテキストメニュー拡張子
+1 DSpeech Open
+2 DSpeechを開く
+1 DSpeech Speak Aloud
+2 DSpeechははっきりと口にだして話します
+1 DSpeech Convert To Wav
+2 DSpeechはWavに変換します
+1 DSpeech Convert To MP3
+2 DSpeechはMP3に変換します
+1 Cancel
+2 キャンセル
+1 Convert To Mp3 With DSpeech
+2 DSpeechでMp3に変換する
+1 Open With DSpeech
+2 DSpeechで開く
+1 Speak With DSpeech
+2 DSpeechで話す
+1 Convert To Wav With DSpeech
+2 DSpeechでWavに変換する
+1 Total Progress
+2 全体の進行
+1 Conversion Progress
+2 変換の進行
+1 F1 = Go to edit box.
+F4 = Pause-Resume.
+F5 = Speak-Stop.
+F6 or ALT+UP = Speak Previous Line.
+F7 or ALT+LEFT = Speak Current Line.
+F8 or ALT+DOWN = Speak Next Line.
+F9 or ALT+RIGHT = Speak From Cursor.
+F11 = Switch to previous voice.
+F12 = Switch to next voice.
+F11+SHIFT = Switch to first voice.
+F12+SHIFT = Switch to last voice.
+ESC = Stop.
+
+ALT+1 = Decrease volume.
+ALT+2 = Increase volume.
+ALT+3 = Decrease speed.
+ALT+4 = Increase speed.
+ALT+5 = Decrease pitch.
+ALT+6 = Increase pitch.
+2 F1 = 編集ボックスへ
+F4 = 休止/再会
+F5 = 話す/停止
+F6 又は ALT+UP = 前の行を読む
+F7 又はALT+LEFT =現在の行を読む 
+F8 又はALT+DOWN= 次の行を読む
+F9 又はALT+RIGHT = カーソル位置から読む
+F11 = 前の声にスィッチする
+F12 = 次の声にスィッチする
+Shift+F11 = 最初の声にスィッチする
+Shift+F12 = 最後の声にスィッチする
+ESC = 停止
+
+ALT+1 = 音量を下げる
+ALT+2 = 音量を上げる
+ALT+3 = スピードを下げる
+ALT+4 = スピードを上げる
+ALT+5 = ピッチを下げる
+ALT+6 = ピッチを上げる
+1 Open sound file
+2 音声ファイルを開く
+1 Customize voice in quoted texts...
+2 引用されたテキストで声をカスタマイズする
+1 Voice for quoted texts
+2 引用されたテキストの声
+1 use different voice for Quoted Text
+2 引用されたテキストで別の声を使う
+1 Speak volume number first 
+2 最初にボリュームナンバーを言ってください
+1 Auto select voice-specific audio format 
+2 自動選択音/ 特殊音声形式
+1 Get Clipboard
+2 Get Clipboard
+1 Start Recording
+2 録音を開始する
+1 Enable AI reply when press Enter
+2 Enterキーを押すとAIが返答することができます
+1 Set ASR options...
+2 ASRオプションを設定する.
+1 Select AI personality
+2 AIの性格を選択する
+1 Stop Recording
+2 録音を停止する
+1 Play Recorded
+2 録音を再生する
+1 Insert recorded
+2 録音を挿入する
+1 Start record
+2 録音を開始する
+1 Stop Play
+2 再生を停止する
+1 Select conversions table
+2 変換表を選択する
+1 Dos to Windows
+2 DOSからWindowsへ
+1 Apply conversions table
+2 変換表を適用する
+1 All supported formats (*.txt *.doc *.rtf *.html *.pdf)
+2 全ての補助フォーマット (*.txt *.doc *.rtf *.html *.pdf)
+1 DSpeech - Error 
+2 DSpeech - エラー 
+1 If you want to open DOC files you must first install MS Word 
+2 Docファイルを開く場合には、MS Word がインストールされていなければなりません
+1 Remove Inappropriate Return Carriages
+2 不要な改行を削除する
+1 Remove Inappropriate Return Carriages (Hard) 
+2 不要な改行を削除する（ハード）
+1 Batch conversion...
+2 一括変換処理
+1 Batch conversions accomplished. 
+2 一括変換処理の完了
+1 auto-apply conversions table
+2 auto-apply conversions table
+1 Record from microphone
+2 マイクロフォンからの録音
+1 Commands
+2 コマンド
+1 Start ASR
+2 Start ASR
+1 TAGs validity for current line only 
+2 TAGは現在の行のみ有効
+1 Speak volume title and volume number 
+2 音量タイトルとナンバーを読んでください
+1 Speak volume number and volume title 
+2 音量ナンバーとタイトルを読んでください
